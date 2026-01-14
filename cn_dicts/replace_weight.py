@@ -1,7 +1,7 @@
 import os
 import datetime
 import re
-from typing import Dict, List, Tuple, Optional, Any
+from typing import Dict, List, Tuple, Optional
 
 
 def detect_column_types(data_lines: List[Tuple[int, str, str]]) -> Dict[int, str]:
@@ -30,13 +30,13 @@ def detect_column_types(data_lines: List[Tuple[int, str, str]]) -> Dict[int, str
                 cell_types.append("unknown")
                 continue
 
-            # 检查是否为权重（整数）
-            if re.fullmatch(r'-?\d+', cell):
+            # 检查是否为权重（正整数）
+            if re.fullmatch(r'\d+', cell):
                 cell_types.append("weight")
-            # 检查是否为编码/拼音（全小写字母）
-            elif re.fullmatch(r'[a-z]+', cell):
+            # 检查是否为编码/拼音（全小写字母，可以有空格）
+            elif re.fullmatch(r'[a-z\s]+', cell) and re.search(r'[a-z]', cell):
                 cell_types.append("code")
-            # 其他情况都认为是词组
+            # 其他情况都认为是词组（汉字、字母、数字、符号的组合）
             else:
                 cell_types.append("phrase")
 
@@ -92,13 +92,13 @@ def analyze_row_pattern(parts: List[str]) -> Dict[int, str]:
             cell_types[i] = "unknown"
             continue
 
-        # 检查是否为权重（整数）
-        if re.fullmatch(r'-?\d+', cell):
+        # 检查是否为权重（正整数）
+        if re.fullmatch(r'\d+', cell):
             cell_types[i] = "weight"
-        # 检查是否为编码/拼音（全小写字母）
-        elif re.fullmatch(r'[a-z]+', cell):
+        # 检查是否为编码/拼音（全小写字母，可以有空格）
+        elif re.fullmatch(r'[a-z\s]+', cell) and re.search(r'[a-z]', cell):
             cell_types[i] = "code"
-        # 其他情况都认为是词组
+        # 其他情况都认为是词组（汉字、字母、数字、符号的组合）
         else:
             cell_types[i] = "phrase"
 
@@ -121,15 +121,20 @@ def validate_row_by_column_types(parts: List[str], column_types: Dict[int, str])
             continue
 
         if col_type == "weight":
-            if not re.fullmatch(r'-?\d+', cell):
-                errors.append(f"权重列不是整数: '{cell}'")
+            # 权重列必须是正整数
+            if not re.fullmatch(r'\d+', cell):
+                errors.append(f"权重列不是正整数: '{cell}'")
         elif col_type == "code":
-            if not re.fullmatch(r'[a-z]+', cell):
-                errors.append(f"编码/拼音列不是小写英文字母: '{cell}'")
+            # 编码列必须是全小写字母，可以有空格
+            if not re.fullmatch(r'[a-z\s]+', cell) or not re.search(r'[a-z]', cell):
+                errors.append(f"编码/拼音列不是小写英文字母（可包含空格）: '{cell}'")
         elif col_type == "phrase":
             # 词组只需要非空即可
             if not cell.strip():
                 errors.append(f"词组列为空")
+        elif col_type == "unknown":
+            # 未知列类型，跳过验证
+            pass
 
     return errors
 
@@ -165,11 +170,26 @@ def find_columns_by_type_for_row(
             elif cell_type == "weight" and weight_col is None:
                 weight_col = col_idx
 
+    # 如果仍然找不到，使用启发式方法
+    if phrase_col is None:
+        for col_idx, cell in enumerate(parts):
+            cell = cell.strip()
+            if cell and re.search(r'[\u4e00-\u9fff]', cell):
+                phrase_col = col_idx
+                break
+
+    if weight_col is None:
+        for col_idx, cell in enumerate(parts):
+            cell = cell.strip()
+            if cell and re.fullmatch(r'\d+', cell):
+                weight_col = col_idx
+                break
+
     return phrase_col, weight_col
 
 
 def load_file_with_column_detection(file_path: str) -> Tuple[
-    List[str], List[Tuple[int, str, str]], Dict[int, str], Dict[str, List[Tuple[int, str]]], Dict[str, List[int]]
+    List[str], List[Tuple[int, str, str]], Dict[int, str], Dict[str, List[Tuple[int, str, str]]], Dict[str, List[int]]
 ]:
     """
     加载文件并检测列类型
@@ -238,7 +258,7 @@ def load_file_with_column_detection(file_path: str) -> Tuple[
                 # 尝试查找纯数字的列作为权重列
                 for col_idx, cell in enumerate(parts):
                     cell = cell.strip()
-                    if cell and re.fullmatch(r'-?\d+', cell):
+                    if cell and re.fullmatch(r'\d+', cell):
                         weight_col = col_idx
                         break
 
@@ -254,7 +274,7 @@ def load_file_with_column_detection(file_path: str) -> Tuple[
                 print(f"警告: 第{line_num+1}行词组列为空，已跳过")
                 continue
 
-            if not weight and weight != "0":  # 允许权重为0
+            if weight == "":  # 权重为空字符串
                 print(f"警告: 第{line_num+1}行权重列为空，已跳过")
                 continue
 
@@ -419,7 +439,7 @@ def replace_weights_direction1(
             # 尝试查找纯数字的列作为权重列
             for col_idx, cell in enumerate(parts):
                 cell = cell.strip()
-                if cell and re.fullmatch(r'-?\d+', cell):
+                if cell and re.fullmatch(r'\d+', cell):
                     weight_col = col_idx
                     break
 
@@ -592,7 +612,7 @@ def replace_weights_direction2(
             # 尝试查找纯数字的列作为权重列
             for col_idx, cell in enumerate(parts):
                 cell = cell.strip()
-                if cell and re.fullmatch(r'-?\d+', cell):
+                if cell and re.fullmatch(r'\d+', cell):
                     weight_col = col_idx
                     break
 
@@ -708,8 +728,8 @@ def main() -> None:
     print("支持格式: .txt、.yaml")
     print("列类型定义:")
     print("  - 词组列: 可以是汉字、字母、数字、标点的任意组合")
-    print("  - 编码列: 只能是小写英文字母")
-    print("  - 权重列: 只能是整数")
+    print("  - 编码列: 只能是小写英文字母，可以包含空格")
+    print("  - 权重列: 只能是正整数")
     print("特殊功能:")
     print("  - 支持列顺序混乱的文件")
     print("  - 自动分析每行的列类型")
@@ -743,7 +763,7 @@ def main() -> None:
 
     # 加载基础文件
     print("\n正在加载基础文件...")
-    base_comment_lines, base_data_lines, base_column_types, base_phrase_to_lines, base_indices = \
+    base_comment_lines, base_data_lines, base_column_types, base_phrase_to_lines, _ = \
         load_file_with_column_detection(base_file)
     print(f"基础文件中词组数量: {len(base_phrase_to_lines)}")
 

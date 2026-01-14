@@ -1,0 +1,9 @@
+var:
+  last_build_time: 1768355308
+  option:
+    traditionalization: false
+    traditionalize: true
+  previously_selected_schema: wubi
+  schema_access_time:
+    pinyin_simp: 1768241403
+    wubi: 1768241750

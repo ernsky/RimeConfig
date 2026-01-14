@@ -1,0 +1,7174 @@
+# rime dictionary
+# encoding	utf
+#https://github.com/amzxyz/RIME-LMDG
+# ------地质矿物词库-------
+---
+name: dikuang
+version: "LTS"
+sort: by_weight
+...
+阿布石	a bu shi	52
+埃洛石	ai luo shi	92
+安多矿	an duo kuang	89
+安康矿	an kang kuang	68
+暗绿石	an lu shi	94
+奥长石	ao chang shi	98
+八瓣石	ba ban shi	85
+耙笔石	ba bi shi	64
+扒矿机	ba kuang ji	87
+八面石	ba mian shi	71
+钯柱石	ba zhu shi	64
+白沸石	bai fei shi	63
+白硅石	bai gui shi	70
+白火石	bai huo shi	94
+白金石	bai jin shi	79
+白矿山	bai kuang shan	86
+白榴石	bai liu shi	76
+白窿石	bai long shi	63
+白锰矾	bai meng fan	50
+白米石	bai mi shi	86
+白面石	bai mian shi	59
+白铍石	bai pi shi	92
+白铅矿	bai qian kuang	120
+白秋石	bai qiu shi	86
+白砂石	bai sha shi	55
+白砷石	bai shen shi	74
+白松石	bai song shi	86
+白钛石	bai tai shi	97
+白陶石	bai tao shi	66
+白锑矿	bai ti kuang	89
+白铁矿	bai tie kuang	82
+白铁石	bai tie shi	80
+百万石	bai wan shi	152
+白钨矿	bai wu kuang	61
+白锡石	bai xi shi	96
+白霞石	bai xia shi	67
+白雪石	bai xue shi	135
+白羊石	bai yang shi	83
+白玉石	bai yu shi	94
+白云矿	bai yun kuang	75
+白云石	bai yun shi	187
+斑彩石	ban cai shi	86
+斑点矿	ban dian kuang	81
+半化石	ban hua shi	70
+绊脚石	ban jiao shi	253
+板硼石	ban peng shi	53
+伴生矿	ban sheng kuang	142
+板钛矿	ban tai kuang	90
+斑铜矿	ban tong kuang	104
+磅金矿	bang jin kuang	52
+磅铁矿	bang tie kuang	88
+磅银矿	bang yin kuang	98
+抱鼓石	bao gu shi	153
+保健石	bao jian shi	56
+抱角石	bao jiao shi	97
+宝金石	bao jin shi	59
+宝矿力	bao kuang li	176
+薄矿脉	bao kuang mai	59
+宝丽石	bao li shi	92
+薄煤层	bao mei ceng	73
+豹魔石	bao mo shi	84
+包润石	bao run shi	89
+宝石矿	bao shi kuang	112
+宝塔石	bao ta shi	60
+包头矿	bao tou kuang	78
+包吴石	bao wu shi	91
+宝玉石	bao yu shi	254
+倍长石	bei chang shi	83
+钡长石	bei chang shi	65
+贝得石	bei de shi	87
+钡沸石	bei fei shi	85
+被告石	bei gao shi	1
+贝海石	bei hai shi	86
+钡解石	bei jie shi	68
+焙矿炉	bei kuang lu	61
+贝塔石	bei ta shi	68
+北投石	bei tou shi	137
+钡硝石	bei xiao shi	69
+奔奔石	ben ben shi	93
+本本石	ben ben shi	55
+比尔石	bi er shi	66
+闭箭石	bi jian shi	58
+闭角石	bi jiao shi	66
+铋矿床	bi kuang chuang	92
+鼻涕石	bi ti shi	69
+铋铜矿	bi tong kuang	75
+碧玺石	bi xi shi	128
+变锆石	bian gao shi	97
+扁砾石	bian li shi	51
+变砾岩	bian li yan	81
+变燧石	bian sui shi	94
+变质石	bian zhi shi	143
+表碛石	biao qi shi	86
+冰爆石	bing bao shi	78
+冰长石	bing chang shi	85
+冰岛石	bing dao shi	90
+冰晶石	bing jing shi	140
+冰酒石	bing jiu shi	82
+饼菊石	bing ju shi	55
+冰泪石	bing lei shi	66
+冰碛石	bing qi shi	94
+冰洲石	bing zhou shi	131
+波方石	bo fang shi	351
+波角石	bo jiao shi	60
+玻璃石	bo li shi	98
+勃姆石	bo mu shi	79
+玻陨石	bo yun shi	52
+采富矿	cai fu kuang	85
+彩虹石	cai hong shi	100
+采砂石	cai sha shi	78
+才翁石	cai weng shi	67
+彩霞石	cai xia shi	68
+蚕豆矿	can dou kuang	90
+苍星石	cang xing shi	112
+曹铭石	cao ming shi	59
+侧平石	ce ping shi	50
+侧碛石	ce qi shi	66
+岑云石	cen yun shi	56
+曾长石	ceng chang shi	70
+层叠石	ceng die shi	92
+曾定石	ceng ding shi	86
+曾东石	ceng dong shi	86
+叉笔石	cha bi shi	100
+茶化石	cha hua shi	86
+查罗石	cha luo shi	80
+蟾蜍石	chan chu shi	82
+嫦娥石	chang e shi	76
+昌化石	chang hua shi	158
+常凯石	chang kai shi	53
+长寿石	chang shou shi	52
+长条石	chang tiao shi	105
+长协矿	chang xie kuang	81
+晁君石	chao jun shi	51
+车轮矿	che lun kuang	69
+尘沙石	chen sha shi	75
+陈岩石	chen yan shi	419
+城堡石	cheng bao shi	121
+橙汞矿	cheng gong kuang	91
+橙汞石	cheng gong shi	74
+橙红石	cheng hong shi	92
+橙黄石	cheng huang shi	79
+成矿带	cheng kuang dai	141
+成矿期	cheng kuang qi	93
+成矿区	cheng kuang qu	90
+成矿省	cheng kuang sheng	64
+成矿图	cheng kuang tu	86
+成矿学	cheng kuang xue	100
+成矿域	cheng kuang yu	100
+成矿酌	cheng kuang zhuo	64
+橙玉石	cheng yu shi	80
+弛菊石	chi ju shi	85
+驰菊石	chi ju shi	62
+齿菊石	chi ju shi	49
+赤路矿	chi lu kuang	65
+赤铅矿	chi qian kuang	71
+赤铁矿	chi tie kuang	189
+赤铜矿	chi tong kuang	164
+稠矿泥	chou kuang ni	75
+储矿堆	chu kuang dui	54
+出矿量	chu kuang liang	90
+船帆石	chuan fan shi	65
+船菊石	chuan ju shi	73
+垂带石	chui dai shi	94
+春花石	chun hua shi	58
+刺笔石	ci bi shi	76
+刺菊石	ci ju shi	55
+磁铅矿	ci qian kuang	64
+次生矿	ci sheng kuang	111
+磁铁矿	ci tie kuang	194
+磁铁石	ci tie shi	81
+瓷土矿	ci tu kuang	94
+磁选矿	ci xuan kuang	98
+粗安石	cu an shi	98
+粗铂矿	cu bo kuang	70
+粗精矿	cu jing kuang	94
+粗菊石	cu ju shi	70
+粗矿石	cu kuang shi	52
+催化石	cui hua shi	105
+翠榴石	cui liu shi	132
+翠镍矿	cui nie kuang	88
+翠铜矿	cui tong kuang	74
+翠星石	cui xing shi	114
+脆银矿	cui yin kuang	71
+大帆石	da fan shi	69
+大黑石	da hei shi	114
+大化石	da hua shi	116
+打火石	da huo shi	537
+大积石	da ji shi	60
+大金石	da jin shi	79
+打孔石	da kong shi	79
+大块石	da kuai shi	90
+大矿囊	da kuang nang	96
+大矿山	da kuang shan	96
+大理石	da li shi	350
+大卵石	da luan shi	49
+大麻石	da ma shi	90
+打磨石	da mo shi	93
+大漂石	da piao shi	60
+大青石	da qing shi	138
+大山石	da shan shi	100
+大岩石	da yan shi	144
+大隅石	da yu shi	68
+带化石	dai hua shi	67
+代万石	dai wan dan	14
+代赭石	dai zhe shi	160
+丹巴矿	dan ba kuang	93
+蛋白石	dan bai shi	234
+单笔石	dan bi shi	99
+蛋粪石	dan fen shi	58
+蛋化石	dan hua shi	140
+但化石	dan hua shi	137
+胆结石	dan jie shi	265
+单矿脉	dan kuang mai	97
+单矿岩	dan kuang yan	80
+单棱石	dan leng shi	89
+癚榴石	dan liu shi	76
+丹泉石	dan quan shi	81
+单热石	dan re shi	99
+诞生石	dan sheng shi	182
+氮铁矿	dan tie kuang	59
+但王石	dan wang shi	116
+单柱石	dan zhu shi	98
+弹子石	dan zi shi	252
+到黄石	dao huang shi	239
+捣矿机	dao kuang ji	86
+道马矿	dao ma kuang	80
+到磐石	dao pan shi	168
+道牙石	dao ya shi	82
+得结石	de jie shi	100
+灯盏石	deng zhan shi	74
+碲钯矿	di ba kuang	91
+碲铋矿	di bi kuang	60
+碲铂矿	di bo kuang	78
+迪尔石	di er shi	97
+碲汞矿	di gong kuang	51
+碲金矿	di jin kuang	84
+地开石	di kai shi	122
+迪凯石	di kai shi	91
+迪开石	di kai shi	73
+地矿部	di kuang bu	118
+碲矿床	di kuang chuang	52
+地矿类	di kuang lei	49
+底砾岩	di li yan	65
+碲镍矿	di nie kuang	88
+碲铅矿	di qian kuang	69
+地煞石	di sha shi	84
+滴水石	di shui shi	70
+碲铜矿	di tong kuang	70
+碲银矿	di yin kuang	80
+碘钙石	dian gai shi	52
+碘化锰	dian hua meng	61
+奠基石	dian ji shi	384
+垫脚石	dian jiao shi	224
+电解锰	dian jie meng	148
+点金石	dian jin shi	151
+碘矿床	dian kuang chuang	93
+电气石	dian qi shi	272
+靛铜矿	dian tong kuang	60
+碘铜矿	dian tong kuang	52
+碘银矿	dian yin kuang	50
+雕笔石	diao bi shi	74
+叠层石	die ceng shi	167
+迭层石	die ceng shi	72
+顶东石	ding dong shi	97
+定魂石	ding hun shi	212
+顶箭石	ding jian shi	89
+丁瓯石	ding ou shi	84
+丁三石	ding san shi	64
+丁铁石	ding tie shi	90
+东矿区	dong kuang qu	84
+董阆石	dong lang shi	84
+东陵石	dong ling shi	132
+东菱石	dong ling shi	82
+董青石	dong qing shi	69
+董润石	dong run shi	96
+东硖石	dong xia shi	88
+斗板石	dou ban shi	89
+豆腐石	dou fu shi	73
+斗鸡石	dou ji shi	88
+窦燕石	dou yan shi	71
+豆状石	dou zhuang shi	74
+独居石	du ju shi	140
+独立石	du li shi	92
+毒铁矿	du tie kuang	52
+毒瓦斯	du wa si	106
+毒重石	du zhong shi	88
+断笔石	duan bi shi	78
+段可石	duan ke shi	96
+断龙石	duan long shi	81
+短柱石	duan zhu shi	100
+对笔石	dui bi shi	96
+对菊石	dui ju shi	68
+墩台石	dun tai shi	80
+多棱石	duo leng shi	77
+鄂博矿	e bo kuang	132
+峨公石	e gong dan	82
+萼菊石	e ju shi	56
+鹅卵石	e luan shi	255
+鹅软石	e ruan shi	128
+锇铱矿	e yi kuang	51
+二连石	er lian shi	79
+发沸石	fa fei shi	56
+发光石	fa guang shi	100
+法黄石	fa huang shi	65
+法律石	fa lu shi	90
+法术石	fa shu shi	298
+钒铋矿	fan bi kuang	100
+樊春石	fan chun shi	94
+钒辉石	fan hui shi	97
+反经石	fan jing shi	60
+钒矿床	fan kuang chuang	62
+钒镍矿	fan nie kuang	79
+钒铅矿	fan qian kuang	116
+钒铜矿	fan tong kuang	99
+藩万石	fan wan dan	152
+钒铀矿	fan you kuang	81
+方铂矿	fang bo kuang	77
+方沸石	fang fei shi	72
+方镉石	fang ge shi	83
+方钴矿	fang gu kuang	57
+方徽石	fang hui shi	62
+房角石	fang jiao shi	132
+方解石	fang jie shi	214
+放矿口	fang kuang kou	73
+方镁矿	fang mei kuang	57
+方镁石	fang mei shi	75
+方锰矿	fang meng kuang	79
+方钠石	fang na shi	128
+方纳石	fang na shi	100
+方硼石	fang peng shi	89
+方铅矿	fang qian kuang	151
+房山石	fang shan shi	49
+方锑矿	fang ti kuang	82
+方铁矿	fang tie kuang	80
+方铜矿	fang tong kuang	86
+方钍石	fang tu shi	83
+防瓦斯	fang wa si	66
+方英石	fang ying shi	81
+方铀矿	fang you kuang	70
+仿玉石	fang yu shi	98
+防御石	fang yu shi	68
+仿云石	fang yun shi	97
+方柱石	fang zhu shi	85
+方篆石	fang zhuan shi	54
+翡翠矿	fei cui kuang	112
+翡翠石	fei cui shi	130
+非化石	fei hua shi	40
+飞蝗石	fei huang shi	81
+废矿渣	fei kuang zha	115
+飞来石	fei lai shi	228
+斐冷石	fei leng shi	82
+啡窿石	fei long shi	76
+非煤矿	fei mei kuang	73
+非木石	fei mu shi	56
+飞行石	fei xing shi	132
+费钟石	fei zhong shi	99
+费锺石	fei zhong shi	78
+芬达石	fen da shi	52
+粪化石	fen hua shi	132
+风动石	feng dong shi	152
+峰峰矿	feng feng kuang	78
+风化石	feng hua shi	112
+凤凰石	feng huang shi	94
+风刻石	feng ke shi	71
+风棱石	feng leng shi	71
+风路石	feng lu shi	91
+佛足石	fo zu shi	66
+傅抱石	fu bao shi	212
+附壁石	fu bi shi	88
+副长石	fu chang shi	100
+夫妇石	fu fu shi	65
+复合矿	fu he kuang	53
+复活石	fu huo shi	207
+腹菊石	fu ju shi	100
+富矿脉	fu kuang mai	54
+富矿石	fu kuang shi	78
+富矿体	fu kuang ti	68
+负矿物	fu kuang wu	97
+副矿物	fu kuang wu	95
+复矿岩	fu kuang yan	57
+复理石	fu li shi	63
+副砾岩	fu li yan	62
+斧劈石	fu pi shi	71
+复片石	fu pian shi	68
+浮丘石	fu qiu shi	87
+芙蓉石	fu rong shi	215
+符山石	fu shan shi	155
+氟铈矿	fu shi kuang	90
+符文石	fu wen shi	128
+钙长石	gai chang shi	136
+钙矾石	gai fan shi	83
+钙沸石	gai fei shi	55
+该化石	gai hua shi	61
+钙结石	gai jie shi	136
+钙蓝石	gai lan shi	63
+钙磷石	gai lin shi	71
+钙榴石	gai liu shi	72
+钙钛矿	gai tai kuang	214
+钙钨矿	gai wu kuang	67
+钙霞石	gai xia shi	98
+钙硝石	gai xiao shi	95
+该岩石	gai yan shi	466
+钙铀矿	gai you kuang	75
+该陨石	gai yun shi	448
+钙柱石	gai zhu shi	76
+杆沸石	gan fei shi	96
+赣礁石	gan jiao shi	82
+肝结石	gan jie shi	63
+杆菊石	gan ju shi	98
+橄榄石	gan lan shi	268
+杆棱石	gan leng shi	75
+赣南矿	gan nan kuang	84
+干砌石	gan qi shi	86
+干瓦斯	gan wa si	90
+罡气石	gang qi shi	110
+钢铁矿	gang tie kuang	150
+岗岩石	gang yan shi	307
+刚玉石	gang yu shi	76
+高级矿	gao ji kuang	90
+高尖石	gao jian shi	82
+锆矿床	gao kuang chuang	73
+高岭石	gao ling shi	307
+高锰钢	gao meng gang	140
+高山石	gao shan shi	112
+锆钛矿	gao tai kuang	67
+锆钽矿	gao tan kuang	91
+高塘石	gao tang shi	110
+锆铁矿	gao tie kuang	100
+高瓦斯	gao wa si	122
+高万石	gao wan dan	73
+锆英石	gao ying shi	114
+戈壁石	ge bi shi	266
+铬红矿	ge hong kuang	79
+铬钾矿	ge jia kuang	80
+铬钾石	ge jia shi	96
+铬矿床	ge kuang chuang	75
+镉矿床	ge kuang chuang	73
+铬岭石	ge ling shi	93
+铬镍矿	ge nie kuang	65
+铬铅矿	ge qian kuang	78
+歌颂石	ge song shi	65
+铬铁矿	ge tie kuang	152
+给矿板	gei kuang ban	100
+给矿槽	gei kuang cao	57
+给矿沟	gei kuang gou	100
+给矿机	gei kuang ji	84
+给矿口	gei kuang kou	74
+给矿量	gei kuang liang	68
+更长石	geng chang shi	87
+耿介石	geng jie shi	72
+更楼石	geng lou shi	89
+贡钯矿	gong ba kuang	74
+汞钯矿	gong ba kuang	64
+弓笔石	gong bi shi	98
+工程石	gong cheng shi	61
+弓翠石	gong cui shi	60
+拱顶石	gong ding shi	111
+公会石	gong hui shi	722
+攻击石	gong ji shi	92
+弓角石	gong jiao shi	97
+汞矿床	gong kuang chuang	100
+工矿灯	gong kuang deng	120
+工矿区	gong kuang qu	178
+工矿业	gong kuang ye	156
+共鸣石	gong ming shi	141
+汞铅矿	gong qian kuang	80
+龚潜石	gong qian shi	92
+共生矿	gong sheng kuang	92
+龚天石	gong tian shi	90
+拱心石	gong xin shi	94
+汞银矿	gong yin kuang	86
+钩角石	gou jiao shi	60
+勾菊石	gou ju shi	63
+钩菊石	gou ju shi	62
+沟煤矿	gou mei kuang	152
+古巴矿	gu ba kuang	94
+古北矿	gu bei kuang	95
+顾耕石	gu geng shi	73
+谷海矿	gu hai kuang	72
+顾汉石	gu han shi	52
+顾家石	gu jia shi	79
+顾缄石	gu jian shi	70
+顾介石	gu jie shi	50
+咕咾石	gu lao shi	75
+古绿石	gu lu shi	100
+孤赏石	gu shang shi	96
+钴土矿	gu tu kuang	60
+顾醒石	gu xing shi	50
+古月石	gu yue shi	63
+挂帮矿	gua bang kuang	142
+官地矿	guan di kuang	89
+观赏石	guan shang shi	242
+观音石	guan yin shi	104
+贯云石	guan yun shi	92
+光彩石	guang cai shi	71
+光卤石	guang lu shi	117
+广绿石	guang lu shi	58
+光芒石	guang mang shi	106
+广磐石	guang pan shi	77
+光线矿	guang xian kuang	69
+光线石	guang xian shi	62
+龟背石	gui bei shi	76
+硅钡石	gui bei shi	71
+硅铋石	gui bi shi	59
+硅钙石	gui gai shi	82
+硅灰石	gui hui shi	130
+龟甲石	gui jia shi	57
+贵榴石	gui liu shi	50
+硅镁石	gui mei shi	69
+硅锰矿	gui meng kuang	62
+硅镍矿	gui nie kuang	52
+硅铍石	gui pi shi	94
+硅铅矿	gui qian kuang	94
+硅乳石	gui ru shi	67
+硅石矿	gui shi kuang	58
+硅铈石	gui shi shi	77
+硅铁石	gui tie shi	70
+硅钍石	gui tu shi	55
+硅锡矿	gui xi kuang	88
+硅线石	gui xian shi	84
+鬼笑石	gui xiao shi	229
+硅锌矿	gui xin kuang	71
+硅铀矿	gui you kuang	69
+归元石	gui yuan shi	174
+硅藻石	gui zao shi	89
+果阿石	guo a shi	61
+国产矿	guo chan kuang	184
+过门石	guo men shi	177
+国内矿	guo nei kuang	124
+哈八石	ha ba shi	59
+铪锆石	ha gao shi	51
+铪矿床	ha kuang chuang	72
+蛤蟆石	ha ma shi	108
+海底矿	hai di kuang	471
+海浮石	hai fu shi	102
+海角石	hai jiao shi	90
+海晶石	hai jing shi	69
+海楼石	hai lou shi	144
+海绿石	hai lu shi	100
+海泡石	hai pao shi	125
+海青石	hai qing shi	98
+海神石	hai shen shi	58
+海王石	hai wang shi	87
+海纹石	hai wen shi	150
+海峡石	hai xia shi	70
+海印石	hai yin shi	56
+海中石	hai zhong shi	99
+海珠石	hai zhu shi	92
+含矿层	han kuang ceng	88
+含矿的	han kuang de	60
+含矿率	han kuang lu	89
+含矿脉	han kuang mai	90
+含矿岩	han kuang yan	91
+含锰量	han meng liang	110
+寒山石	han shan shi	166
+寒水石	han shui shi	125
+含碎石	han sui shi	57
+寒玉石	han yu shi	89
+浩英石	hao ying shi	82
+号陨石	hao yun shi	93
+贺安石	he an shi	94
+合成石	he cheng shi	274
+和合石	he he shi	68
+贺兰石	he lan shi	96
+河砾石	he li shi	78
+褐帘石	he lian shi	91
+河卵石	he luan shi	124
+河马石	he ma shi	76
+褐锰矿	he meng kuang	90
+褐铅矿	he qian kuang	74
+褐铊矿	he ta kuang	98
+褐铁矿	he tie kuang	157
+合纹石	he wen shi	90
+河西石	he xi shi	85
+核形石	he xing shi	60
+合掌石	he zhang shi	81
+黑洞石	hei dong shi	96
+黑礁石	hei jiao shi	71
+黑晶石	hei jing shi	76
+黑矿层	hei kuang ceng	97
+黑帘石	hei lian shi	91
+黑榴石	hei liu shi	85
+黑锰矿	hei meng kuang	55
+黑锰石	hei meng shi	61
+黑魔石	hei mo shi	90
+黑镍矿	hei nie kuang	66
+黑片石	hei pian shi	93
+黑铅矿	hei qian kuang	57
+黑铁矿	hei tie kuang	156
+黑铜矿	hei tong kuang	78
+黑钨矿	hei wu kuang	98
+黑星石	hei xing shi	84
+黑曜石	hei yao shi	310
+黑耀石	hei yao shi	308
+黑月石	hei yue shi	51
+黑陨石	hei yun shi	68
+黑柱矿	hei zhu kuang	59
+黑柱石	hei zhu shi	68
+黑钻石	hei zuan shi	178
+恒安石	heng an shi	80
+洪半石	hong ban shi	63
+红石谷	hong dan gu	98
+红锆石	hong gao shi	96
+红狗矿	hong gou kuang	51
+红蜡石	hong la shi	88
+红帘石	hong lian shi	67
+红榴石	hong liu shi	89
+红窿石	hong long shi	100
+红镍矿	hong nie kuang	67
+红铅矿	hong qian kuang	98
+红砂石	hong sha shi	134
+红沙石	hong sha shi	66
+红闪石	hong shan shi	57
+红石灯	hong shi deng	120
+红石沟	hong shi gou	89
+红石斛	hong shi hu	51
+红石郡	hong shi jun	67
+红石块	hong shi kuai	86
+红石矿	hong shi kuang	56
+红石砬	hong shi la	76
+红石梁	hong shi liang	98
+红石林	hong shi lin	168
+红石榴	hong shi liu	214
+红石路	hong shi lu	108
+红石门	hong shi men	104
+红石山	hong shi shan	81
+红石滩	hong shi tan	162
+红石头	hong shi tou	135
+红石峡	hong shi xia	154
+红石蟹	hong shi xie	55
+红石崖	hong shi ya	140
+红石岩	hong shi yan	60
+红石寨	hong shi zhai	149
+红石站	hong shi zhan	70
+红铊矿	hong ta kuang	74
+红锑矿	hong ti kuang	69
+红土矿	hong tu kuang	79
+红纹石	hong wen shi	154
+红榍石	hong xie shi	62
+红锌矿	hong xin kuang	95
+红信石	hong xin shi	92
+红曜石	hong yao shi	78
+红药石	hong yao shi	65
+红钇矿	hong yi kuang	66
+红铀矿	hong you kuang	62
+红云石	hong yun shi	70
+红藻石	hong zao shi	77
+红赭石	hong zhe shi	98
+红柱石	hong zhu shi	126
+红竹石	hong zhu shi	100
+红钻石	hong zuan shi	98
+厚箭石	hou jian shi	100
+厚煤层	hou mei ceng	94
+猴面石	hou mian shi	53
+猴子石	hou zi shi	159
+虎抱石	hu bao shi	111
+虎睛石	hu jing shi	116
+琥珀石	hu po shi	16
+虎跳石	hu tiao shi	108
+胡小石	hu xiao shi	149
+虎眼石	hu yan shi	226
+花岗石	hua gang shi	220
+花冈石	hua gang shi	96
+滑块石	hua kuai shi	84
+画面石	hua mian shi	98
+花乳石	hua ru shi	66
+花蕊石	hua rui shi	96
+滑石矿	hua shi kuang	81
+花纹石	hua wen shi	78
+画像石	hua xiang shi	314
+化学矿	hua xue kuang	90
+坏晶石	huai jing shi	85
+环角石	huan jiao shi	51
+环晶石	huan jing shi	55
+黄长石	huang chang shi	86
+黄肠石	huang chang shi	59
+皇帝石	huang di shi	96
+黄砥石	huang di shi	72
+黄锆石	huang gao shi	98
+黄工石	huang gong shi	50
+黄河矿	huang he kuang	56
+黄河石	huang he shi	103
+黄济石	huang ji shi	64
+黄金矿	huang jin kuang	132
+黄金石	huang jin shi	86
+黄晶石	huang jing shi	51
+黄九石	huang jiu shi	80
+黄绢石	huang juan shi	79
+黄蜡石	huang la shi	226
+黄腊石	huang la shi	92
+黄榴石	huang liu shi	79
+黄窿石	huang long shi	81
+黄隆石	huang long shi	53
+黄绿石	huang lu shi	89
+黄绮石	huang qi shi	63
+黄铅矿	huang qian kuang	87
+黄少石	huang shao shi	54
+黄锑矿	huang ti kuang	90
+黄铁矿	huang tie kuang	194
+黄铜矿	huang tong kuang	142
+黄锡矿	huang xi kuang	84
+黄香石	huang xiang shi	55
+黄孝石	huang xiao shi	68
+黄锈石	huang xiu shi	118
+黄银矿	huang yin kuang	54
+黄玉石	huang yu shi	66
+黄雨石	huang yu shi	54
+黄脂石	huang zhi shi	88
+辉铋矿	hui bi kuang	88
+辉长石	hui chang shi	96
+回城石	hui cheng shi	102
+辉沸石	hui fei shi	100
+辉钴矿	hui gu kuang	56
+回黄石	hui huang shi	239
+辉矿类	hui kuang lei	91
+辉铼矿	hui lai kuang	66
+悔梦石	hui meng shi	109
+灰锰氧	hui meng yang	150
+辉钼矿	hui mu kuang	119
+回磐石	hui pan shi	168
+辉闪石	hui shan shi	91
+辉锑矿	hui ti kuang	126
+辉铜矿	hui tong kuang	94
+辉钨矿	hui wu kuang	87
+辉叶石	hui ye shi	55
+辉银矿	hui yin kuang	71
+珲春矿	hun chun kuang	59
+混沌石	hun dun shi	49
+魂魄石	hun po shi	146
+活化石	huo hua shi	488
+火晶石	huo jing shi	424
+火山石	huo shan shi	200
+火烧石	huo shao shi	90
+火星石	huo xing shi	71
+火焰石	huo yan shi	60
+火云石	huo yun shi	92
+几丁石	ji ding shi	95
+鸡肝石	ji gan shi	113
+鸡冠石	ji guan shi	184
+集合石	ji he shi	398
+棘角石	ji jiao shi	84
+棘菊石	ji ju shi	85
+即挖矿	ji wa kuang	137
+蓟县矿	ji xian kuang	90
+鸡血石	ji xie shi	340
+鸡心石	ji xin shi	78
+季允石	ji yun shi	173
+钾长石	jia chang shi	144
+钾沸石	jia fei shi	92
+钾锆石	jia gao shi	87
+镓矿床	jia kuang chuang	89
+假砾岩	jia li yan	67
+钾锰盐	jia meng yan	53
+加冕石	jia mian shi	79
+加纳石	jia na shi	99
+假山石	jia shan shi	206
+加苏石	jia su shi	60
+贾泰石	jia tai shi	92
+钾霞石	jia xia shi	79
+钾硝石	jia xiao shi	92
+钾盐矿	jia yan kuang	104
+假岩溶	jia yan rong	80
+坚白石	jian bai shi	86
+碱长石	jian chang shi	65
+尖晶石	jian jing shi	200
+剑菊石	jian ju shi	52
+见矿率	jian kuang lu	51
+尖棱石	jian leng shi	95
+简琴石	jian qin shi	97
+姜白石	jiang bai shi	152
+将矿石	jiang kuang shi	252
+浆砌石	jiang qi shi	356
+姜润石	jiang run shi	80
+将岩石	jiang yan shi	314
+将玉石	jiang yu shi	268
+江中石	jiang zhong shi	78
+将钻石	jiang zuan shi	116
+珓杯石	jiao bei shi	99
+交沸石	jiao fei shi	69
+角砾岩	jiao li yan	171
+胶砾岩	jiao li yan	86
+胶磷矿	jiao lin kuang	63
+胶岭石	jiao ling shi	88
+胶铝矿	jiao lu kuang	90
+角铅矿	jiao qian kuang	65
+角闪石	jiao shan shi	178
+胶钛矿	jiao tai kuang	53
+焦炭石	jiao tan shi	83
+焦矽石	jiao xi shi	92
+角页岩	jiao ye yan	76
+角银矿	jiao yin kuang	78
+角柱石	jiao zhu shi	211
+结灰石	jie hui shi	61
+阶条石	jie tiao shi	91
+界鱼石	jie yu shi	82
+解字石	jie zi shi	60
+金寳石	jin bao shi	80
+金刚石	jin gang shi	302
+金钢石	jin gang shi	60
+金瓜石	jin gua shi	204
+金光石	jin guang shi	59
+金海石	jin hai shi	79
+金亨石	jin heng shi	93
+金红石	jin hong shi	258
+进化石	jin hua shi	304
+金基石	jin ji shi	82
+进阶石	jin jie shi	117
+金精矿	jin jing kuang	90
+进口矿	jin kou kuang	186
+金矿床	jin kuang chuang	130
+金矿脉	jin kuang mai	94
+金矿区	jin kuang qu	127
+金矿石	jin kuang shi	342
+金矿业	jin kuang ye	240
+金梦石	jin meng shi	78
+堇青石	jin qing shi	126
+金沙石	jin sha shi	70
+金山石	jin shan shi	96
+金属矿	jin shu kuang	238
+金属锰	jin shu meng	138
+金台石	jin tai shi	144
+金星石	jin xing shi	111
+金岩石	jin yan shi	118
+金曜石	jin yao shi	294
+金银矿	jin yin kuang	134
+金原石	jin yuan shi	16
+金允石	jin yun shi	132
+金钻石	jin zuan shi	148
+鲸背石	jing bei shi	96
+景观石	jing guan shi	194
+静海石	jing hai shi	64
+净化石	jing hua shi	118
+京怀石	jing huai shi	89
+精金矿	jing jin kuang	79
+精矿槽	jing kuang cao	54
+精矿库	jing kuang ku	129
+精矿站	jing kuang zhan	99
+晶蜡石	jing la shi	69
+精炼石	jing lian shi	156
+静脉石	jing mai shi	68
+晶魔石	jing mo shi	68
+晶体矿	jing ti kuang	95
+镜铁矿	jing tie kuang	50
+镜心石	jing xin shi	74
+井陉矿	jing xing kuang	97
+精选矿	jing xuan kuang	92
+晶铀矿	jing you kuang	80
+九龙石	jiu long shi	90
+韭闪石	jiu shan shi	90
+救星石	jiu xing shi	84
+九眼石	jiu yan shi	126
+锯笔石	ju bi shi	59
+菊花石	ju hua shi	190
+巨箭石	ju jian shi	65
+巨矿脉	ju kuang mai	67
+聚族矿	ju zu kuang	87
+绝缘石	jue yuan shi	52
+卡迭石	ka die shi	130
+凯乐石	kai le shi	198
+钪辉石	kang hui shi	96
+钪矿床	kang kuang chuang	95
+康盘石	kang pan shi	74
+康石石	kang shi shi	188
+钪钇石	kang yi shi	65
+柯丞石	ke cheng shi	81
+科德石	ke de shi	54
+钶钽矿	ke tan kuang	78
+钶铁矿	ke tie kuang	66
+钶铁石	ke tie shi	83
+氪星石	ke xing shi	58
+空角石	kong jiao shi	67
+空晶石	kong jing shi	68
+空矿车	kong kuang che	55
+孔雀石	kong que shi	434
+酷圣石	ku sheng shi	232
+块矸石	kuai gan shi	84
+块滑石	kuai hua shi	97
+块状矿	kuai zhuang kuang	62
+矿博会	kuang bo hui	126
+矿藏量	kuang cang liang	115
+矿产部	kuang chan bu	132
+矿产地	kuang chan di	138
+矿产法	kuang chan fa	40
+矿产金	kuang chan jin	149
+矿产局	kuang chan ju	274
+矿产品	kuang chan pin	212
+矿产区	kuang chan qu	73
+矿产图	kuang chan tu	90
+矿产业	kuang chan ye	158
+矿产志	kuang chan zhi	79
+矿场主	kuang chang zhu	60
+矿车弹	kuang che dan	98
+矿床学	kuang chuang xue	117
+矿灯房	kuang deng fang	61
+矿灯工	kuang deng gong	68
+矿顶相	kuang ding xiang	60
+矿多错	kuang duo cuo	53
+矿粉厂	kuang fen chang	27
+矿根相	kuang gen xiang	55
+矿工厂	kuang gong chang	88
+矿工村	kuang gong cun	62
+矿工灯	kuang gong deng	96
+矿工队	kuang gong dui	114
+矿工费	kuang gong fei	78
+矿工钢	kuang gong gang	57
+矿工会	kuang gong hui	116
+矿工路	kuang gong lu	98
+矿工们	kuang gong men	188
+矿工墓	kuang gong mu	63
+邝衡石	kuang heng shi	57
+矿化带	kuang hua dai	81
+矿化点	kuang hua dian	68
+矿化度	kuang hua du	147
+矿化剂	kuang hua ji	71
+矿化水	kuang hua shui	108
+矿化酌	kuang hua zhuo	100
+矿机厂	kuang ji chang	73
+矿浆泵	kuang jiang beng	60
+矿浆槽	kuang jiang cao	77
+矿浆管	kuang jiang guan	80
+矿浆桶	kuang jiang tong	83
+矿井口	kuang jing kou	27
+矿井里	kuang jing li	122
+矿井水	kuang jing shui	126
+矿坑水	kuang keng shui	59
+矿量二	kuang liang er	98
+矿溜子	kuang liu zi	73
+矿脉壁	kuang mai bi	82
+矿棉板	kuang mian ban	100
+矿泥槽	kuang ni cao	51
+矿泥的	kuang ni de	100
+矿胚层	kuang pei ceng	95
+矿热炉	kuang re lu	106
+矿砂船	kuang sha chuan	110
+矿石仓	kuang shi cang	86
+矿石车	kuang shi che	66
+矿石粉	kuang shi fen	98
+矿石河	kuang shi he	61
+矿石类	kuang shi lei	100
+矿石量	kuang shi liang	128
+矿石学	kuang shi xue	57
+矿物包	kuang wu bao	0
+矿物粉	kuang wu fen	102
+矿物化	kuang wu hua	82
+矿物盐	kuang wu yan	164
+矿物药	kuang wu yao	138
+矿物油	kuang wu you	236
+矿物质	kuang wu zhi	360
+矿物种	kuang wu zhong	52
+矿物资	kuang wu zi	79
+矿物族	kuang wu zu	97
+矿下晕	kuang xia yun	100
+矿岩尘	kuang yan chen	60
+矿业宫	kuang ye gong	64
+矿业权	kuang ye quan	196
+矿业史	kuang ye shi	63
+矿异常	kuang yi chang	92
+矿医院	kuang yi yuan	88
+矿用泵	kuang yong beng	83
+矿用车	kuang yong che	100
+矿源层	kuang yuan ceng	69
+矿源岩	kuang yuan yan	66
+矿渣棉	kuang zha mian	229
+矿渣砖	kuang zha zhuan	92
+矿之恋	kuang zhi lian	76
+矿之选	kuang zhi xuan	77
+矿资源	kuang zi yuan	154
+矿总院	kuang zong yuan	39
+盔菊石	kui ju shi	79
+昆仑石	kun lun shi	66
+昆山石	kun shan shi	66
+昆吾石	kun wu shi	77
+扩香石	kuo xiang shi	106
+拉长石	la chang shi	134
+垃圾矿	la ji kuang	88
+莱河矿	lai he kuang	63
+来黄石	lai huang shi	239
+铼矿床	lai kuang chuang	67
+来磐石	lai pan shi	168
+赖杉石	lai shan shi	71
+蓝方石	lan fang shi	97
+蓝晶石	lan jing shi	136
+拦路石	lan lu shi	150
+蓝莓石	lan mei shi	69
+蓝钼矿	lan mu kuang	97
+蓝闪石	lan shan shi	108
+蓝石莲	lan shi lian	79
+蓝石棉	lan shi mian	81
+蓝铁矿	lan tie kuang	75
+蓝铁石	lan tie shi	51
+蓝铜矿	lan tong kuang	140
+蓝纹石	lan wen shi	90
+蓝线石	lan xian shi	86
+蓝羽石	lan yu shi	64
+蓝柱石	lan zhu shi	81
+蓝锥矿	lan zhui kuang	104
+蓝钻石	lan zuan shi	130
+劳厄石	lao e shi	95
+咾咕石	lao gu shi	91
+老虎石	lao hu shi	152
+铑金矿	lao jin kuang	88
+老矿工	lao kuang gong	114
+老矿区	lao kuang qu	113
+老矿山	lao kuang shan	104
+老挝石	lao wo shi	81
+勒子石	le zi shi	65
+雷打石	lei da shi	123
+擂鼓石	lei gu shi	92
+雷击石	lei ji shi	93
+类矿物	lei kuang wu	142
+垒磊石	lei lei shi	50
+累托石	lei tuo shi	77
+冷的石	leng de shi	50
+棱角石	leng jiao shi	69
+棱菊石	leng ju shi	73
+锂辉石	li hui shi	207
+粒辉石	li hui shi	82
+锂精矿	li jing kuang	140
+锂矿床	li kuang chuang	99
+锂矿石	li kuang shi	104
+黎磊石	li lei shi	61
+粒榴石	li liu shi	85
+锂铍石	li pi shi	81
+李世石	li shi shi	272
+犂头石	li tou shi	97
+锂霞石	li xia shi	83
+粒子石	li zi shi	84
+联合矿	lian he kuang	88
+镰菊石	lian ju shi	54
+连矿法	lian kuang fa	60
+炼魔石	lian mo shi	24
+莲水石	lian shui shi	92
+炼妖石	lian yao shi	188
+练妖石	lian yao shi	95
+梁葵石	liang kui shi	50
+梁澜石	liang lan shi	67
+梁山石	liang shan shi	98
+梁瑶石	liang yao shi	73
+两仪石	liang yi shi	82
+鳞迭矿	lin die kuang	95
+磷钙矿	lin gai kuang	67
+磷灰石	lin hui shi	182
+磷矿床	lin kuang chuang	52
+磷矿粉	lin kuang fen	95
+磷矿石	lin kuang shi	154
+磷矿镇	lin kuang zhen	78
+磷铝石	lin lu shi	93
+磷镁石	lin mei shi	99
+磷锰矿	lin meng kuang	65
+磷锰石	lin meng shi	46
+磷铁矿	lin tie kuang	50
+鳞铜矿	lin tong kuang	76
+磷铜矿	lin tong kuang	50
+磷钍矿	lin tu kuang	94
+林西矿	lin xi kuang	63
+林西石	lin xi shi	80
+磷锌矿	lin xin kuang	50
+磷叶石	lin ye shi	48
+磷页石	lin ye shi	42
+磷钇矿	lin yi kuang	102
+磷铀矿	lin you kuang	59
+鳞蛭石	lin zhi shi	84
+灵璧石	ling bi shi	152
+灵壁石	ling bi shi	102
+菱沸石	ling fei shi	52
+菱镉矿	ling ge kuang	80
+菱钴矿	ling gu kuang	80
+绫裹石	ling guo shi	98
+灵魂石	ling hun shi	237
+玲珑石	ling long shi	136
+菱镁矿	ling mei kuang	157
+菱锰矿	ling meng kuang	140
+菱锰岩	ling meng yan	52
+菱锶矿	ling si kuang	79
+菱铁矿	ling tie kuang	117
+领万石	ling wan dan	92
+菱锌矿	ling xin kuang	100
+菱铀矿	ling you kuang	59
+硫铵石	liu an shi	64
+硫镉矿	liu ge kuang	100
+硫钴矿	liu gu kuang	99
+硫硅石	liu gui shi	67
+硫化矿	liu hua kuang	98
+硫化锰	liu hua meng	78
+硫磺矿	liu huang kuang	122
+硫磺石	liu huang shi	68
+硫精矿	liu jing kuang	98
+硫矿床	liu kuang chuang	83
+溜矿井	liu kuang jing	100
+硫矿石	liu kuang shi	54
+硫钌矿	liu liao kuang	89
+硫镁矿	liu mei kuang	91
+硫锰矿	liu meng kuang	66
+硫镍矿	liu nie kuang	73
+硫砷矿	liu shen kuang	77
+硫铁矿	liu tie kuang	144
+硫锡矿	liu xi kuang	80
+龙脊石	long ji shi	49
+龙精石	long jing shi	118
+隆隆石	long long shi	100
+龙梅石	long mei shi	60
+龙门石	long men shi	84
+笼铅矿	long qian kuang	70
+龙黔石	long qian shi	96
+龙头石	long tou shi	71
+龙骧石	long xiang shi	79
+露白石	lou bai shi	50
+露头矿	lou tou kuang	50
+路边石	lu bian shi	198
+炉甘石	lu gan shi	211
+卤水矿	lu shui kuang	93
+路牙石	lu ya shi	130
+路沿石	lu yan shi	129
+路缘石	lu yuan shi	158
+滦河矿	luan he kuang	89
+乱矿流	luan kuang liu	95
+论矿冶	lun kuang ye	72
+罗丁石	luo ding shi	79
+螺鼓石	luo gu shi	72
+裸菊石	luo ju shi	66
+骆驼石	luo tuo shi	92
+落星石	luo xing shi	88
+氯钒矿	lu fan kuang	97
+铝钒矿	lu fan kuang	68
+绿铬矿	lu ge kuang	53
+氯汞矿	lu gong kuang	53
+绿硅矿	lu gui kuang	88
+氯化锰	lu hua meng	112
+绿辉石	lu hui shi	120
+绿晶石	lu jing shi	278
+铝矿床	lu kuang chuang	95
+铝矿石	lu kuang shi	92
+绿帘石	lu lian shi	140
+绿鳞石	lu lin shi	86
+铝榴石	lu liu shi	32
+氯锰矿	lu meng kuang	69
+绿泥石	lu ni shi	154
+绿镍矿	lu nie kuang	52
+氯铅矿	lu qian kuang	64
+绿铅矿	lu qian kuang	52
+氯闪石	lu shan shi	81
+绿闪石	lu shan shi	67
+绿石谷	lu shi gu	82
+绿石棉	lu shi mian	78
+绿石髓	lu shi sui	83
+绿石英	lu shi ying	93
+绿松石	lu song shi	276
+绿铜矿	lu tong kuang	90
+氯铜矿	lu tong kuang	76
+铝土矿	lu tu kuang	210
+绿脱石	lu tuo shi	80
+绿纤石	lu xian shi	67
+铝英石	lu ying shi	68
+绿萤石	lu ying shi	52
+绿铀矿	lu you kuang	90
+绿玉石	lu yu shi	68
+绿柱石	lu zhu shi	172
+马鞍石	ma an shi	77
+玛满矿	ma man kuang	142
+玛瑙石	ma nao shi	166
+嘛呢石	ma ne shi	60
+玛尼石	ma ni shi	172
+麻杏石	ma xing shi	122
+麦饭石	mai fan shi	192
+脉矿床	mai kuang chuang	83
+买矿机	mai kuang ji	50
+脉矿石	mai kuang shi	72
+盲矿床	mang kuang chuang	63
+盲矿体	mang kuang ti	100
+毛矾石	mao fan shi	64
+毛沸石	mao fei shi	89
+毛粪石	mao fen shi	72
+猫睛石	mao jing shi	50
+毛梦石	mao meng shi	91
+毛铜矿	mao tong kuang	55
+猫眼石	mao yan shi	485
+茂页岩	mao ye yan	71
+煤层薄	mei ceng bao	60
+煤层气	mei ceng qi	224
+镁毒石	mei du shi	372
+煤矸石	mei gan shi	270
+楣杆石	mei gan shi	89
+镁铬矿	mei ge kuang	53
+玫瑰石	mei gui shi	188
+梅花石	mei hua shi	73
+煤矿厂	mei kuang chang	79
+镁矿床	mei kuang chuang	85
+煤矿床	mei kuang chuang	69
+煤矿井	mei kuang jing	66
+煤矿石	mei kuang shi	88
+镁磷石	mei lin shi	82
+镁钛矿	mei tai kuang	91
+煤铁矿	mei tie kuang	105
+镁铁矿	mei tie kuang	73
+镁硝石	mei xiao shi	95
+镁柱石	mei zhu shi	89
+锰钡矿	meng bei kuang	95
+锰钴土	meng gu tu	68
+锰含量	meng han liang	146
+锰合金	meng he jin	203
+锰钾矿	meng jia kuang	89
+锰结核	meng jie he	124
+猛坑石	meng keng shi	76
+锰矿床	meng kuang chuang	63
+锰矿石	meng kuang shi	121
+锰矿岩	meng kuang yan	68
+锰离子	meng li zi	138
+锰帘石	meng lian shi	73
+锰磷矿	meng lin kuang	82
+锰铅矿	meng qian kuang	54
+锰闪石	meng shan shi	55
+锰铁比	meng tie bi	83
+锰铁矿	meng tie kuang	78
+锰铜矿	meng tong kuang	74
+锰团块	meng tuan kuai	76
+蒙脱石	meng tuo shi	168
+锰污染	meng wu ran	77
+锰细菌	meng xi jun	54
+梦溪石	meng xi shi	81
+锰榍石	meng xie shi	98
+孟醒石	meng xing shi	86
+锰元素	meng yuan su	150
+锰云母	meng yun mu	98
+蒙皂石	meng zao shi	56
+锰质岩	meng zhi yan	53
+锰中毒	meng zhong du	111
+锰柱石	meng zhu shi	61
+迷彩石	mi cai shi	93
+米黄石	mi huang shi	80
+蜜蜡石	mi la shi	106
+密蜡石	mi la shi	80
+秘文石	mi wen shi	122
+秘纹石	mi wen shi	81
+秘银矿	mi yin kuang	105
+米友石	mi you shi	97
+迷踪石	mi zong shi	86
+苗木石	miao mu shi	55
+明矾石	ming fan shi	124
+名矿工	ming kuang gong	90
+命运石	ming yun shi	284
+摩艾石	mo ai shi	14
+魔法石	mo fa shi	344
+摩根石	mo gen shi	132
+蘑菇石	mo gu shi	215
+魔鬼石	mo gui shi	76
+磨脚石	mo jiao shi	114
+魔晶石	mo jing shi	220
+魔精石	mo jing shi	94
+磨拉石	mo la shi	54
+莫来石	mo lai shi	144
+魔力石	mo li shi	265
+磨盘石	mo pan shi	60
+莫桑石	mo sang shi	157
+墨铜矿	mo tong kuang	89
+魔星石	mo xing shi	75
+磨牙石	mo ya shi	92
+摩押石	mo ya shi	63
+魔眼石	mo yan shi	81
+墨柱石	mo zhu shi	53
+墓碑石	mu bei shi	71
+木变石	mu bian shi	144
+钼钙矿	mu gai kuang	68
+木化石	mu hua shi	153
+钼精矿	mu jing kuang	117
+钼矿床	mu kuang chuang	54
+钼矿石	mu kuang shi	78
+穆磐石	mu pan shi	64
+钼铅矿	mu qian kuang	107
+母亲石	mu qin shi	82
+木铜矿	mu tong kuang	79
+钼铜矿	mu tong kuang	59
+木纹石	mu wen shi	73
+木鱼石	mu yu shi	202
+木竹石	mu zhu shi	63
+钠板石	na ban shi	96
+钠长石	na chang shi	170
+钠沸石	na fei shi	84
+钠锆石	na gao shi	70
+钠滑石	na hua shi	100
+钠榴石	na liu shi	94
+钠铌矿	na ni kuang	72
+钠闪石	na shan shi	54
+钠硝石	na xiao shi	81
+钠柱石	na zhu shi	100
+南极石	nan ji shi	99
+南疆石	nan jiang shi	92
+南平石	nan ping shi	84
+南山矿	nan shan kuang	67
+南山石	nan shan shi	49
+南田石	nan tian shi	60
+囊脱石	nang tuo shi	80
+脑钻石	nao zuan shi	77
+内角石	nei jiao shi	73
+能量石	neng liang shi	240
+铌钙矿	ni gai kuang	92
+霓辉石	ni hui shi	91
+拟箭石	ni jian shi	90
+泥砾岩	ni li yan	83
+倪满石	ni man shi	96
+铌铁矿	ni tie kuang	84
+泥铁矿	ni tie kuang	58
+泥页岩	ni ye yan	102
+铌钇矿	ni yi kuang	71
+拟锥石	ni zhui shi	91
+你钻石	ni zuan shi	161
+粘土矿	nian tu kuang	178
+黏土矿	nian tu kuang	53
+鸟粪石	niao fen shi	100
+鸟化石	niao hua shi	128
+尿结石	niao jie shi	193
+镍钴锰	nie gu meng	162
+镍矿床	nie kuang chuang	98
+镍矿石	nie kuang shi	122
+镍铁矿	nie tie kuang	50
+镍纹石	nie wen shi	118
+凝灰石	ning hui shi	83
+凝块石	ning kuai shi	52
+凝水石	ning shui shi	79
+钮匪石	niu fei shi	96
+农矿部	nong kuang bu	116
+暖矿泉	nuan kuang quan	58
+欧清石	ou qing shi	79
+呕吐石	ou tu shi	56
+排矿槽	pai kuang cao	94
+排矿口	pai kuang kou	73
+排衙石	pai ya shi	90
+潘鼎石	pan ding shi	87
+盘古石	pan gu shi	66
+盘角石	pan jiao shi	98
+潘文石	pan wen shi	96
+盘星石	pan xing shi	78
+泡铋矿	pao bi kuang	56
+培长石	pei chang shi	62
+胚胎矿	pei tai kuang	81
+硼铵石	peng an shi	92
+硼钙石	peng gai shi	97
+硼矿床	peng kuang chuang	86
+硼铝石	peng lu shi	96
+硼镁石	peng mei shi	92
+硼铍石	peng pi shi	59
+膨润石	peng run shi	73
+硼铁矿	peng tie kuang	97
+铍矿床	pi kuang chuang	58
+铍榴石	pi liu shi	74
+霹破石	pi po shi	94
+皮漱石	pi shu shi	110
+皮宗石	pi zong shi	55
+片沸石	pian fei shi	56
+片榍石	pian xie shi	98
+平衡石	ping heng shi	120
+平康石	ping kang shi	100
+平矿层	ping kuang ceng	83
+平缘石	ping yuan shi	92
+坡缕石	po lu shi	78
+曝黑石	pu hei shi	92
+铺路石	pu lu shi	176
+铺面石	pu mian shi	94
+菩萨石	pu sa shi	73
+葡萄石	pu tao shi	221
+齐白石	qi bai shi	270
+奇笔石	qi bi shi	56
+七彩石	qi cai shi	292
+祈祷石	qi dao shi	98
+旗杆石	qi gan shi	128
+奇迹石	qi ji shi	123
+奇梦石	qi meng shi	95
+棋盘石	qi pan shi	124
+七星石	qi xing shi	86
+契爷石	qi ye shi	95
+奇异石	qi yi shi	53
+起源石	qi yuan shi	80
+齐越石	qi yue shi	81
+千层石	qian ceng shi	73
+纤夫石	qian fu shi	84
+钱海石	qian hai shi	76
+前海石	qian hai shi	65
+铅辉石	qian hui shi	94
+铅灰石	qian hui shi	74
+前箭石	qian jian shi	91
+铅精矿	qian jing kuang	134
+钱警石	qian jing shi	83
+钱衎石	qian kan shi	68
+铅矿凹	qian kuang ao	75
+铅矿坳	qian kuang ao	63
+铅矿石	qian kuang shi	110
+铅锰矿	qian meng kuang	83
+浅闪石	qian shan shi	51
+前铁矿	qian tie kuang	84
+钱萚石	qian tuo shi	95
+铅霰石	qian xian shi	74
+铅锌矿	qian xin kuang	182
+千叶石	qian ye shi	72
+钱亦石	qian yi shi	97
+迁移石	qian yi shi	87
+钱衷石	qian zhong shi	67
+枪晶石	qiang jing shi	50
+蔷薇石	qiang wei shi	96
+鞘角石	qiao jiao shi	55
+桥锰矿	qiao meng kuang	93
+巧言石	qiao yan shi	68
+秦灿石	qin can shi	82
+秦汉石	qin han shi	52
+青白石	qing bai shi	144
+青河石	qing he shi	78
+青辉石	qing hui shi	100
+青金石	qing jin shi	282
+轻矿物	qing kuang wu	83
+青龙石	qing long shi	154
+青绿石	qing lu shi	290
+青铅矿	qing qian kuang	73
+青青石	qing qing shi	83
+清泉石	qing quan shi	180
+情人石	qing ren shi	102
+青苔石	qing tai shi	53
+青田石	qing tian shi	226
+青铜矿	qing tong kuang	291
+青铜石	qing tong shi	79
+青蛙石	qing wa shi	131
+磬云石	qing yun shi	57
+丘间石	qiu jian shi	83
+球团矿	qiu tuan kuang	86
+球霰石	qiu xian shi	72
+秋叶石	qiu ye shi	95
+酋长石	qiu zhang shi	58
+去黄石	qu huang shi	239
+曲晶石	qu jing shi	73
+去磐石	qu pan shi	168
+泉对石	quan dui shi	100
+圈角石	quan jiao shi	80
+全能石	quan neng shi	50
+全山石	quan shan shi	131
+犬牙石	quan ya shi	64
+群矿型	qun kuang xing	92
+饶漱石	rao shu shi	190
+热臭石	re chou shi	82
+热矿泉	re kuang quan	116
+热血石	re xue shi	118
+人工石	ren gong shi	90
+人形石	ren xing shi	76
+人造石	ren zao shi	210
+日长石	ri chang shi	57
+日光石	ri guang shi	98
+日向石	ri xiang shi	71
+日叶石	ri ye shi	64
+日月石	ri yue shi	74
+熔长石	rong chang shi	53
+容矿岩	rong kuang yan	54
+绒铜矿	rong tong kuang	81
+熔岩被	rong yan bei	99
+熔岩饼	rong yan bing	78
+熔岩层	rong yan ceng	106
+熔岩橙	rong yan cheng	56
+熔岩虫	rong yan chong	81
+熔岩的	rong yan de	164
+熔岩洞	rong yan dong	120
+熔岩泛	rong yan fan	91
+熔岩怪	rong yan guai	78
+熔岩管	rong yan guan	166
+熔岩海	rong yan hai	71
+熔岩湖	rong yan hu	158
+熔岩灰	rong yan hui	73
+熔岩棘	rong yan ji	76
+溶岩井	rong yan jing	74
+熔岩颈	rong yan jing	54
+溶岩泪	rong yan lei	81
+熔岩流	rong yan liu	223
+熔岩瘤	rong yan liu	88
+熔岩龙	rong yan long	92
+熔岩沫	rong yan mo	63
+熔岩丘	rong yan qiu	85
+熔岩球	rong yan qiu	82
+熔岩泉	rong yan quan	90
+熔岩犬	rong yan quan	76
+熔岩石	rong yan shi	102
+熔岩释	rong yan shi	59
+熔岩塔	rong yan ta	68
+熔岩席	rong yan xi	83
+熔岩楔	rong yan xie	84
+熔岩柱	rong yan zhu	79
+熔岩锥	rong yan zhui	81
+肉桂石	rou gui shi	57
+肉形石	rou xing shi	97
+肉与石	rou yu shi	75
+乳白石	ru bai shi	86
+铷矿床	ru kuang chuang	66
+如磐石	ru pan shi	155
+蠕状石	ru zhuang shi	74
+软铋矿	ruan bi kuang	72
+阮机石	ruan ji shi	77
+软锰矿	ruan meng kuang	116
+软岩石	ruan yan shi	100
+软页岩	ruan ye yan	55
+锐钛矿	rui tai kuang	102
+弱波石	ruo bo shi	97
+散点石	san dian shi	81
+三花石	san hua shi	98
+三块石	san kuai shi	131
+三棱石	san leng shi	81
+三生石	san sheng shi	175
+三圣石	san sheng shi	90
+三台石	san tai shi	81
+三条石	san tiao shi	124
+三万石	san wan dan	99
+三紊石	san wen shi	95
+三峡石	san xia shi	53
+三斜石	san xie shi	99
+三一石	san yi shi	80
+铯沸石	se fei shi	80
+铯矿床	se kuang chuang	80
+色理石	se li shi	49
+铯榴石	se liu shi	92
+铯柱石	se zhu shi	65
+砂金矿	sha jin kuang	108
+沙金矿	sha jin kuang	84
+砂金石	sha jin shi	127
+砂矿床	sha kuang chuang	84
+砂砾石	sha li shi	62
+砂砾岩	sha li yan	74
+砂卵石	sha luan shi	108
+纱帽石	sha mao shi	86
+杀生石	sha sheng shi	51
+沙滩石	sha tan shi	54
+砂锡矿	sha xi kuang	74
+砂岩石	sha yan shi	89
+砂页岩	sha ye yan	128
+扇白石	shan bai shi	63
+闪铋矿	shan bi kuang	96
+闪电石	shan dian shi	69
+珊瑚石	shan hu shi	157
+扇砾岩	shan li yan	96
+山皮石	shan pi shi	88
+山坡石	shan po shi	92
+山墙石	shan qiang shi	71
+闪山石	shan shan shi	523
+山神石	shan shen shi	49
+闪石峰	shan shi feng	65
+闪石类	shan shi lei	61
+闪石玉	shan shi yu	79
+山无石	shan wu shi	193
+闪锌矿	shan xin kuang	159
+闪叶石	shan ye shi	93
+山子石	shan zi shi	39
+上白石	shang bai shi	134
+上国石	shang guo shi	78
+上马石	shang ma shi	130
+上水石	shang shui shi	81
+上岩石	shang yan shi	107
+上钻石	shang zuan shi	153
+烧结矿	shao jie kuang	136
+烧绿石	shao lu shi	84
+舌笔石	she bi shi	82
+蛇菊石	she ju shi	81
+蛇纹石	she wen shi	172
+砷铋矿	shen bi kuang	90
+砷铂矿	shen bo kuang	59
+神恩石	shen en shi	108
+砷钙石	shen gai shi	76
+砷钴矿	shen gu kuang	68
+神龟石	shen gui shi	89
+砷灰石	shen hui shi	67
+伸角石	shen jiao shi	72
+肾结石	shen jie shi	276
+砷矿床	shen kuang chuang	64
+砷镁石	shen mei shi	78
+神锰矿	shen meng kuang	69
+砷锰矿	shen meng kuang	51
+神秘石	shen mi shi	104
+砷镍矿	shen nie kuang	81
+砷铅矿	shen qian kuang	67
+砷铅石	shen qian shi	64
+砷锑矿	shen ti kuang	78
+砷铁矿	shen tie kuang	70
+砷铜矿	shen tong kuang	56
+砷霞石	shen xia shi	89
+砷锌矿	shen xin kuang	64
+砷锌石	shen xin shi	61
+砷钇石	shen yi shi	54
+砷银矿	shen yin kuang	79
+砷铀矿	shen you kuang	55
+神乐石	shen yue shi	94
+生产矿	sheng chan kuang	86
+生辰石	sheng chen shi	263
+圣光石	sheng guang shi	118
+圣结石	sheng jie shi	92
+圣晶石	sheng jing shi	108
+绳菊石	sheng ju shi	75
+生命石	sheng ming shi	102
+圣魔石	sheng mo shi	79
+生肖石	sheng xiao shi	63
+升星石	sheng xing shi	408
+生野矿	sheng ye kuang	50
+生赭石	sheng zhe shi	84
+师安石	shi an shi	91
+十二石	shi er shi	114
+石膏矿	shi gao kuang	135
+石高石	shi gao shi	63
+铈硅石	shi gui shi	66
+石灰矿	shi hui kuang	63
+石灰石	shi hui shi	286
+试剑石	shi jian shi	378
+施见石	shi jian shi	97
+时间石	shi jian shi	78
+试金石	shi jin shi	243
+饰菊石	shi ju shi	58
+时空石	shi kong shi	84
+石矿场	shi kuang chang	190
+石榴石	shi liu shi	280
+石棉矿	shi mian kuang	104
+石墨矿	shi mo kuang	150
+石人石	shi ren shi	53
+释如石	shi ru shi	80
+石山石	shi shan shi	44
+十胜石	shi sheng shi	74
+石燧石	shi sui shi	57
+石笋石	shi sun shi	142
+诗条石	shi tiao shi	93
+施嵓石	shi yan shi	50
+铈钇矿	shi yi kuang	96
+铈银矿	shi yin kuang	53
+石英矿	shi ying kuang	98
+石英石	shi ying shi	249
+石油矿	shi you kuang	96
+石陨石	shi yun shi	185
+十字石	shi zi shi	104
+狮子石	shi zi shi	68
+守护石	shou hu shi	155
+寿山石	shou shan shi	276
+瘦山石	shou shan shi	64
+树笔石	shu bi shi	85
+束沸石	shu fei shi	90
+书画石	shu hua shi	77
+树化石	shu hua shi	50
+舒碣石	shu jie shi	74
+输矿浆	shu kuang jiang	83
+书堂石	shu tang shi	95
+属性石	shu xing shi	248
+树枝石	shu zhi shi	93
+刷钻石	shua zuan shi	60
+双笔石	shuang bi shi	70
+双帆石	shuang fan shi	54
+双晶石	shuang jing shi	52
+霜晶石	shuang jing shi	52
+双牌石	shuang pai shi	89
+水冲石	shui chong shi	82
+水滴石	shui di shi	66
+水钒矿	shui fan kuang	81
+水锆石	shui gao shi	80
+水钴矿	shui gu kuang	63
+水滑石	shui hua shi	82
+水辉石	shui hui shi	100
+水碱石	shui jian shi	60
+水角石	shui jiao shi	73
+水晶矿	shui jing kuang	140
+水晶石	shui jing shi	248
+水榴石	shui liu shi	69
+水铝矿	shui lu kuang	54
+水铝石	shui lu shi	160
+水镁石	shui mei shi	104
+水锰矿	shui meng kuang	87
+水沐石	shui mu shi	97
+水泥石	shui ni shi	295
+水牛石	shui niu shi	128
+水铅矿	shui qian kuang	88
+水闪石	shui shan shi	97
+水刷石	shui shua shi	117
+水文队	shui wen dui	66
+水文化	shui wen hua	188
+水文局	shui wen ju	184
+水文孔	shui wen kong	54
+水文年	shui wen nian	50
+水文人	shui wen ren	76
+水文图	shui wen tu	63
+水文学	shui wen xue	176
+水文站	shui wen zhan	194
+水洗石	shui xi shi	79
+水锌矿	shui xin kuang	53
+水铀矿	shui you kuang	63
+水蛭石	shui zhi shi	80
+水脂石	shui zhi shi	77
+四笔石	si bi shi	99
+丝笔石	si bi shi	53
+泗滨石	si bin shi	4
+似长石	si chang shi	87
+锶沸石	si fei shi	91
+似辉石	si hui shi	80
+似箭石	si jian shi	62
+似晶石	si jing shi	62
+锶矿床	si kuang chuang	66
+斯昆石	si kun shi	86
+锶帘石	si lian shi	59
+斯天石	si tian shi	82
+松花石	song hua shi	121
+松山石	song shan shi	55
+松脂石	song zhi shi	79
+送钻石	song zuan shi	130
+苏打石	su da shi	85
+碎大石	sui da shi	176
+碎块石	sui kuai shi	77
+碎矿锤	sui kuang chui	52
+碎矿机	sui kuang ji	77
+碎砾岩	sui li yan	90
+索伦石	suo lun shi	68
+塔菲石	ta fei shi	90
+踏脚石	ta jiao shi	222
+塔节石	ta jie shi	98
+塔菊石	ta ju shi	60
+铊矿床	ta kuang chuang	50
+他山石	ta shan shi	130
+它山石	ta shan shi	75
+太湖石	tai hu shi	183
+钛辉石	tai hui shi	58
+台阶石	tai jie shi	66
+台金矿	tai jin kuang	54
+钛精矿	tai jing kuang	108
+钛矿床	tai kuang chuang	54
+钛矿石	tai kuang shi	63
+钛榴石	tai liu shi	95
+泰山石	tai shan shi	148
+钛闪石	tai shan shi	55
+泰坦矿	tai tan kuang	14
+钛铁矿	tai tie kuang	160
+台湾石	tai wan shi	92
+太阳石	tai yang shi	190
+钛铀矿	tai you kuang	70
+太子石	tai zi shi	102
+碳铵石	tan an shi	59
+碳钡矿	tan bei kuang	69
+碳硅石	tan gui shi	319
+探海石	tan hai shi	87
+探矿比	tan kuang bi	65
+探矿权	tan kuang quan	198
+贪矿石	tan kuang shi	94
+探矿校	tan kuang xiao	81
+碳矿质	tan kuang zhi	61
+钽铌矿	tan ni kuang	78
+坦桑石	tan sang shi	188
+坦尚石	tan shang shi	79
+碳锶矿	tan si kuang	88
+钽铁矿	tan tie kuang	122
+钽锡矿	tan xi kuang	94
+碳矽石	tan xi shi	59
+碳铀矿	tan you kuang	67
+探真石	tan zhen shi	75
+唐根石	tang gen shi	62
+唐金石	tang jin shi	54
+唐山矿	tang shan kuang	112
+唐渔石	tang yu shi	56
+桃花石	tao hua shi	146
+淘松石	tao song shi	66
+特寨石	te zhai shi	55
+锑钯矿	ti ba kuang	71
+锑铂矿	ti bo kuang	95
+锑钙石	ti gai shi	70
+锑矿床	ti kuang chuang	93
+提炼石	ti lian shi	526
+锑铌矿	ti ni kuang	99
+锑钽矿	ti tan kuang	98
+锑铁矿	ti tie kuang	90
+锑铜矿	ti tong kuang	91
+锑银矿	ti yin kuang	63
+锑赭石	ti zhe shi	94
+天罡石	tian gang shi	422
+天河石	tian he shi	178
+田华石	tian hua shi	97
+天换石	tian huan shi	138
+田黄石	tian huang shi	298
+天机石	tian ji shi	98
+田介石	tian jie shi	88
+天井石	tian jing shi	73
+天蓝石	tian lan shi	83
+填卵石	tian luan shi	92
+天魔石	tian mo shi	108
+天青石	tian qing shi	210
+天然矿	tian ran kuang	128
+天然石	tian ran shi	269
+天涯石	tian ya shi	66
+天鹰石	tian ying shi	50
+天灾石	tian zai shi	108
+天诛石	tian zhu shi	110
+挑檐石	tiao yan shi	98
+铁鼎石	tie ding shi	87
+铁辉石	tie hui shi	97
+铁灰石	tie hui shi	69
+铁精矿	tie jing kuang	136
+铁矿场	tie kuang chang	90
+铁矿厂	tie kuang chang	60
+铁矿床	tie kuang chuang	100
+铁矿粉	tie kuang fen	116
+铁矿区	tie kuang qu	102
+铁矿砂	tie kuang sha	172
+铁矿山	tie kuang shan	123
+铁矿石	tie kuang shi	300
+铁矿体	tie kuang ti	125
+铁矿物	tie kuang wu	84
+铁矿岩	tie kuang yan	50
+铁矿站	tie kuang zhan	94
+铁镍矿	tie nie kuang	94
+铁闪石	tie shan shi	95
+铁燧石	tie sui shi	98
+铁钍石	tie tu shi	87
+铁纹石	tie wen shi	95
+铁榍石	tie xie shi	50
+铁陨石	tie yun shi	209
+听松石	ting song shi	74
+桐柏矿	tong bai kuang	95
+铜铂矿	tong bo kuang	59
+铜碲矿	tong di kuang	96
+铜矾石	tong fan shi	74
+痛风石	tong feng shi	256
+铜钙矿	tong gai kuang	61
+铜金矿	tong jin kuang	138
+铜精矿	tong jing kuang	176
+铜矿床	tong kuang chuang	94
+铜矿砂	tong kuang sha	94
+铜矿山	tong kuang shan	98
+铜矿石	tong kuang shi	212
+铜矿体	tong kuang ti	89
+铜矿物	tong kuang wu	56
+铜钼矿	tong mu kuang	94
+铜泡石	tong pao shi	60
+铜铁矿	tong tie kuang	92
+铜硝石	tong xiao shi	51
+铜锌矿	tong xin kuang	68
+铜页岩	tong ye yan	69
+透长石	tou chang shi	86
+透光石	tou guang shi	94
+透辉石	tou hui shi	138
+透明石	tou ming shi	193
+透闪石	tou shan shi	190
+透视石	tou shi shi	67
+吐酒石	tu jiu shi	53
+钍矿床	tu kuang chuang	58
+屠枰石	tu ping shi	60
+突破石	tu po shi	66
+钍钨矿	tu wu kuang	98
+钍钇矿	tu yi kuang	93
+钍铀矿	tu you kuang	78
+图章石	tu zhang shi	65
+拓跋石	tuo ba shi	62
+托帕石	tuo pa shi	183
+瓦斯包	wa si bao	92
+瓦斯弹	wa si dan	121
+瓦斯的	wa si de	160
+瓦斯管	wa si guan	90
+瓦斯矿	wa si kuang	84
+瓦斯炉	wa si lu	217
+瓦斯卢	wa si lu	94
+瓦斯煤	wa si mei	80
+瓦斯气	wa si qi	100
+瓦斯枪	wa si qiang	79
+瓦斯泰	wa si tai	82
+瓦斯特	wa si te	148
+瓦斯提	wa si ti	122
+瓦斯托	wa si tuo	122
+瓦斯行	wa si xing	94
+瓦铜矿	wa tong kuang	89
+挖钻石	wa zuan shi	105
+歪长石	wai chang shi	93
+湾泊石	wan bo shi	59
+顽辉石	wan hui shi	88
+万金石	wan jin shi	80
+万里石	wan li shi	112
+完美石	wan mei shi	76
+王安石	wang an shi	287
+望夫石	wang fu shi	149
+望后石	wang hou shi	94
+忘忧石	wang you shi	51
+韦安石	wei an shi	4
+微化石	wei hua shi	92
+薇角石	wei jiao shi	90
+胃结石	wei jie shi	231
+微晶石	wei jing shi	219
+尾矿坝	wei kuang ba	134
+尾矿槽	wei kuang cao	87
+尾矿池	wei kuang chi	67
+尾矿库	wei kuang ku	956
+尾矿量	wei kuang liang	53
+尾矿渣	wei kuang zha	53
+微澜石	wei lan shi	71
+微劈石	wei pi shi	73
+围山矿	wei shan kuang	89
+胃柿石	wei shi shi	180
+韦万石	wei wan dan	76
+卫闻石	wei wen shi	94
+微陨石	wei yun shi	136
+韦中石	wei zhong shi	62
+韦柱石	wei zhu shi	85
+纹长石	wen chang shi	94
+文房石	wen fang shi	60
+文化石	wen hua shi	297
+文人石	wen ren shi	61
+温于石	wen yu shi	66
+翁公石	weng gong dan	92
+卧虎石	wo hu shi	71
+卧牛石	wo niu shi	78
+沃森石	wo sen shi	73
+卧云石	wo yun shi	67
+我钻石	wo zuan shi	153
+钨铋矿	wu bi kuang	73
+五彩石	wu cai shi	154
+乌钢石	wu gang shi	317
+五光石	wu guang shi	92
+乌龟石	wu gui shi	71
+五花石	wu hua shi	95
+屋基石	wu ji shi	84
+乌金石	wu jin shi	270
+钨精矿	wu jing kuang	174
+钨矿床	wu kuang chuang	70
+钨矿石	wu kuang shi	79
+无矿岩	wu kuang yan	66
+钨锰矿	wu meng kuang	75
+钨铅矿	wu qian kuang	89
+钨铁矿	wu tie kuang	80
+钨铁石	wu tie shi	75
+钨锌矿	wu xin kuang	85
+乌心石	wu xin shi	78
+五行石	wu xing shi	295
+五指石	wu zhi shi	89
+锡钯矿	xi ba kuang	78
+硒钯矿	xi ba kuang	50
+硒铋矿	xi bi kuang	61
+喜峰矿	xi feng kuang	52
+吸附石	xi fu shi	116
+硒汞矿	xi gong kuang	74
+硒钴矿	xi gu kuang	54
+西黄石	xi huang shi	94
+锡精矿	xi jing kuang	79
+细晶石	xi jing shi	81
+洗矿槽	xi kuang cao	94
+锡矿场	xi kuang chang	100
+硒矿床	xi kuang chuang	82
+锡矿床	xi kuang chuang	54
+锡矿工	xi kuang gong	70
+洗矿机	xi kuang ji	74
+西矿街	xi kuang jie	92
+锡矿脉	xi kuang mai	320
+洗矿筛	xi kuang shai	93
+锡矿山	xi kuang shan	125
+锡矿石	xi kuang shi	108
+洗矿塔	xi kuang ta	74
+洗矿筒	xi kuang tong	69
+洗矿桶	xi kuang tong	61
+系缆石	xi lan shi	96
+细砾岩	xi li yan	94
+细料石	xi liao shi	82
+锡铝矿	xi lu kuang	58
+矽镁石	xi mei shi	93
+西盟石	xi meng shi	99
+犀牛石	xi niu shi	62
+矽铍石	xi pi shi	68
+硒铅矿	xi qian kuang	100
+吸水石	xi shui shi	520
+硒铁矿	xi tie kuang	87
+硒铜矿	xi tong kuang	100
+稀土矿	xi tu kuang	182
+锡瓦斯	xi wa si	160
+矽线石	xi xian shi	94
+夕线石	xi xian shi	70
+矽锌矿	xi xin kuang	65
+硒银矿	xi yin kuang	76
+下白石	xia bai shi	114
+霞沸石	xia fei shi	74
+下赣石	xia gan shi	4
+下矿井	xia kuang jing	114
+下拉矿	xia la kuang	84
+下炉石	xia lu shi	76
+下马石	xia ma shi	80
+下岩石	xia yan shi	107
+纤笔石	xian bi shi	99
+纤沸石	xian fei shi	100
+纤硅石	xian gui shi	85
+纤滑石	xian hua shi	62
+鲜黄石	xian huang shi	98
+显晶石	xian jing shi	71
+仙女石	xian nu shi	64
+纤硼石	xian peng shi	87
+纤闪石	xian shan shi	97
+纤铁矿	xian tie kuang	89
+纤维石	xian wei shi	66
+纤锌矿	xian xin kuang	108
+香花石	xiang hua shi	62
+香炉石	xiang lu shi	102
+象形石	xiang xing shi	118
+镶钻石	xiang zuan shi	206
+像钻石	xiang zuan shi	156
+小结石	xiao jie shi	153
+萧介石	xiao jie shi	91
+小矿巢	xiao kuang chao	90
+小卵石	xiao luan shi	112
+小拳石	xiao quan shi	100
+硝石矿	xiao shi kuang	82
+硝酸矿	xiao suan kuang	83
+小碎石	xiao sui shi	113
+小藤石	xiao teng shi	58
+萧象石	xiao xiang shi	84
+小岩石	xiao yan shi	96
+小钻石	xiao zuan shi	158
+谢安石	xie an shi	98
+斜长石	xie chang shi	190
+斜锆矿	xie gao kuang	77
+斜锆石	xie gao shi	65
+斜辉石	xie hui shi	53
+斜晶石	xie jing shi	82
+斜矿层	xie kuang ceng	55
+斜帘石	xie lian shi	91
+斜铝石	xie lu shi	58
+斜楔石	xie xie shi	57
+新布石	xin bu shi	63
+心机石	xin ji shi	56
+新箭石	xin jian shi	59
+新角石	xin jiao shi	53
+锌精矿	xin jing kuang	178
+锌矿床	xin kuang chuang	61
+锌矿石	xin kuang shi	95
+新矿物	xin kuang wu	125
+锌榴石	xin liu shi	65
+锌锰矿	xin meng kuang	61
+新日石	xin ri shi	85
+锌乳石	xin ru shi	76
+新三矿	xin san kuang	73
+欣赏石	xin shang shi	91
+锌铜矿	xin tong kuang	63
+心形石	xin xing shi	88
+新岩石	xin yan shi	68
+兴安石	xing an shi	75
+星角石	xing jiao shi	88
+星菊石	xing ju shi	67
+邢瑞石	xing rui shi	56
+星星石	xing xing shi	58
+星叶石	xing ye shi	92
+幸运石	xing yun shi	219
+溴化锰	xiu hua meng	56
+溴银矿	xiu yin kuang	93
+叙永石	xu yong shi	74
+宣惊石	xuan jing shi	94
+选矿比	xuan kuang bi	75
+玄闪石	xuan shan shi	89
+玄铁矿	xuan tie kuang	105
+玄武石	xuan wu shi	102
+血滴石	xue di shi	441
+雪花石	xue hua shi	76
+血精石	xue jing shi	161
+血晶石	xue jing shi	56
+雪山石	xue shan shi	84
+血印石	xue yin shi	67
+血与石	xue yu shi	59
+血钻石	xue zuan shi	92
+蕈状石	xun zhuang shi	50
+压舱石	ya cang shi	191
+压顶石	ya ding shi	87
+亚化石	ya hua shi	144
+牙结石	ya jie shi	248
+牙克石	ya ke shi	220
+压阑石	ya lan shi	81
+压盘石	ya pan shi	109
+亚婆石	ya po shi	95
+压碎石	ya sui shi	83
+牙形石	ya xing shi	134
+眼结石	yan jie shi	153
+岩溶地	yan rong di	81
+岩溶洞	yan rong dong	92
+岩溶湖	yan rong hu	79
+岩溶化	yan rong hua	95
+岩溶率	yan rong lu	52
+岩溶期	yan rong qi	58
+岩溶泉	yan rong quan	73
+岩溶水	yan rong shui	81
+岩溶相	yan rong xiang	99
+岩溶柱	yan rong zhu	97
+岩溶酌	yan rong zhuo	78
+岩石吧	yan shi ba	170
+岩石边	yan shi bian	118
+岩石层	yan shi ceng	181
+岩石洞	yan shi dong	78
+岩石缝	yan shi feng	118
+岩石后	yan shi hou	118
+岩石画	yan shi hua	81
+岩石间	yan shi jian	146
+岩石块	yan shi kuai	96
+岩石林	yan shi lin	63
+岩石路	yan shi lu	108
+岩石坡	yan shi po	81
+岩石漆	yan shi qi	51
+岩石球	yan shi qiu	66
+岩石丘	yan shi qiu	57
+岩石区	yan shi qu	161
+岩石圈	yan shi quan	207
+岩石鲨	yan shi sha	78
+岩石山	yan shi shan	108
+岩石上	yan shi shang	243
+岩石水	yan shi shui	82
+岩石滩	yan shi tan	61
+岩石系	yan shi xi	89
+岩石下	yan shi xia	136
+岩石学	yan shi xue	180
+岩石园	yan shi yuan	92
+岩石云	yan shi yun	100
+岩石中	yan shi zhong	214
+岩盐矿	yan yan kuang	50
+烟雨石	yan yu shi	99
+羊背石	yang bei shi	78
+羊额石	yang e shi	73
+氧钒矿	yang fan kuang	88
+氧化锰	yang hua meng	141
+氧钼矿	yang mu kuang	97
+阳起石	yang qi shi	280
+杨天石	yang tian shi	184
+阳元石	yang yuan shi	125
+羊陨石	yang yun shi	89
+妖精石	yao jing shi	130
+姚瞿石	yao qu shi	84
+曜日石	yao ri shi	98
+叶笔石	ye bi shi	75
+叶碲矿	ye di kuang	53
+叶沸石	ye fei shi	78
+夜光石	ye guang shi	96
+叶蜡石	ye la shi	179
+叶腊石	ye la shi	125
+夜目石	ye mu shi	80
+页岩的	ye yan de	138
+页岩气	ye yan qi	264
+页岩土	ye yan tu	69
+页岩油	ye yan you	290
+页岩砖	ye yan zhuan	96
+翼笔石	yi bi shi	93
+异剥石	yi bo shi	80
+易潮石	yi chao shi	77
+铱锇矿	yi e kuang	53
+铱铬矿	yi ge kuang	52
+异极矿	yi ji kuang	76
+易解石	yi jie shi	56
+溢晶石	yi jing shi	87
+伊利石	yi li shi	108
+沂蒙矿	yi meng kuang	96
+钇钽矿	yi tan kuang	84
+钇榍石	yi xie shi	92
+乙辛石	yi xin shi	62
+异性石	yi xing shi	82
+钇萤石	yi ying shi	72
+钇铀矿	yi you kuang	65
+一元石	yi yuan shi	122
+引导石	yin dao shi	76
+印度石	yin du shi	68
+隐伏矿	yin fu kuang	88
+银汞矿	yin gong kuang	68
+尹官石	yin guan shi	57
+尹介石	yin jie shi	72
+银金矿	yin jin kuang	100
+铟矿床	yin kuang chuang	79
+银矿床	yin kuang chuang	68
+银矿洞	yin kuang dong	73
+银矿山	yin kuang shan	71
+银矿石	yin kuang shi	125
+银矿湾	yin kuang wan	90
+阴山石	yin shan shi	72
+尹瘦石	yin shou shi	210
+殷铁石	yin tie shi	82
+银铜矿	yin tong kuang	82
+尹熙石	yin xi shi	90
+银星矿	yin xing kuang	85
+银星石	yin xing shi	66
+尹燕石	yin yan shi	58
+阴阳石	yin yang shi	96
+姻缘石	yin yuan shi	98
+印章石	yin zhang shi	120
+英安石	ying an shi	66
+英德石	ying de shi	99
+婴儿石	ying er shi	56
+硬沸石	ying fei shi	54
+英歌石	ying ge shi	111
+鹦哥石	ying ge shi	95
+莺歌石	ying ge shi	59
+荧光石	ying guang shi	79
+硬锰矿	ying meng kuang	94
+萤石矿	ying shi kuang	123
+硬岩石	ying yan shi	336
+鹰眼石	ying yan shi	89
+硬柱石	ying zhu shi	89
+鹰嘴石	ying zui shi	73
+咏孤石	yong gu shi	64
+用巨石	yong ju shi	114
+黝方石	you fang shi	81
+铀钙石	you gai shi	80
+铀硅石	you gui shi	82
+铀矿床	you kuang chuang	100
+铀矿石	you kuang shi	162
+铀矿物	you kuang wu	94
+油矿物	you kuang wu	78
+黝帘石	you lian shi	117
+油麻石	you ma shi	100
+黝铜矿	you tong kuang	81
+铀钍矿	you tu kuang	83
+黝锡矿	you xi kuang	79
+铀霞石	you xia shi	73
+油页岩	you ye yan	209
+游钻石	you zuan shi	79
+喻川石	yu chuan shi	50
+玉滴石	yu di shi	80
+雨花石	yu hua shi	219
+鱼化石	yu hua shi	147
+雨化石	yu hua shi	60
+瑜伽石	yu jia shi	73
+玉矿石	yu kuang shi	76
+羽毛矿	yu mao kuang	50
+俞南石	yu nan shi	61
+鱼脑石	yu nao shi	121
+俞蒲石	yu pu shi	58
+玉石矿	yu shi kuang	156
+鱼首石	yu shou shi	86
+郁漱石	yu shu shi	72
+鱼眼石	yu yan shi	81
+御影石	yu ying shi	65
+鱼珠石	yu zhu shi	77
+原矿舍	yuan kuang she	76
+原矿石	yuan kuang shi	132
+圆砾岩	yuan li yan	93
+园林石	yuan lin shi	62
+原生矿	yuan sheng kuang	146
+元素石	yuan su shi	110
+猿岩石	yuan yan shi	85
+月长石	yue chang shi	141
+月光石	yue guang shi	226
+月亮石	yue liang shi	234
+月球石	yue qiu shi	97
+月乳石	yue ru shi	58
+晕长石	yun chang shi	72
+运矿车	yun kuang che	102
+云矿机	yun kuang ji	24
+运矿岩	yun kuang yan	52
+云母石	yun mu shi	82
+陨铁石	yun tie shi	74
+杂齿石	za chi shi	52
+杂磷石	za lin shi	83
+杂卤石	za lu shi	62
+杂锰矿	za meng kuang	81
+杂萤石	za ying shi	59
+杂陨石	za yun shi	53
+在白石	zai bai shi	128
+在大石	zai da shi	116
+在黄石	zai huang shi	239
+在磐石	zai pan shi	168
+藻化石	zao hua shi	97
+糟化石	zao hua shi	65
+栅笔石	zha bi shi	72
+长结石	zhang jie shi	133
+召唤石	zhao huan shi	310
+沼铁矿	zhao tie kuang	70
+锗矿床	zhe kuang chuang	69
+哲人石	zhe ren shi	110
+针沸石	zhen fei shi	98
+镇魂石	zhen hun shi	112
+甄锦石	zhen jin shi	51
+针镁石	zhen mei shi	96
+针镍矿	zhen nie kuang	67
+针铁矿	zhen tie kuang	136
+针铁石	zhen tie shi	71
+真银矿	zhen yin kuang	82
+针脂石	zhen zhi shi	50
+珍珠石	zhen zhu shi	95
+针柱石	zhen zhu shi	64
+正辉石	zheng hui shi	51
+正金石	zheng jin shi	56
+正砾岩	zheng li yan	98
+正长石	zheng zhang shi	140
+整柱石	zheng zhu shi	61
+直笔石	zhi bi shi	72
+脂光石	zhi guang shi	100
+植硅石	zhi gui shi	87
+智慧石	zhi hui shi	296
+支机石	zhi ji shi	53
+直角石	zhi jiao shi	98
+植结石	zhi jie shi	93
+指菊石	zhi ju shi	84
+知矿物	zhi kuang wu	96
+智利石	zhi li shi	92
+制炼石	zhi lian shi	106
+治疗石	zhi liao shi	347
+纸皮石	zhi pi shi	92
+直闪石	zhi shan shi	110
+炙焰石	zhi yan shi	96
+钟铂矿	zhong bo kuang	57
+中长石	zhong chang shi	95
+中沸石	zhong fei shi	96
+中国石	zhong guo shi	121
+重解石	zhong jie shi	80
+中金石	zhong jin shi	0
+重晶石	zhong jing shi	172
+中矿大	zhong kuang da	81
+重矿物	zhong kuang wu	66
+中矿箱	zhong kuang xiang	61
+中砾石	zhong li shi	63
+钟乳石	zhong ru shi	220
+中心石	zhong xin shi	95
+中性石	zhong xing shi	87
+中岩石	zhong yan shi	95
+中柱石	zhong zhu shi	88
+州煤矿	zhou mei kuang	14
+逐安石	zhu an shi	53
+朱碧石	zhu bi shi	229
+柱顶石	zhu ding shi	76
+柱沸石	zhu fei shi	89
+祝福石	zhu fu shi	238
+柱红石	zhu hong shi	51
+珠角石	zhu jiao shi	83
+竹节石	zhu jie shi	66
+柱晶石	zhu jing shi	67
+主矿物	zhu kuang wu	95
+主矿种	zhu kuang zhong	125
+猪肉石	zhu rou shi	89
+诸西石	zhu xi shi	82
+柱形石	zhu xing shi	68
+柱铀矿	zhu you kuang	62
+转炉石	zhuan lu shi	72
+撞击石	zhuang ji shi	76
+装饰石	zhuang shi shi	53
+锥辉石	zhui hui shi	58
+锥晶石	zhui jing shi	89
+锥纹石	zhui wen shi	127
+准矿石	zhun kuang shi	80
+准矿物	zhun kuang wu	88
+浊沸石	zhuo fei shi	60
+紫脆石	zi cui shi	95
+紫金石	zi jin shi	87
+紫晶石	zi jing shi	89
+姊妹石	zi mei shi	69
+自然石	zi ran shi	122
+紫石街	zi shi jie	126
+紫石林	zi shi lin	90
+紫石乳	zi shi ru	84
+紫石县	zi shi xian	81
+紫石英	zi shi ying	137
+紫星石	zi xing shi	133
+棕榈石	zong lu shi	91
+棕闪石	zong shan shi	54
+祖安石	zu an shi	53
+祖马石	zu ma shi	66
+祖正石	zu zheng shi	99
+钻矿床	zuan kuang chuang	52
+钻石矿	zuan shi kuang	181
+左萝石	zuo luo shi	94
+阿钙霞石	a gai xia shi	10
+阿门角石	a men jiao shi	9
+艾达矿石	ai da kuang shi	5
+埃及矿业	ai ji kuang ye	4
+爱灵松石	ai ling song shi	7
+矮人矿工	ai ren kuang gong	12
+爱石藏石	ai shi cang shi	1
+暗锇铱矿	an e yi kuang	7
+安徽矿业	an hui kuang ye	6
+安克锰锌	an ke meng xin	5
+安全矿柱	an quan kuang zhu	11
+安如磐石	an ru pan shi	30
+安若磐石	an ruo pan shi	32
+暗色矿物	an se kuang wu	8
+安于磐石	an yu pan shi	5
+鞍状矿脉	an zhuang kuang mai	6
+奥贝尔石	ao bei er shi	9
+凹凸棒石	ao tu bang shi	26
+八颗钻石	ba ke zuan shi	1
+扒矿沟道	ba kuang gou dao	9
+扒矿巷道	ba kuang hang dao	5
+扒矿开采	ba kuang kai cai	5
+扒矿水准	ba kuang shui zhun	8
+八面沸石	ba mian fei shi	7
+白斑霞石	bai ban xia shi	9
+柏比氏石	bai bi shi shi	6
+白垩矿床	bai e kuang chuang	8
+白硅钙石	bai gui gai shi	5
+白虎魂石	bai hu hun shi	5
+白虎秘石	bai hu mi shi	1
+白假霞石	bai jia xia shi	8
+白磷钙石	bai lin gai shi	3
+白磷铁矿	bai lin tie kuang	6
+白氯铅矿	bai lu qian kuang	9
+百慕三石	bai mu san shi	13
+白钠铌矿	bai na ni kuang	9
+百年基石	bai nian ji shi	6
+白硼钙石	bai peng gai shi	9
+白蛇纹石	bai she wen shi	1
+白砷镍矿	bai shen nie kuang	9
+白兽魂石	bai shou hun shi	1
+白铁矿族	bai tie kuang zu	6
+白透辉石	bai tou hui shi	5
+白云石矿	bai yun shi kuang	7
+白针柱石	bai zhen zhu shi	7
+白脂晶石	bai zhi jing shi	8
+坂本萤石	ban ben ying shi	6
+板块成矿	ban kuai cheng kuang	9
+板磷钙石	ban lin gai shi	9
+板磷铁矿	ban lin tie kuang	1
+半木半石	ban mu ban shi	6
+板硼钙石	ban peng gai shi	7
+板铅铀矿	ban qian you kuang	10
+伴生矿物	ban sheng kuang wu	29
+斑脱页岩	ban tuo ye yan	9
+斑岩铜矿	ban yan tong kuang	18
+板状矿石	ban zhuang kuang shi	7
+板状岩石	ban zhuang yan shi	10
+保安矿柱	bao an kuang zhu	12
+包被矿物	bao bei kuang wu	8
+保胆取石	bao dan qu shi	39
+鲍店煤矿	bao dian mei kuang	11
+饱和矿物	bao he kuang wu	9
+宝矿国际	bao kuang guo ji	5
+包林皂石	bao lin zao shi	7
+包皮结石	bao pi jie shi	16
+宝山铜矿	bao shan tong kuang	5
+抱石抱石	bao shi bao shi	6
+宝石矿产	bao shi kuang chan	19
+宝石矿工	bao shi kuang gong	32
+宝石矿脉	bao shi kuang mai	12
+宝石矿石	bao shi kuang shi	12
+包水矿物	bao shui kuang wu	9
+薄水铝矿	bao shui lu kuang	7
+包水岩石	bao shui yan shi	9
+爆炸瓦斯	bao zha wa si	10
+钡冰长石	bei bing chang shi	7
+备采矿量	bei cai kuang liang	7
+北窗竹石	bei chuang zhu shi	1
+杯迭层石	bei die ceng shi	7
+北京矿山	bei jing kuang shan	7
+北京矿冶	bei jing kuang ye	5
+被壳矿物	bei ke kuang wu	9
+北矿磁材	bei kuang ci cai	29
+北矿科技	bei kuang ke ji	22
+钡磷铝石	bei lin lu shi	8
+钡镁锰矿	bei mei meng kuang	6
+钡闪叶石	bei shan ye shi	7
+焙烧矿石	bei shao kuang shi	9
+钡十字石	bei shi zi shi	7
+北宿煤矿	bei su mei kuang	24
+钡天青石	bei tian qing shi	10
+钡铁钛石	bei tie tai shi	1
+钡硬锰矿	bei ying meng kuang	14
+铋磷灰石	bi lin hui shi	9
+碧水神石	bi shui shen shi	3
+铋钽铁矿	bi tan tie kuang	7
+碧玺原石	bi xi yuan shi	23
+碧玉矿洞	bi yu kuang dong	13
+变成化石	bian cheng hua shi	9
+变杆沸石	bian gan fei shi	9
+变蓝方石	bian lan fang shi	10
+变菱沸石	bian ling fei shi	8
+变色络石	bian se luo shi	9
+变色柱石	bian se zhu shi	7
+鞭山移石	bian shan yi shi	15
+变水锆石	bian shui gao shi	6
+变形砾石	bian xing li shi	10
+变铀钍石	bian you tu shi	10
+变余矿物	bian yu kuang wu	5
+变质矿床	bian zhi kuang chuang	7
+变质砾岩	bian zhi li yan	6
+表生矿物	biao sheng kuang wu	3
+标型矿物	biao xing kuang wu	8
+标志化石	biao zhi hua shi	9
+标准化石	biao zhun hua shi	8
+标准矿物	biao zhun kuang wu	5
+标准矿样	biao zhun kuang yang	9
+别离磐石	bie li pan shi	8
+冰上溜石	bing shang liu shi	22
+伯方煤矿	bo fang mei kuang	11
+波兰矿难	bo lan kuang nan	7
+玻璃陨石	bo li yun shi	42
+勃姆铝矿	bo mu lu kuang	5
+剥土探矿	bo tu tan kuang	9
+搏泽君石	bo ze jun shi	8
+埠村煤矿	bu cun mei kuang	10
+不分玉石	bu fen yu shi	1
+补天炼石	bu tian lian shi	5
+补天神石	bu tian shen shi	23
+补天顽石	bu tian wan shi	9
+补天遗石	bu tian yi shi	9
+不在黄石	bu zai huang shi	1
+擦痕卵石	ca hen luan shi	6
+采出矿石	cai chu kuang shi	13
+财富基石	cai fu ji shi	23
+彩虹沙石	cai hong sha shi	8
+采金矿工	cai jin kuang gong	12
+采矿程序	cai kuang cheng xu	6
+采矿等级	cai kuang deng ji	5
+采矿方法	cai kuang fang fa	8
+采矿工程	cai kuang gong cheng	5
+采矿工具	cai kuang gong ju	8
+采矿工业	cai kuang gong ye	6
+采矿工艺	cai kuang gong yi	9
+采矿工作	cai kuang gong zuo	8
+采矿规程	cai kuang gui cheng	7
+采矿活动	cai kuang huo dong	9
+采矿技术	cai kuang ji shu	8
+采矿机组	cai kuang ji zu	8
+采矿科学	cai kuang ke xue	9
+采矿硫磺	cai kuang liu huang	6
+采矿品位	cai kuang pin wei	6
+采矿区域	cai kuang qu yu	7
+采矿权利	cai kuang quan li	1
+采矿权人	cai kuang quan ren	52
+采矿设备	cai kuang she bei	6
+采矿设计	cai kuang she ji	8
+采矿协会	cai kuang xie hui	5
+采矿用地	cai kuang yong di	7
+采矿原料	cai kuang yuan liao	6
+彩钼铅矿	cai mu qian kuang	7
+采石矿区	cai shi kuang qu	9
+采准矿量	cai zhun kuang liang	10
+残积矿床	can ji kuang chuang	9
+残积砂矿	can ji sha kuang	8
+残留结石	can liu jie shi	14
+残留矿床	can liu kuang chuang	8
+残留矿渣	can liu kuang zha	5
+残余矿物	can yu kuang wu	7
+餐云卧石	can yun wo shi	11
+沧海顽石	cang hai wan shi	6
+草木竹石	cao mu zhu shi	31
+草酸铁矿	cao suan tie kuang	10
+层间砾岩	ceng jian li yan	9
+层间岩溶	ceng jian yan rong	5
+层控矿床	ceng kong kuang chuang	10
+层内砾岩	ceng nei li yan	9
+层状矿床	ceng zhuang kuang chuang	7
+层状矿脉	ceng zhuang kuang mai	5
+层状铁矿	ceng zhuang tie kuang	8
+层状岩石	ceng zhuang yan shi	22
+柴达木石	chai da mu shi	9
+柴苏辉石	chai su hui shi	10
+常村煤矿	chang cun mei kuang	12
+长江水文	chang jiang shui wen	20
+厂矿科协	chang kuang ke xie	1
+厂矿企业	chang kuang qi ye	41
+常林钻石	chang lin zuan shi	13
+场内矿柱	chang nei kuang zhu	6
+昌润钻石	chang run zuan shi	3
+长沙矿山	chang sha kuang shan	9
+长沙矿冶	chang sha kuang ye	8
+长石矿床	chang shi kuang chuang	5
+肠胃结石	chang wei jie shi	3
+长坞页岩	chang wu ye yan	8
+超白窿石	chao bai long shi	7
+超级晶石	chao ji jing shi	21
+超级矿工	chao ji kuang gong	13
+超微化石	chao wei hua shi	5
+朝鲜辉石	chao xian hui shi	8
+尘寰遗石	chen huan yi shi	7
+沉积矿床	chen ji kuang chuang	18
+辰州矿业	chen zhou kuang ye	30
+成层矿床	cheng ceng kuang chuang	6
+程潮铁矿	cheng chao tie kuang	7
+橙钒钙石	cheng fan gai shi	8
+澄合矿业	cheng he kuang ye	9
+橙尖晶石	cheng jian jing shi	8
+成矿构造	cheng kuang gou zao	9
+成矿建造	cheng kuang jian zao	6
+成矿阶段	cheng kuang jie duan	10
+成矿壳层	cheng kuang ke ceng	5
+成矿流体	cheng kuang liu ti	6
+成矿模式	cheng kuang mo shi	8
+成矿母岩	cheng kuang mu yan	5
+成矿区域	cheng kuang qu yu	10
+成矿时代	cheng kuang shi dai	5
+成矿系列	cheng kuang xi lie	9
+成矿序列	cheng kuang xu lie	8
+成矿岩石	cheng kuang yan shi	7
+成矿因素	cheng kuang yin su	9
+成矿预测	cheng kuang yu ce	8
+成矿元素	cheng kuang yuan su	7
+成矿作用	cheng kuang zuo yong	5
+城市化石	cheng shi hua shi	7
+城中化石	cheng zhong hua shi	7
+赤城明石	chi cheng ming shi	7
+吃鸡滚石	chi ji gun shi	6
+持久化石	chi jiu hua shi	6
+齿绿松石	chi lu song shi	9
+赤铁矿法	chi tie kuang fa	3
+赤铁矿粉	chi tie kuang fen	13
+赤铁矿化	chi tie kuang hua	9
+赤铁矿石	chi tie kuang shi	14
+赤铁矿族	chi tie kuang zu	5
+赤铜铁矿	chi tong tie kuang	6
+持续化石	chi xu hua shi	6
+赤银矿石	chi yin kuang shi	10
+重复矿化	chong fu kuang hua	6
+虫管化石	chong guan hua shi	9
+冲积矿床	chong ji kuang chuang	9
+冲积砾石	chong ji li shi	8
+冲积砂矿	chong ji sha kuang	14
+重庆矿难	chong qing kuang nan	4
+重庆气矿	chong qing qi kuang	3
+充填矿床	chong tian kuang chuang	1
+出矿品位	chu kuang pin wei	12
+储矿平巷	chu kuang ping hang	6
+出矿指挥	chu kuang zhi hui	6
+除铁除锰	chu tie chu meng	4
+雏形成矿	chu xing cheng kuang	7
+储油岩石	chu you yan shi	10
+穿云裂石	chuan yun lie shi	23
+纯铝土矿	chun lu tu kuang	9
+纯绿柱石	chun lu zhu shi	5
+纯镁闪石	chun mei shan shi	7
+纯钠辉石	chun na hui shi	6
+纯闪锌矿	chun shan xin kuang	7
+磁赤铁矿	ci chi tie kuang	14
+磁黄铁矿	ci huang tie kuang	25
+磁力选矿	ci li xuan kuang	7
+次绿泥石	ci lu ni shi	8
+磁铅铁矿	ci qian tie kuang	6
+次软岩石	ci ruan yan shi	8
+次生化石	ci sheng hua shi	9
+次生矿床	ci sheng kuang chuang	16
+次生矿物	ci sheng kuang wu	29
+次铁钒矿	ci tie fan kuang	6
+磁铁矿粉	ci tie kuang fen	9
+磁铁矿砂	ci tie kuang sha	3
+次透辉石	ci tou hui shi	8
+磁性化石	ci xing hua shi	8
+磁性矿石	ci xing kuang shi	1
+磁性矿物	ci xing kuang wu	7
+磁选精矿	ci xuan jing kuang	7
+次要矿物	ci yao kuang wu	8
+簇磷铁矿	cu lin tie kuang	6
+粗选尾矿	cu xuan wei kuang	9
+催化神石	cui hua shen shi	5
+催泪瓦斯	cui lei wa si	18
+脆绿泥石	cui lu ni shi	10
+翠砷铜矿	cui shen tong kuang	8
+脆性岩石	cui xing yan shi	7
+大安山矿	da an shan kuang	5
+大昌矿业	da chang kuang ye	22
+大红袍石	da hong pao shi	5
+大黄山矿	da huang shan kuang	14
+大块矿石	da kuai kuang shi	10
+大理石矿	da li shi kuang	13
+大量采矿	da liang cai kuang	6
+达马斯矿	da ma si kuang	20
+大猫眼石	da mao yan shi	19
+大明一矿	da ming yi kuang	7
+大漠陨石	da mo yun shi	5
+大青山矿	da qing shan kuang	7
+大同矿区	da tong kuang qu	11
+大统矿业	da tong kuang ye	1
+大同煤矿	da tong mei kuang	33
+大型化石	da xing hua shi	5
+大型矿车	da xing kuang che	9
+大兴煤矿	da xing mei kuang	48
+大雁矿区	da yan kuang qu	1
+大冶铁矿	da ye tie kuang	16
+大禹褐石	da yu he shi	32
+带刀矿工	dai dao kuang gong	10
+带了一石	dai le yi shi	13
+代森锰锌	dai sen meng xin	27
+代替矿物	dai ti kuang wu	8
+带状矿脉	dai zhuang kuang mai	9
+带状矿石	dai zhuang kuang shi	8
+岱庄煤矿	dai zhuang mei kuang	7
+淡钡钛石	dan bei tai shi	6
+单成砾岩	dan cheng li yan	7
+胆道结石	dan dao jie shi	29
+单个矿粒	dan ge kuang li	7
+胆管结石	dan guan jie shi	39
+单硅钙矿	dan gui gai kuang	8
+单硅钙石	dan gui gai shi	6
+淡硅锰石	dan gui meng shi	11
+淡红沸石	dan hong fei shi	15
+淡红银矿	dan hong yin kuang	6
+单矿物岩	dan kuang wu yan	10
+淡蓝顽石	dan lan wan shi	7
+单硫铁矿	dan liu tie kuang	8
+胆囊结石	dan nang jie shi	50
+淡砷铜矿	dan shen tong kuang	5
+单斜锆石	dan xie gao shi	9
+单斜辉石	dan xie hui shi	21
+单斜闪石	dan xie shan shi	9
+单一矿石	dan yi kuang shi	8
+单栅笔石	dan zha bi shi	9
+当垫脚石	dang dian jiao shi	32
+盗采砂石	dao cai sha shi	22
+到五块石	dao wu kuai shi	10
+到牙克石	dao ya ke shi	12
+德国矿业	de guo kuang ye	6
+德国煤矿	de guo mei kuang	5
+德兴铜矿	de xing tong kuang	27
+底板岩石	di ban yan shi	6
+碲铋银矿	di bi yin kuang	7
+地表采矿	di biao cai kuang	1
+第二油矿	di er you kuang	1
+碲金银矿	di jin yin kuang	12
+地矿医院	di kuang yi yuan	7
+低品位矿	di pin wei kuang	23
+滴水穿石	di shui chuan shi	43
+地下矿山	di xia kuang shan	5
+地下岩溶	di xia yan rong	10
+碲锌锰矿	di xin meng kuang	8
+地狱火石	di yu huo shi	7
+地质矿产	di zhi kuang chan	55
+地之原石	di zhi yuan shi	1
+地质找矿	di zhi zhao kuang	32
+地中基石	di zhong ji shi	4
+碘铬钙石	dian ge gai shi	3
+电光火石	dian guang huo shi	42
+碘光卤石	dian guang lu shi	8
+点金成石	dian jin cheng shi	10
+电力选矿	dian li xuan kuang	9
+碘溴银矿	dian xiu yin kuang	8
+电泳选矿	dian yong xuan kuang	6
+钓鱼岛石	diao yu dao shi	6
+叠生矿床	die sheng kuang chuang	1
+叠套矿床	die tao kuang chuang	6
+顶板岩石	ding ban yan shi	8
+鼎铛玉石	ding cheng yu shi	16
+顶盘砾岩	ding pan li yan	9
+顶天三石	ding tian san shi	3
+东北角石	dong bei jiao shi	3
+东欢坨矿	dong huan tuo kuang	11
+东矿社区	dong kuang she qu	11
+冻蓝闪石	dong lan shan shi	6
+东临碣石	dong lin jie shi	32
+东露天矿	dong lu tian kuang	10
+东滩煤矿	dong tan mei kuang	9
+动物化石	dong wu hua shi	9
+东乡铜矿	dong xiang tong kuang	9
+洞穴矿物	dong xue kuang wu	7
+豆状铁矿	dou zhuang tie kuang	5
+杜儿坪矿	du er ping kuang	17
+毒钙镁石	du gai mei shi	8
+度量钻石	du liang zuan shi	1
+毒气瓦斯	du qi wa si	17
+短棒角石	duan bang jiao shi	23
+短空晶石	duan kong jing shi	5
+煅阳起石	duan yang qi shi	4
+钝钠辉石	dun na hui shi	5
+多彩燧石	duo cai sui shi	3
+多尘矿井	duo chen kuang jing	5
+多金属矿	duo jin shu kuang	32
+多孔霞石	duo kong xia shi	9
+多孔岩石	duo kong yan shi	7
+多矿物岩	duo kuang wu yan	8
+多蒙药石	duo meng yao shi	32
+多铁矿质	duo tie kuang zhi	7
+峨口铁矿	e kou tie kuang	9
+鄂信钻石	e xin zuan shi	18
+恶运钻石	e yun zuan shi	12
+鄂庄煤矿	e zhuang mei kuang	9
+二灰碎石	er hui sui shi	19
+二氯化锰	er lu hua meng	3
+鲕绿泥石	er lu ni shi	21
+二十四石	er shi si shi	12
+二氧化锰	er yang hua meng	43
+发光沸石	fa guang fei shi	9
+发光矿物	fa guang kuang wu	7
+法国矿难	fa guo kuang nan	6
+法国矿业	fa guo kuang ye	5
+发硼钙石	fa peng gai shi	9
+发展基石	fa zhan ji shi	32
+钒钡铜矿	fan bei tong kuang	9
+反称笔石	fan cheng bi shi	10
+钒磁铁矿	fan ci tie kuang	3
+钒钙铜矿	fan gai tong kuang	1
+钒钙铀矿	fan gai you kuang	1
+范各庄矿	fan ge zhuang kuang	16
+反击磁石	fan ji ci shi	12
+钒钾铀矿	fan jia you kuang	16
+矾钾铀矿	fan jia you kuang	6
+钒锰铅矿	fan meng qian kuang	7
+钒钼铅矿	fan mu qian kuang	7
+钒铅锌矿	fan qian xin kuang	13
+钒铜铅矿	fan tong qian kuang	5
+钒铜铀矿	fan tong you kuang	7
+反纹长石	fan wen chang shi	8
+钒锌铅矿	fan xin qian kuang	8
+反应矿物	fan ying kuang wu	5
+仿大理石	fang da li shi	24
+方碲金矿	fang di jin kuang	10
+放电锰矿	fang dian meng kuang	10
+方黄铜矿	fang huang tong kuang	13
+方黄锡矿	fang huang xi kuang	6
+方辉铜矿	fang hui tong kuang	6
+房间矿柱	fang jian kuang zhu	6
+放矿点口	fang kuang dian kou	10
+放矿计划	fang kuang ji hua	6
+放矿溜道	fang kuang liu dao	9
+放矿溜口	fang kuang liu kou	7
+放矿上山	fang kuang shang shan	8
+放矿速度	fang kuang su du	5
+放矿制度	fang kuang zhi du	10
+方硫镉矿	fang liu ge kuang	7
+方硫镍矿	fang liu nie kuang	7
+方硫银矿	fang liu yin kuang	8
+方锰铅矿	fang meng qian kuang	9
+方锰铁矿	fang meng tie kuang	9
+方铅矿族	fang qian kuang zu	7
+放射矿物	fang she kuang wu	5
+方霜晶石	fang shuang jing shi	10
+防水矿柱	fang shui kuang zhu	3
+方铜铅矿	fang tong qian kuang	10
+方钨铁矿	fang wu tie kuang	8
+方硒钴矿	fang xi gu kuang	8
+方黝锡矿	fang you xi kuang	10
+翡翠赌石	fei cui du shi	40
+翡翠玉石	fei cui yu shi	46
+翡翠原石	fei cui yuan shi	51
+非法砂石	fei fa sha shi	14
+非金属矿	fei jin shu kuang	41
+非晶铀矿	fei jing you kuang	9
+非矿大厦	fei kuang da sha	3
+废矿山层	fei kuang shan ceng	3
+废矿物油	fei kuang wu you	27
+非矿异常	fei kuang yi chang	5
+飞来神石	fei lai shen shi	27
+肥料矿物	fei liao kuang wu	7
+非煤矿山	fei mei kuang shan	43
+飞沙走石	fei sha zou shi	43
+飞砂走石	fei sha zou shi	27
+沸石矿床	fei shi kuang chuang	1
+废石尾矿	fei shi wei kuang	21
+非洲矿难	fei zhou kuang nan	4
+非洲矿业	fei zhou kuang ye	6
+分带化石	fen dai hua shi	9
+粉硅镁石	fen gui mei shi	7
+粉红钻石	fen hong zuan shi	21
+分凝矿床	fen ning kuang chuang	8
+粉碎矿石	fen sui kuang shi	6
+汾西矿业	fen xi kuang ye	28
+分乡页岩	fen xiang ye yan	7
+粉状矿石	fen zhuang kuang shi	1
+分子化石	fen zi hua shi	10
+风成砂矿	feng cheng sha kuang	8
+峰大斑石	feng da ban shi	4
+风化矿床	feng hua kuang chuang	1
+风化矿苗	feng hua kuang miao	10
+风化矿石	feng hua kuang shi	1
+风化岩石	feng hua yan shi	21
+凤凰山矿	feng huang shan kuang	12
+封矿限采	feng kuang xian cai	4
+风力选矿	feng li xuan kuang	7
+风鸟千石	feng niao qian dan	7
+风信子石	feng xin zi shi	11
+风之精石	feng zhi jing shi	7
+副钡长石	fu bei chang shi	8
+拂彼白石	fu bi bai shi	1
+复成砾岩	fu cheng li yan	7
+复盖岩石	fu gai yan shi	10
+富钙铀矿	fu gai you kuang	7
+氟硅铈矿	fu gui shi kuang	6
+复合矿层	fu he kuang ceng	6
+复合矿床	fu he kuang chuang	8
+复合矿石	fu he kuang shi	6
+复合矿物	fu he kuang wu	15
+阜康陨石	fu kang yun shi	19
+富矿带泉	fu kuang dai quan	6
+阜矿集团	fu kuang ji tuan	15
+浮雷炬石	fu lei ju shi	4
+富力煤矿	fu li mei kuang	7
+氟氯铅矿	fu lu qian kuang	5
+富锰闪石	fu meng shan shi	7
+芙蓉铀矿	fu rong you kuang	7
+富瑟银矿	fu se yin kuang	23
+符山铁矿	fu shan tie kuang	1
+复砷镍矿	fu shen nie kuang	8
+氟铈锎矿	fu shi kai kuang	6
+复水锰矿	fu shui meng kuang	8
+氟碳铈矿	fu tan shi kuang	24
+富铁矿石	fu tie kuang shi	1
+富铁泥石	fu tie ni shi	5
+符文血石	fu wen xue shi	3
+复稀金矿	fu xi jin kuang	7
+浮选精矿	fu xuan jing kuang	3
+浮选矿浆	fu xuan kuang jiang	9
+浮选尾矿	fu xuan wei kuang	3
+负异性石	fu yi xing shi	7
+浮游矿物	fu you kuang wu	7
+浮游选矿	fu you xuan kuang	10
+钆镓榴石	ga jia liu shi	10
+钙铒钇矿	gai er yi kuang	7
+钙钒铜矿	gai fan tong kuang	9
+钙橄榄石	gai gan lan shi	1
+钙铬榴石	gai ge liu shi	24
+钙硅铈石	gai gui shi shi	7
+钙黄长石	gai huang chang shi	1
+钙交沸石	gai jiao fei shi	10
+钙孔雀石	gai kong que shi	5
+钙磷钙石	gai lin gai shi	1
+钙磷铅矿	gai lin qian kuang	7
+钙磷铁矿	gai lin tie kuang	1
+钙菱锰矿	gai ling meng kuang	1
+钙菱锶矿	gai ling si kuang	9
+钙铝榴石	gai lu liu shi	31
+钙钠长石	gai na chang shi	1
+钙铌水石	gai ni shui shi	8
+钙铌钽矿	gai ni tan kuang	5
+钙锘榴石	gai nuo liu shi	6
+钙铍柱石	gai pi zhu shi	7
+钙砷铅矿	gai shen qian kuang	7
+钙砷铁矿	gai shen tie kuang	1
+钙十字石	gai shi zi shi	6
+钙钛铌矿	gai tai ni kuang	7
+钙铁辉石	gai tie hui shi	15
+钙铁榴石	gai tie liu shi	28
+钙斜长石	gai xie chang shi	7
+钙钇铒矿	gai yi er kuang	9
+钙硬锰矿	gai ying meng kuang	10
+钙藻化石	gai zao hua shi	5
+钙质页岩	gai zhi ye yan	9
+肝赤铜矿	gan chi tong kuang	9
+肝胆结石	gan dan jie shi	32
+干给矿机	gan gei kuang ji	8
+肝管结石	gan guan jie shi	12
+橄榄铜矿	gan lan tong kuang	17
+橄榄雨石	gan lan yu shi	5
+肝内结石	gan nei jie shi	15
+甘肃矿业	gan su kuang ye	5
+钢骑之矿	gang qi zhi kuang	27
+钢玉矿石	gang yu kuang shi	1
+钢玉石矿	gang yu shi kuang	5
+高峰坠石	gao feng zhui shi	10
+锆钙钛矿	gao gai tai kuang	1
+锆硅钾石	gao gui jia shi	5
+膏肓泉石	gao huang quan shi	32
+锆钪钇石	gao kang yi shi	6
+高磷铁矿	gao lin tie kuang	1
+高炉富矿	gao lu fu kuang	8
+高炉矿渣	gao lu kuang zha	16
+高铝矿物	gao lu kuang wu	3
+高能焚石	gao neng fen shi	3
+高品位矿	gao pin wei kuang	13
+睾丸结石	gao wan jie shi	5
+铬磁铁矿	ge ci tie kuang	1
+各国化石	ge guo hua shi	4
+各国矿场	ge guo kuang chang	8
+各国矿工	ge guo kuang gong	7
+各国矿难	ge guo kuang nan	8
+各国矿业	ge guo kuang ye	5
+各国煤矿	ge guo mei kuang	7
+各国铜矿	ge guo tong kuang	6
+铬尖晶石	ge jian jing shi	16
+铬磷铝石	ge lin lu shi	9
+铬绿帘石	ge lu lian shi	7
+铬绿泥石	ge lu ni shi	9
+铬铝英石	ge lu ying shi	8
+铬镁榴石	ge mei liu shi	8
+各省矿难	ge sheng kuang nan	7
+各省矿业	ge sheng kuang ye	6
+铬铁矿床	ge tie kuang chuang	8
+铬铁矿浆	ge tie kuang jiang	10
+铬铁矿砂	ge tie kuang sha	3
+铬透辉石	ge tou hui shi	19
+各种结石	ge zhong jie shi	29
+给矿粒度	gei kuang li du	7
+给矿浓度	gei kuang nong du	7
+功垂金石	gong chui jin shi	32
+躬蹈矢石	gong dao shi shi	3
+工矿灯具	gong kuang deng ju	5
+工矿灯罩	gong kuang deng zhao	1
+工矿公司	gong kuang gong si	26
+工矿配件	gong kuang pei jian	16
+工矿企业	gong kuang qi ye	49
+工矿商贸	gong kuang shang mao	33
+工矿设备	gong kuang she bei	25
+工矿用地	gong kuang yong di	25
+躬冒矢石	gong mao shi shi	7
+共生矿物	gong sheng kuang wu	6
+汞型矿化	gong xing kuang hua	9
+工业矿石	gong ye kuang shi	8
+工业矿物	gong ye kuang wu	6
+故爱雅石	gu ai ya shi	4
+孤臣页岩	gu chen ye yan	8
+钴方解石	gu fang jie shi	8
+孤峰页岩	gu feng ye yan	7
+古交工矿	gu jiao gong kuang	10
+钴菱锌矿	gu ling xin kuang	1
+姑山铁矿	gu shan tie kuang	1
+崮山页岩	gu shan ye yan	6
+钴砷铁矿	gu shen tie kuang	9
+钴十字石	gu shi zi shi	6
+古书院矿	gu shu yuan kuang	18
+古铜辉石	gu tong hui shi	25
+关闭矿山	guan bi kuang shan	9
+贯入矿体	guan ru kuang ti	7
+管状矿体	guan zhuang kuang ti	6
+光大安石	guang da an shi	27
+光电选矿	guang dian xuan kuang	7
+广东矿难	guang dong kuang nan	6
+广东矿业	guang dong kuang ye	6
+光壳节石	guang ke jie shi	8
+广西矿难	guang xi kuang nan	5
+广西矿业	guang xi kuang ye	6
+光学矿物	guang xue kuang wu	8
+硅钡铍矿	gui bei pi kuang	8
+硅钡铁矿	gui bei tie kuang	8
+硅矾钙石	gui fan gai shi	30
+硅钙镁石	gui gai mei shi	9
+硅钙铅矿	gui gai qian kuang	8
+硅钙铜矿	gui gai tong kuang	5
+硅钙锡石	gui gai xi shi	7
+硅钙铀矿	gui gai you kuang	7
+贵橄榄石	gui gan lan shi	21
+硅锆钠石	gui gao na shi	7
+桂硅钙石	gui gui gai shi	8
+硅黄长石	gui huang chang shi	8
+硅孔雀石	gui kong que shi	24
+硅磷灰石	gui lin hui shi	9
+硅磷铈石	gui lin shi shi	8
+硅铝钙石	gui lu gai shi	5
+硅铝矿物	gui lu kuang wu	1
+硅镁镍矿	gui mei nie kuang	3
+硅镁铅矿	gui mei qian kuang	8
+硅镁铀矿	gui mei you kuang	7
+硅锰合金	gui meng he jin	17
+硅锰铅矿	gui meng qian kuang	8
+硅钠锆石	gui na gao shi	5
+硅钠铌石	gui na ni shi	8
+硅钠钛矿	gui na tai kuang	3
+硅铌钠矿	gui ni na kuang	8
+硅硼钙石	gui peng gai shi	16
+硅硼镁石	gui peng mei shi	8
+硅硼钠石	gui peng na shi	5
+硅铍钇矿	gui pi yi kuang	22
+硅铅锰矿	gui qian meng kuang	10
+硅铅铁矿	gui qian tie kuang	9
+硅铅锌矿	gui qian xin kuang	6
+硅铅铀矿	gui qian you kuang	9
+硅石矿床	gui shi kuang chuang	9
+硅酸钍矿	gui suan tu kuang	1
+硅钛钠石	gui tai na shi	6
+硅锑锰矿	gui ti meng kuang	9
+硅铁钡矿	gui tie bei kuang	1
+硅铁灰石	gui tie hui shi	12
+硅铜铀矿	gui tong you kuang	8
+硅钍锆石	gui tu gao shi	8
+硅钍钇矿	gui tu yi kuang	5
+硅钨镁矿	gui wu mei kuang	6
+硅稀土石	gui xi tu shi	8
+硅锌铝石	gui xin lu shi	6
+硅质岩石	gui zhi yan shi	10
+硅质页岩	gui zhi ye yan	3
+贵州矿难	gui zhou kuang nan	5
+贵州络石	gui zhou luo shi	11
+国城矿业	guo cheng kuang ye	7
+国家柱石	guo jia zhu shi	25
+果园矿场	guo yuan kuang chang	7
+哈瓦斯社	ha wa si she	67
+海岸砾石	hai an li shi	6
+海边的石	hai bian de shi	4
+海滨砂矿	hai bin sha kuang	9
+海底采矿	hai di cai kuang	6
+海底矿产	hai di kuang chan	8
+海底矿床	hai di kuang chuang	6
+海底砂矿	hai di sha kuang	5
+海蓝石的	hai lan shi de	32
+海蓝柱石	hai lan zhu shi	5
+海绿石化	hai lu shi hua	8
+海绿石砂	hai lu shi sha	17
+海洋采矿	hai yang cai kuang	7
+海之化石	hai zhi hua shi	1
+汉白玉石	han bai yu shi	25
+含钡矿物	han bei kuang wu	5
+含铋矿物	han bi kuang wu	7
+含钒矿物	han fan kuang wu	6
+含钙矿物	han gai kuang wu	6
+含锆矿物	han gao kuang wu	7
+含镉矿物	han ge kuang wu	6
+含铬矿物	han ge kuang wu	5
+含汞矿物	han gong kuang wu	6
+含钴矿物	han gu kuang wu	4
+汉画像石	han hua xiang shi	33
+含钾矿物	han jia kuang wu	7
+含金矿物	han jin kuang wu	6
+含金砾岩	han jin li yan	6
+含矿地带	han kuang di dai	1
+含矿泡沫	han kuang pao mo	5
+含矿物质	han kuang wu zhi	38
+含矿系数	han kuang xi shu	9
+含矿岩石	han kuang yan shi	9
+含铼矿物	han lai kuang wu	6
+含铑矿物	han lao kuang wu	7
+含锂矿物	han li kuang wu	8
+韩陵片石	han ling pian shi	3
+含铝矿物	han lu kuang wu	28
+含镁矿物	han mei kuang wu	25
+含锰矿物	han meng kuang wu	16
+含锰砂岩	han meng sha yan	8
+含锰铁矿	han meng tie kuang	1
+含钼矿物	han mu kuang wu	8
+含钠矿物	han na kuang wu	7
+含铌矿物	han ni kuang wu	7
+含镍矿物	han nie kuang wu	11
+含铍矿物	han pi kuang wu	5
+含铅矿物	han qian kuang wu	5
+含铯矿物	han se kuang wu	7
+寒山片石	han shan pian shi	3
+韩山片石	han shan pian shi	1
+含砷矿物	han shen kuang wu	4
+含铈矿物	han shi kuang wu	6
+含锶矿物	han si kuang wu	8
+含铊矿物	han ta kuang wu	5
+含钛矿物	han tai kuang wu	4
+含钽矿物	han tan kuang wu	7
+含碳矿物	han tan kuang wu	6
+含锑矿物	han ti kuang wu	4
+寒铁矿石	han tie kuang shi	5
+含铁矿石	han tie kuang shi	2
+含铁矿物	han tie kuang wu	8
+含铜矿物	han tong kuang wu	6
+含钍矿物	han tu kuang wu	8
+含瓦斯的	han wa si de	8
+韩旺铁矿	han wang tie kuang	1
+含钨矿物	han wu kuang wu	6
+含锡矿物	han xi kuang wu	5
+含锌矿物	han xin kuang wu	8
+含盐岩石	han yan yan shi	5
+含钇矿物	han yi kuang wu	5
+含银矿物	han yin kuang wu	8
+含铀矿物	han you kuang wu	4
+含油岩石	han you yan shi	8
+含铀页岩	han you ye yan	5
+含锗矿物	han zhe kuang wu	5
+号炼金石	hao lian jin shi	8
+河北矿难	he bei kuang nan	6
+合成变石	he cheng bian shi	3
+合成沸石	he cheng fei shi	9
+合成矿物	he cheng kuang wu	6
+合成魔石	he cheng mo shi	3
+合成岩石	he cheng yan shi	3
+合成钻石	he cheng zuan shi	8
+河床砂矿	he chuang sha kuang	9
+河道砂石	he dao sha shi	36
+赫碲铋矿	he di bi kuang	9
+荷福炬石	he fu ju shi	4
+褐符山石	he fu shan shi	5
+河谷砂矿	he gu sha kuang	7
+褐硅锰矿	he gui meng kuang	7
+褐硅铈矿	he gui shi kuang	5
+褐堇青石	he jin qing shi	6
+合矿股份	he kuang gu fen	22
+喝矿泉水	he kuang quan shui	44
+核磷铝石	he lin lu shi	1
+褐硫钙石	he liu gai shi	1
+褐硫锰矿	he liu meng kuang	6
+赫硫镍矿	he liu nie kuang	8
+赫洛宾矿	he luo bin kuang	9
+河南矿难	he nan kuang nan	4
+河南矿业	he nan kuang ye	8
+褐闪石岩	he shan shi yan	8
+褐砷镍矿	he shen nie kuang	7
+褐砷铁矿	he shen tie kuang	5
+褐铁矿化	he tie kuang hua	10
+褐稀土矿	he xi tu kuang	8
+褐斜闪石	he xie shan shi	7
+褐锌锰矿	he xin meng kuang	9
+褐氧汞矿	he yang gong kuang	7
+褐钇铌矿	he yi ni kuang	14
+褐钇钽矿	he yi tan kuang	8
+黑铋金矿	hei bi jin kuang	6
+黑辰砂矿	hei chen sha kuang	10
+黑碲铜矿	hei di tong kuang	7
+黑电气石	hei dian qi shi	7
+黑贵榴石	hei gui liu shi	4
+黑金刚石	hei jin gang shi	17
+黑金红石	hei jin hong shi	10
+黑晶脂石	hei jing zhi shi	6
+黑氯铜矿	hei lu tong kuang	5
+黑钼钴矿	hei mu gu kuang	5
+黑色磁石	hei se ci shi	18
+黑色页岩	hei se ye yan	5
+黑色陨石	hei se yun shi	12
+黑砷铁矿	hei shen tie kuang	6
+黑稀金矿	hei xi jin kuang	16
+黑稀土矿	hei xi tu kuang	5
+黑斜钒矿	hei xie fan kuang	6
+黑锌锰矿	hei xin meng kuang	1
+黑铀钍矿	hei you tu kuang	8
+痕迹化石	hen ji hua shi	9
+衡水文化	heng shui wen hua	7
+宏达矿业	hong da kuang ye	38
+红电气石	hong dian qi shi	6
+红矾铅矿	hong fan qian kuang	10
+红钙长石	hong gai chang shi	8
+红铬铅矿	hong ge qian kuang	7
+红硅镁石	hong gui mei shi	6
+红硅锰矿	hong gui meng kuang	8
+红花石蒜	hong hua shi suan	28
+红辉沸石	hong hui fei shi	6
+洪积砂矿	hong ji sha kuang	9
+红坚岭石	hong jian ling shi	9
+红茎石杉	hong jing shi shan	7
+红磷锰矿	hong lin meng kuang	6
+红磷钠矿	hong lin na kuang	7
+红磷铁矿	hong lin tie kuang	7
+红菱沸石	hong ling fei shi	8
+红绿柱石	hong lu zhu shi	22
+红锰铁矿	hong meng tie kuang	8
+红钠闪石	hong na shan shi	5
+红铅铀矿	hong qian you kuang	7
+红色石英	hong se shi ying	3
+红色岩石	hong se yan shi	26
+红砷锰矿	hong shen meng kuang	10
+红砷镍矿	hong shen nie kuang	20
+红砷铁矿	hong shen tie kuang	8
+红砷锌矿	hong shen xin kuang	1
+红石砬子	hong shi la zi	31
+红石榴水	hong shi liu shui	23
+红石榴镇	hong shi liu zhen	6
+红石守护	hong shi shou hu	7
+红石支路	hong shi zhi lu	5
+红铊铅矿	hong ta qian kuang	11
+宏泰矿业	hong tai kuang ye	20
+红钛锰矿	hong tai meng kuang	6
+红钛铁矿	hong tai tie kuang	6
+红锑锰矿	hong ti meng kuang	5
+红锑镍矿	hong ti nie kuang	3
+红卫煤矿	hong wei mei kuang	13
+红纹长石	hong wen chang shi	6
+红稀金矿	hong xi jin kuang	6
+红硒铜矿	hong xi tong kuang	6
+红纤维石	hong xian wei shi	7
+红岩煤矿	hong yan mei kuang	18
+红阳三矿	hong yang san kuang	3
+红叶石楠	hong ye shi nan	33
+后成矿床	hou cheng kuang chuang	5
+后生矿床	hou sheng kuang chuang	9
+湖北黄石	hu bei huang shi	37
+湖北络石	hu bei luo shi	9
+护顶矿柱	hu ding kuang zhu	4
+护国柱石	hu guo zhu shi	10
+胡乐页岩	hu le ye yan	8
+湖南角石	hu nan jiao shi	8
+湖南矿难	hu nan kuang nan	6
+琥珀彩石	hu po cai shi	7
+琥珀化石	hu po hua shi	22
+琥珀原石	hu po yuan shi	36
+花斑彩石	hua ban cai shi	15
+华丰煤矿	hua feng mei kuang	16
+花岗岩石	hua gang yan shi	35
+滑硅镍矿	hua gui nie kuang	8
+华晶钻石	hua jing zuan shi	13
+华联矿业	hua lian kuang ye	38
+花山煤矿	hua shan mei kuang	3
+滑蛇纹石	hua she wen shi	5
+滑石矿床	hua shi kuang chuang	1
+化为滚石	hua wei gun shi	1
+华夏基石	hua xia ji shi	47
+化学化石	hua xue hua shi	10
+化学选矿	hua xue xuan kuang	8
+花叶络石	hua ye luo shi	7
+华艺矿业	hua yi kuang ye	5
+华钰矿业	hua yu kuang ye	30
+患胆结石	huan dan jie shi	36
+缓慢叠石	huan man die shi	4
+寰亚矿业	huan ya kuang ye	14
+环氧磨石	huan yang mo shi	22
+环状矿石	huan zhuang kuang shi	9
+环状矿体	huan zhuang kuang ti	7
+环状列石	huan zhuang lie shi	32
+黄铵汞矿	huang an gong kuang	6
+黄钡铀矿	huang bei you kuang	8
+黄电气石	huang dian qi shi	6
+黄碘银矿	huang dian yin kuang	1
+黄高岭石	huang gao ling shi	7
+黄铬钾石	huang ge jia shi	6
+黄钾铁石	huang jia tie shi	6
+皇家盐矿	huang jia yan kuang	10
+黄胶磷矿	huang jiao lin kuang	9
+黄金矿业	huang jin kuang ye	54
+黄磷铁矿	huang lin tie kuang	1
+黄陵矿业	huang ling kuang ye	18
+黄菱铀矿	huang ling you kuang	6
+黄榴砷矿	huang liu shen kuang	8
+黄氯汞矿	huang lu gong kuang	5
+黄绿帘石	huang lu lian shi	5
+黄氯铅矿	huang lu qian kuang	8
+黄绿蛭石	huang lu zhi shi	8
+黄钼铀矿	huang mu you kuang	5
+黄山松石	huang shan song shi	16
+黄砷榴石	huang shen liu shi	8
+黄钽铁矿	huang tan tie kuang	9
+黄铁矿床	huang tie kuang chuang	10
+黄铁矿化	huang tie kuang hua	15
+黄铁矿硫	huang tie kuang liu	10
+黄铁矿石	huang tie kuang shi	7
+黄铁矿渣	huang tie kuang zha	1
+黄铁矿族	huang tie kuang zu	8
+黄土岩溶	huang tu yan rong	9
+黄硒铅矿	huang xi qian kuang	10
+黄钇钽矿	huang yi tan kuang	6
+黄铀矾矿	huang you fan kuang	6
+辉铋镍矿	hui bi nie kuang	5
+辉铋铅矿	hui bi qian kuang	6
+辉铋铜矿	hui bi tong kuang	7
+回采矿量	hui cai kuang liang	8
+回采矿柱	hui cai kuang zhu	9
+回城神石	hui cheng shen shi	10
+辉赤铁矿	hui chi tie kuang	8
+辉碲铋矿	hui di bi kuang	8
+灰方柱石	hui fang zhu shi	6
+灰硅钙石	hui gui gai shi	1
+灰贵榴石	hui gui liu shi	9
+辉绿泥石	hui lu ni shi	5
+辉铅铋矿	hui qian bi kuang	5
+辉闪石类	hui shan shi lei	8
+辉砷钴矿	hui shen gu kuang	16
+辉砷镍矿	hui shen nie kuang	9
+灰砷铜矿	hui shen tong kuang	8
+辉铊锑矿	hui ta ti kuang	8
+辉锑铋矿	hui ti bi kuang	8
+辉锑铅矿	hui ti qian kuang	12
+辉锑铜矿	hui ti tong kuang	10
+辉锑银矿	hui ti yin kuang	7
+辉铁镍矿	hui tie nie kuang	6
+辉铁锑矿	hui tie ti kuang	6
+辉铜矿化	hui tong kuang hua	6
+辉铜银矿	hui tong yin kuang	7
+灰硒汞矿	hui xi gong kuang	10
+辉硒银矿	hui xi yin kuang	10
+灰岩溶坑	hui yan rong keng	6
+混合矿石	hun he kuang shi	6
+火币矿池	huo bi kuang chi	32
+火山矿床	huo shan kuang chuang	10
+火山砾岩	huo shan li yan	12
+火山岩石	huo shan yan shi	28
+火星陨石	huo xing yun shi	41
+火之精石	huo zhi jing shi	3
+火之原石	huo zhi yuan shi	11
+吉丙陨石	ji bing yun shi	13
+极磁铁矿	ji ci tie kuang	6
+激光碎石	ji guang sui shi	23
+吉林磐石	ji lin pan shi	25
+吉林陨石	ji lin yun shi	23
+级魔晶石	ji mo jing shi	10
+级配砂石	ji pei sha shi	9
+级配碎石	ji pei sui shi	22
+济三煤矿	ji san mei kuang	5
+吉山铁矿	ji shan tie kuang	1
+击石拊石	ji shi fu shi	15
+激水漂石	ji shui piao shi	7
+机弦甩石	ji xian shuai shi	7
+机械落矿	ji xie luo kuang	7
+机械装矿	ji xie zhuang kuang	7
+基性岩石	ji xing yan shi	11
+机制砂石	ji zhi sha shi	13
+钾铵铁矿	jia an tie kuang	9
+假白榴石	jia bai liu shi	6
+甲贝化石	jia bei hua shi	1
+钾冰晶石	jia bing jing shi	9
+钾钒铀矿	jia fan you kuang	6
+钾钙霞石	jia gai xia shi	1
+假硅灰石	jia gui hui shi	8
+夹河煤矿	jia he mei kuang	3
+钾碱矿床	jia jian kuang chuang	8
+假角砾岩	jia jiao li yan	7
+假晶滑石	jia jing hua shi	6
+假孔雀石	jia kong que shi	8
+家里没矿	jia li mei kuang	30
+家里有矿	jia li you kuang	32
+假磷灰石	jia lin hui shi	8
+假磷铜矿	jia lin tong kuang	6
+假绿泥石	jia lu ni shi	7
+钾氯铅矿	jia lu qian kuang	9
+镓钠长石	jia na chang shi	9
+假钠沸石	jia na fei shi	7
+迦纳矿场	jia na kuang chang	7
+甲霜锰锌	jia shuang meng xin	1
+家无担石	jia wu dan shi	17
+家无儋石	jia wu dan shi	1
+钾盐矿床	jia yan kuang chuang	14
+家中有矿	jia zhong you kuang	12
+假胄菊石	jia zhou ju shi	5
+家族磐石	jia zu pan shi	1
+拣出富矿	jian chu fu kuang	7
+建队基石	jian dui ji shi	31
+坚固磐石	jian gu pan shi	6
+建矿边界	jian kuang bian jie	6
+尖棱菊石	jian leng ju shi	10
+碱菱沸石	jian ling fei shi	7
+碱锰闪石	jian meng shan shi	10
+碱锰闪岩	jian meng shan yan	8
+睑内结石	jian nei jie shi	5
+坚如磐石	jian ru pan shi	45
+坚若磐石	jian ruo pan shi	34
+建新矿业	jian xin kuang ye	34
+碱性长石	jian xing chang shi	22
+碱性辉石	jian xing hui shi	7
+碱性矿石	jian xing kuang shi	6
+坚硬如石	jian ying ru shi	30
+坚硬岩石	jian ying yan shi	30
+姜范方石	jiang fan fang shi	30
+浆砌块石	jiang qi kuai shi	20
+浆砌片石	jiang qi pian shi	19
+江山顽石	jiang shan wan shi	7
+江苏矿业	jiang su kuang ye	7
+江西矿业	jiang xi kuang ye	6
+焦熬投石	jiao ao tou shi	5
+胶赤铁矿	jiao chi tie kuang	9
+交错矿脉	jiao cuo kuang mai	6
+交代矿床	jiao dai kuang chuang	8
+交代矿物	jiao dai kuang wu	10
+胶硅锰矿	jiao gui meng kuang	10
+胶黄铁矿	jiao huang tie kuang	5
+胶辉锑矿	jiao hui ti kuang	7
+焦家金矿	jiao jia jin kuang	22
+焦金流石	jiao jin liu shi	5
+胶硫钼矿	jiao liu mu kuang	1
+角闪石岩	jiao shan shi yan	15
+角闪石族	jiao shan shi zu	7
+胶蛇纹石	jiao she wen shi	1
+角页岩相	jiao ye yan xiang	8
+胶针铁矿	jiao zhen tie kuang	7
+杰博矿灯	jie bo kuang deng	8
+接触矿床	jie chu kuang chuang	7
+接触矿脉	jie chu kuang mai	7
+接触矿物	jie chu kuang wu	6
+阶地砂矿	jie di sha kuang	10
+阶段矿柱	jie duan kuang zhu	6
+介段磨矿	jie duan mo kuang	7
+结构基石	jie gou ji shi	3
+结晶岩石	jie jing yan shi	5
+捷克银矿	jie ke yin kuang	7
+捷克陨石	jie ke yun shi	23
+结膜结石	jie mo jie shi	24
+金宝矿业	jin bao kuang ye	7
+金鼎矿业	jin ding kuang ye	19
+金刚贝石	jin gang bei shi	12
+金刚石矿	jin gang shi kuang	16
+金红石型	jin hong shi xing	24
+金红石族	jin hong shi zu	7
+晋华宫矿	jin hua gong kuang	21
+金黄洞石	jin huang dong shi	6
+金矿公司	jin kuang gong si	29
+金矿街道	jin kuang jie dao	10
+金矿开采	jin kuang kai cai	36
+金矿矿工	jin kuang kuang gong	16
+金矿项目	jin kuang xiang mu	25
+金矿遗址	jin kuang yi zhi	8
+金矿资源	jin kuang zi yuan	28
+金岭矿业	jin ling kuang ye	36
+金岭铁矿	jin ling tie kuang	22
+金绿柱石	jin lu zhu shi	16
+金敏煤矿	jin min mei kuang	5
+浸染矿床	jin ran kuang chuang	8
+金瑞矿业	jin rui kuang ye	44
+金色玄石	jin se xuan shi	16
+金色炎石	jin se yan shi	11
+金色岩石	jin se yan shi	8
+金沙江石	jin sha jiang shi	12
+金山松石	jin shan song shi	3
+金属精矿	jin shu jing kuang	1
+金属矿产	jin shu kuang chan	8
+金属矿床	jin shu kuang chuang	9
+金属矿山	jin shu kuang shan	6
+金属矿石	jin shu kuang shi	10
+金属矿物	jin shu kuang wu	8
+金司堡石	jin si bao shi	10
+金髓矿石	jin sui kuang shi	7
+近卫清石	jin wei qing shi	6
+金信矿业	jin xin kuang ye	3
+晶灿钻石	jing can zuan shi	26
+经济矿床	jing ji kuang chuang	7
+境界矿柱	jing jie kuang zhu	7
+精金矿脉	jing jin kuang mai	7
+精金矿石	jing jin kuang shi	10
+精矿品位	jing kuang pin wei	14
+精囊结石	jing nang jie shi	9
+景赛赌石	jing sai du shi	4
+晶体矿物	jing ti kuang wu	22
+镜铁山矿	jing tie shan kuang	20
+精卫衔石	jing wei xian shi	3
+井下矿工	jing xia kuang gong	18
+镜下碎石	jing xia sui shi	16
+荆襄磷矿	jing xiang lin kuang	1
+精选尾矿	jing xuan wei kuang	9
+晶质铀矿	jing zhi you kuang	21
+韭角闪石	jiu jiao shan shi	8
+旧矿遗迹	jiu kuang yi ji	8
+九里山矿	jiu li shan kuang	1
+九曲分矿	jiu qu fen kuang	12
+九望白石	jiu wang bai shi	8
+巨大岩石	ju da yan shi	28
+巨角砾岩	ju jiao li yan	10
+聚马凉石	ju ma liang shi	6
+菊丸大石	ju wan da shi	19
+巨型银矿	ju xing yin kuang	3
+巨型陨石	ju xing yun shi	20
+绢蛇纹石	juan she wen shi	9
+掘地矿工	jue di kuang gong	18
+均匀岩石	jun yun yan shi	10
+开碑裂石	kai bei lie shi	10
+开采金矿	kai cai jin kuang	30
+开采煤层	kai cai mei ceng	12
+开发矿山	kai fa kuang shan	8
+开平煤矿	kai ping mei kuang	42
+开山采石	kai shan cai shi	45
+开山裂石	kai shan lie shi	12
+开山劈石	kai shan pi shi	22
+开山碎石	kai shan sui shi	5
+开拓矿量	kai tuo kuang liang	7
+开阳磷矿	kai yang lin kuang	1
+勘探矿井	kan tan kuang jing	6
+抗缠绕石	kang chan rao shi	1
+抗沉默石	kang chen mo shi	1
+抗缓慢石	kang huan man shi	1
+抗蚀岩石	kang shi yan shi	3
+抗虚弱石	kang xu ruo shi	1
+抗眩晕石	kang xuan yun shi	1
+可采矿层	ke cai kuang ceng	6
+可采矿床	ke cai kuang chuang	5
+可采矿石	ke cai kuang shi	9
+可采煤层	ke cai mei ceng	9
+珂兰钻石	ke lan zuan shi	31
+可能矿量	ke neng kuang liang	6
+可燃页岩	ke ran ye yan	10
+可售矿石	ke shou kuang shi	6
+可疑化石	ke yi hua shi	8
+科兹窝石	ke zi wo shi	1
+龈上结石	ken shang jie shi	11
+龈上牙石	ken shang ya shi	22
+龈下牙石	ken xia ya shi	25
+恐龙化石	kong long hua shi	64
+孔穴矿脉	kong xue kuang mai	5
+孔状岩石	kong zhuang yan shi	10
+块硅镁石	kuai gui mei shi	1
+块黑铅矿	kuai hei qian kuang	8
+会稽刻石	kuai ji ke shi	13
+块堇青石	kuai jin qing shi	8
+快乐三石	kuai le san shi	3
+块硫钴矿	kuai liu gu kuang	9
+块闪锌矿	kuai shan xin kuang	8
+块砷镍矿	kuai shen nie kuang	5
+快用炉石	kuai yong lu shi	6
+块状矿床	kuai zhuang kuang chuang	10
+块状矿石	kuai zhuang kuang shi	7
+矿安标志	kuang an biao zhi	11
+矿北社区	kuang bei she qu	19
+矿博翼龙	kuang bo yi long	6
+矿层边缘	kuang ceng bian yuan	5
+矿层顶板	kuang ceng ding ban	6
+矿产储量	kuang chan chu liang	9
+矿产地质	kuang chan di zhi	25
+矿产公司	kuang chan gong si	7
+矿产开发	kuang chan kai fa	8
+矿产勘查	kuang chan kan cha	39
+矿产普查	kuang chan pu cha	7
+矿产取样	kuang chan qu yang	9
+矿产质量	kuang chan zhi liang	9
+矿产资源	kuang chan zi yuan	10
+矿场标定	kuang chang biao ding	8
+矿车联接	kuang che lian jie	9
+矿车列车	kuang che lie che	8
+矿尘爆炸	kuang chen bao zha	5
+矿尘测定	kuang chen ce ding	6
+矿尘浮选	kuang chen fu xuan	8
+矿储藏量	kuang chu cang liang	6
+矿床地质	kuang chuang di zhi	9
+矿床分带	kuang chuang fen dai	10
+矿床几何	kuang chuang ji he	10
+矿床开拓	kuang chuang kai tuo	7
+矿床勘探	kuang chuang kan tan	9
+矿床类型	kuang chuang lei xing	9
+矿床模式	kuang chuang mo shi	9
+矿床模型	kuang chuang mo xing	5
+矿床品位	kuang chuang pin wei	1
+矿床评价	kuang chuang ping jia	6
+矿床疏干	kuang chuang shu gan	1
+矿床系列	kuang chuang xi lie	7
+矿床组合	kuang chuang zu he	9
+矿大附中	kuang da fu zhong	9
+矿道地铁	kuang dao di tie	18
+矿点检查	kuang dian jian cha	5
+矿点评价	kuang dian ping jia	7
+矿洞魔首	kuang dong mo shou	9
+矿房工祖	kuang fang gong zu	6
+矿工规则	kuang gong gui ze	8
+矿工互救	kuang gong hu jiu	7
+矿工僵尸	kuang gong jiang shi	25
+矿工拳王	kuang gong quan wang	16
+矿工人生	kuang gong ren sheng	6
+矿工沙良	kuang gong sha liang	3
+矿工医院	kuang gong yi yuan	18
+矿化流体	kuang hua liu ti	8
+矿化泡沫	kuang hua pao mo	10
+矿化气泡	kuang hua qi pao	5
+矿化溶液	kuang hua rong ye	6
+矿化世代	kuang hua shi dai	7
+矿化系数	kuang hua xi shu	5
+矿化作用	kuang hua zuo yong	7
+矿机修厂	kuang ji xiu chang	5
+矿浆密度	kuang jiang mi du	8
+矿浆浓度	kuang jiang nong du	3
+矿浆浓缩	kuang jiang nong suo	10
+矿浆体积	kuang jiang ti ji	10
+矿浆脱水	kuang jiang tuo shui	8
+矿界纠纷	kuang jie jiu fen	11
+矿井报废	kuang jing bao fei	5
+矿井爆炸	kuang jing bao zha	7
+矿井测量	kuang jing ce liang	9
+矿井地面	kuang jing di mian	5
+矿井地质	kuang jing di zhi	12
+矿井堵水	kuang jing du shui	10
+矿井防冻	kuang jing fang dong	7
+矿井防火	kuang jing fang huo	10
+矿井防水	kuang jing fang shui	8
+矿井风量	kuang jing feng liang	9
+矿井风流	kuang jing feng liu	9
+矿井恢复	kuang jing hui fu	8
+矿井火灾	kuang jing huo zai	8
+矿井建设	kuang jing jian she	8
+矿井截流	kuang jing jie liu	6
+矿井开拓	kuang jing kai tuo	5
+矿井空气	kuang jing kong qi	10
+矿井漏风	kuang jing lou feng	8
+矿井灭火	kuang jing mie huo	7
+矿井排水	kuang jing pai shui	8
+矿井气候	kuang jing qi hou	6
+矿井热源	kuang jing re yuan	9
+矿井设计	kuang jing she ji	9
+矿井疏干	kuang jing shu gan	12
+矿井探水	kuang jing tan shui	9
+矿井提升	kuang jing ti sheng	6
+矿井通风	kuang jing tong feng	8
+矿井突水	kuang jing tu shui	1
+矿井瓦斯	kuang jing wa si	10
+矿井延深	kuang jing yan shen	3
+矿井涌砂	kuang jing yong sha	6
+矿井支架	kuang jing zhi jia	7
+矿井资料	kuang jing zi liao	8
+矿井阻力	kuang jing zu li	9
+矿俱乐部	kuang ju le bu	5
+矿坑排水	kuang keng pai shui	6
+矿里街道	kuang li jie dao	12
+矿量递减	kuang liang di jian	7
+矿量管理	kuang liang guan li	6
+矿量增加	kuang liang zeng jia	6
+矿脉开采	kuang mai kai cai	9
+矿脉露头	kuang mai lou tou	3
+矿脉石英	kuang mai shi ying	5
+矿脉走向	kuang mai zou xiang	9
+矿难列表	kuang nan lie biao	5
+矿内巷道	kuang nei hang dao	10
+矿内火灾	kuang nei huo zai	9
+矿内空气	kuang nei kong qi	9
+矿内气体	kuang nei qi ti	5
+矿内运输	kuang nei yun shu	8
+矿泥产量	kuang ni chan liang	6
+矿泥浮选	kuang ni fu xuan	7
+矿泥过滤	kuang ni guo lu	9
+矿泥控制	kuang ni kong zhi	6
+矿泥摇床	kuang ni yao chuang	6
+矿区范围	kuang qu fan wei	10
+矿区概况	kuang qu gai kuang	10
+矿区规模	kuang qu gui mo	8
+矿区划归	kuang qu hua gui	10
+矿区医院	kuang qu yi yuan	12
+矿泉保湿	kuang quan bao shi	5
+矿泉街道	kuang quan jie dao	22
+矿泉疗法	kuang quan liao fa	15
+矿泉水厂	kuang quan shui chang	28
+矿泉水扣	kuang quan shui kou	1
+矿泉水瓶	kuang quan shui ping	56
+矿泉水桶	kuang quan shui tong	22
+矿泉中学	kuang quan zhong xue	5
+矿权转让	kuang quan zhuan rang	17
+矿砂摇床	kuang sha yao chuang	7
+矿山安全	kuang shan an quan	8
+矿山保护	kuang shan bao hu	9
+矿山布置	kuang shan bu zhi	9
+矿山测量	kuang shan ce liang	10
+矿山地质	kuang shan di zhi	32
+矿山法则	kuang shan fa ze	6
+矿山防尘	kuang shan fang chen	7
+矿山防水	kuang shan fang shui	7
+矿山废石	kuang shan fei shi	8
+矿山废水	kuang shan fei shui	8
+矿山复绿	kuang shan fu lu	18
+矿山供电	kuang shan gong dian	9
+矿山公园	kuang shan gong yuan	33
+矿山管理	kuang shan guan li	9
+矿山管区	kuang shan guan qu	10
+矿山规程	kuang shan gui cheng	9
+矿山轨道	kuang shan gui dao	10
+矿山规模	kuang shan gui mo	8
+矿山巷道	kuang shan hang dao	9
+矿山环境	kuang shan huan jing	5
+矿山恢复	kuang shan hui fu	19
+矿山机电	kuang shan ji dian	25
+矿山机械	kuang shan ji xie	6
+矿山建设	kuang shan jian she	9
+矿山交货	kuang shan jiao huo	32
+矿山街道	kuang shan jie dao	12
+矿山景观	kuang shan jing guan	5
+矿山境界	kuang shan jing jie	9
+矿山救护	kuang shan jiu hu	8
+矿山开采	kuang shan kai cai	5
+矿山开发	kuang shan kai fa	10
+矿山坑道	kuang shan keng dao	6
+矿山力学	kuang shan li xue	10
+矿山罗盘	kuang shan luo pan	9
+矿山绿化	kuang shan lu hua	10
+矿山模型	kuang shan mo xing	9
+矿山排水	kuang shan pai shui	6
+矿山企业	kuang shan qi ye	8
+矿山设备	kuang shan she bei	8
+矿山设计	kuang shan she ji	6
+矿山寿命	kuang shan shou ming	8
+矿山水灾	kuang shan shui zai	5
+矿山提升	kuang shan ti sheng	7
+矿山条件	kuang shan tiao jian	8
+矿山通风	kuang shan tong feng	8
+矿山卫生	kuang shan wei sheng	9
+矿山橡胶	kuang shan xiang jiao	7
+矿山项目	kuang shan xiang mu	5
+矿山压力	kuang shan ya li	10
+矿山压气	kuang shan ya qi	6
+矿山医院	kuang shan yi yuan	7
+矿山运输	kuang shan yun shu	9
+矿山照明	kuang shan zhao ming	9
+矿山整治	kuang shan zheng zhi	17
+矿山支架	kuang shan zhi jia	9
+矿石暗斑	kuang shi an ban	9
+矿石宝石	kuang shi bao shi	18
+矿石标本	kuang shi biao ben	6
+矿石堆场	kuang shi dui chang	21
+矿石复合	kuang shi fu he	6
+矿石构造	kuang shi gou zao	7
+矿石建造	kuang shi jian zao	6
+矿石结构	kuang shi jie gou	6
+矿石浸出	kuang shi jin chu	8
+矿石开采	kuang shi kai cai	7
+矿石块度	kuang shi kuai du	7
+矿石矿物	kuang shi kuang wu	25
+矿石贫化	kuang shi pin hua	9
+矿石品级	kuang shi pin ji	9
+矿石品位	kuang shi pin wei	27
+矿石破碎	kuang shi po sui	6
+矿石湿度	kuang shi shi du	7
+矿石损失	kuang shi sun shi	9
+矿石贪化	kuang shi tan hua	9
+矿石体重	kuang shi ti zhong	7
+矿石运搬	kuang shi yun ban	7
+矿体产状	kuang ti chan zhuang	5
+矿体地质	kuang ti di zhi	5
+矿体几何	kuang ti ji he	7
+矿体开发	kuang ti kai fa	9
+矿体露头	kuang ti lou tou	6
+矿体圈定	kuang ti quan ding	10
+矿体形态	kuang ti xing tai	3
+矿体形状	kuang ti xing zhuang	10
+矿田构造	kuang tian gou zao	8
+矿外运输	kuang wai yun shu	5
+矿枉煤柱	kuang wang mei zhu	9
+矿物宝石	kuang wu bao shi	28
+矿物标本	kuang wu biao ben	10
+矿物标型	kuang wu biao xing	9
+矿物产量	kuang wu chan liang	9
+矿物成分	kuang wu cheng fen	10
+矿物分离	kuang wu fen li	10
+矿物共生	kuang wu gong sheng	10
+矿物合成	kuang wu he cheng	6
+矿物化学	kuang wu hua xue	7
+矿物集合	kuang wu ji he	9
+矿务集团	kuang wu ji tuan	5
+矿物机油	kuang wu ji you	28
+矿物加工	kuang wu jia gong	8
+矿物晶体	kuang wu jing ti	37
+矿务局的	kuang wu ju de	14
+矿物开采	kuang wu kai cai	6
+矿物勘探	kuang wu kan tan	5
+矿物模板	kuang wu mu ban	8
+矿物平衡	kuang wu ping heng	6
+矿物燃料	kuang wu ran liao	31
+矿物染料	kuang wu ran liao	14
+矿物世代	kuang wu shi dai	5
+矿物提出	kuang wu ti chu	7
+矿物填料	kuang wu tian liao	6
+矿物污染	kuang wu wu ran	8
+矿物物性	kuang wu wu xing	9
+矿物纤维	kuang wu xian wei	11
+矿物相变	kuang wu xiang bian	7
+矿物相律	kuang wu xiang lu	8
+矿物形态	kuang wu xing tai	7
+矿物学的	kuang wu xue de	6
+矿物学家	kuang wu xue jia	45
+矿物颜料	kuang wu yan liao	7
+矿物颜色	kuang wu yan se	9
+矿物岩石	kuang wu yan shi	36
+矿物元素	kuang wu yuan su	75
+矿物质粉	kuang wu zhi fen	23
+矿物质钙	kuang wu zhi gai	37
+矿物质水	kuang wu zhi shui	45
+矿物质油	kuang wu zhi you	21
+矿物资源	kuang wu zi yuan	5
+矿物组成	kuang wu zu cheng	5
+矿物组合	kuang wu zu he	8
+矿晓南矿	kuang xiao nan kuang	9
+矿业采矿	kuang ye cai kuang	8
+矿业城市	kuang ye cheng shi	7
+矿业大学	kuang ye da xue	4
+矿业法则	kuang ye fa ze	10
+矿业工程	kuang ye gong cheng	46
+矿冶工程	kuang ye gong cheng	29
+矿业公司	kuang ye gong si	69
+矿业活动	kuang ye huo dong	9
+矿业集团	kuang ye ji tuan	45
+矿业经济	kuang ye jing ji	8
+矿业聚落	kuang ye ju luo	7
+矿业开采	kuang ye kai cai	6
+矿业模板	kuang ye mu ban	6
+矿业权人	kuang ye quan ren	33
+矿业社区	kuang ye she qu	4
+矿业石油	kuang ye shi you	28
+矿业投资	kuang ye tou zi	45
+矿冶学校	kuang ye xue xiao	5
+矿业学院	kuang ye xue yuan	76
+矿业遗址	kuang ye yi zhi	7
+矿业院校	kuang ye yuan xiao	6
+矿用灯泡	kuang yong deng pao	8
+矿用电缆	kuang yong dian lan	5
+矿用风门	kuang yong feng men	32
+矿用隔爆	kuang yong ge bao	22
+矿用罐笼	kuang yong guan long	5
+矿用机车	kuang yong ji che	8
+矿用绞车	kuang yong jiao che	32
+矿用罗盘	kuang yong luo pan	6
+矿用水泵	kuang yong shui beng	5
+矿用梯子	kuang yong ti zi	9
+矿用橡缆	kuang yong xiang lan	6
+矿用炸药	kuang yong zha yao	6
+矿用支柱	kuang yong zhi zhu	7
+矿用钻车	kuang yong zuan che	9
+矿渣立磨	kuang zha li mo	14
+矿渣清理	kuang zha qing li	7
+矿渣水泥	kuang zha shui ni	10
+矿渣微粉	kuang zha wei fen	14
+矿质肥料	kuang zhi fei liao	9
+矿质需求	kuang zhi xu qiu	10
+矿中社区	kuang zhong she qu	7
+矿柱工祖	kuang zhu gong zu	9
+矿柱回采	kuang zhu hui cai	8
+矿总公司	kuang zong gong si	27
+矿总医院	kuang zong yi yuan	21
+昆池碣石	kun chi jie shi	17
+昆仑流石	kun lun liu shi	7
+蜡硅锰矿	la gui meng kuang	7
+拉沙运石	la sha yun shi	9
+蜡蛇纹石	la she wen shi	9
+来牙克石	lai ya ke shi	5
+蓝彩石灯	lan cai shi deng	7
+蓝电气石	lan dian qi shi	8
+蓝方石岩	lan fang shi yan	10
+蓝缟松石	lan gao song shi	5
+蓝辉铜矿	lan hui tong kuang	6
+蓝磷铁矿	lan lin tie kuang	9
+蓝磷铜矿	lan lin tong kuang	1
+蓝色陨石	lan se yun shi	7
+蓝石蝴蝶	lan shi hu die	7
+蓝石甜点	lan shi tian dian	4
+蓝天石油	lan tian shi you	3
+蓝铁矿族	lan tie kuang zu	4
+蓝铜矿石	lan tong kuang shi	7
+蓝铜硒矿	lan tong xi kuang	10
+蓝透辉石	lan tou hui shi	10
+阑尾粪石	lan wei fen shi	3
+蓝硒铜矿	lan xi tong kuang	7
+蓝锌锰矿	lan xin meng kuang	9
+蓝柘榴石	lan zhe liu shi	16
+劳氏笔石	lao shi bi shi	9
+类人造石	lei ren zao shi	9
+镭重晶石	lei zhong jing shi	6
+锂冰晶石	li bing jing shi	7
+利胆排石	li dan pai shi	19
+锂电气石	li dian qi shi	17
+粒钙长石	li gai chang shi	6
+粒硅钙石	li gui gai shi	6
+粒硅镁石	li gui mei shi	14
+粒硅锰矿	li gui meng kuang	7
+锂辉石矿	li hui shi kuang	37
+锂蓝铁矿	li lan tie kuang	10
+力量晶石	li liang jing shi	7
+力量原石	li liang yuan shi	13
+锂磷铝石	li lin lu shi	1
+理论基石	li lun ji shi	27
+锂绿泥石	li lu ni shi	3
+锂锰电池	li meng dian chi	21
+锂蒙脱石	li meng tuo shi	11
+利民煤矿	li min mei kuang	13
+沥青碎石	li qing sui shi	16
+沥青页岩	li qing ye yan	7
+沥青铀矿	li qing you kuang	8
+利蛇纹石	li she wen shi	3
+砾石碎石	li shi sui shi	5
+梨形钻石	li xing zuan shi	22
+砾岩状的	li yan zhuang de	5
+荔枝洞石	li zhi dong shi	17
+漓渚铁矿	li zhu tie kuang	1
+粒状岩石	li zhuang yan shi	3
+连滩页岩	lian tan ye yan	9
+链状矿脉	lian zhuang kuang mai	9
+两大基石	liang da ji shi	27
+良山铁矿	liang shan tie kuang	1
+亮铱锇矿	liang yi e kuang	6
+寮国化石	liao guo hua shi	8
+辽宁矿难	liao ning kuang nan	4
+辽宁矿业	liao ning kuang ye	7
+辽宁煤矿	liao ning mei kuang	6
+裂缝矿脉	lie feng kuang mai	6
+烈火磐石	lie huo pan shi	6
+磷铵镁石	lin an mei shi	1
+磷钡铝石	lin bei lu shi	1
+临城煤矿	lin cheng mei kuang	6
+磷矾铀矿	lin fan you kuang	7
+磷钙铝石	lin gai lu shi	1
+磷钙镁石	lin gai mei shi	1
+磷钙锰石	lin gai meng shi	9
+磷钙铁矿	lin gai tie kuang	6
+磷钙铀矿	lin gai you kuang	8
+鳞高岭石	lin gao ling shi	9
+磷硅钙石	lin gui gai shi	7
+磷褐帘石	lin he lian shi	6
+磷灰石矿	lin hui shi kuang	7
+淋积矿床	lin ji kuang chuang	7
+磷钾铝石	lin jia lu shi	1
+临界矿物	lin jie kuang wu	9
+临矿集团	lin kuang ji tuan	14
+磷矿翼龙	lin kuang yi long	1
+磷锂铝石	lin li lu shi	5
+磷锂锰矿	lin li meng kuang	10
+磷硫铁矿	lin liu tie kuang	3
+磷铝钙石	lin lu gai shi	1
+磷铝锂石	lin lu li shi	3
+磷铝锰矿	lin lu meng kuang	5
+磷铝锰石	lin lu meng shi	1
+鳞绿泥石	lin lu ni shi	9
+磷氯铅矿	lin lu qian kuang	23
+磷铝铈矿	lin lu shi kuang	1
+磷铝铈石	lin lu shi shi	7
+磷铝锶矿	lin lu si kuang	9
+磷铝铁石	lin lu tie shi	1
+磷铝铀矿	lin lu you kuang	1
+磷镁钙石	lin mei gai shi	3
+磷镁铝石	lin mei lu shi	1
+磷锰铁矿	lin meng tie kuang	6
+磷锰铀矿	lin meng you kuang	6
+磷钠铵石	lin na an shi	5
+磷钠锰矿	lin na meng kuang	8
+磷钠铍石	lin na pi shi	9
+磷铍钙石	lin pi gai shi	1
+磷铍锰矿	lin pi meng kuang	9
+磷铅铀矿	lin qian you kuang	1
+磷砷铅矿	lin shen qian kuang	8
+磷铈镧矿	lin shi lan kuang	10
+磷铈钇矿	lin shi yi kuang	8
+磷铁铝矿	lin tie lu kuang	8
+磷铁锰矿	lin tie meng kuang	7
+磷铜铁矿	lin tong tie kuang	8
+临危下石	lin wei xia shi	32
+磷锌铜矿	lin xin tong kuang	1
+磷型矿化	lin xing kuang hua	8
+嶙峋怪石	lin xun guai shi	26
+菱钡镁石	ling bei mei shi	1
+菱独居石	ling du ju shi	9
+菱钙铈矿	ling gai shi kuang	8
+羚硅钡石	ling gui bei shi	8
+灵魂晶石	ling hun jing shi	16
+灵魂原石	ling hun yuan shi	5
+菱钾铝矿	ling jia lu kuang	1
+菱磷铝石	ling lin lu shi	8
+玲珑金矿	ling long jin kuang	22
+菱镁铀矿	ling mei you kuang	7
+菱锰铁矿	ling meng tie kuang	5
+菱钼铀矿	ling mu you kuang	5
+羚砷锌石	ling shen xin shi	7
+灵石矿脉	ling shi kuang mai	32
+菱锶铬矿	ling si ge kuang	9
+菱铁镁矿	ling tie mei kuang	9
+硫铵钾石	liu an jia shi	8
+硫铋镍矿	liu bi nie kuang	7
+硫铋铅矿	liu bi qian kuang	5
+硫铋铜矿	liu bi tong kuang	8
+硫碲铋矿	liu di bi kuang	9
+硫钙霞石	liu gai xia shi	9
+硫汞锑矿	liu gong ti kuang	6
+硫化汞矿	liu hua gong kuang	1
+硫化矿类	liu hua kuang lei	9
+硫化矿石	liu hua kuang shi	7
+硫化铁矿	liu hua tie kuang	6
+硫化铜矿	liu hua tong kuang	14
+硫镓铜矿	liu jia tong kuang	6
+流金铄石	liu jin shuo shi	18
+留矿回采	liu kuang hui cai	6
+六矿新区	liu kuang xin qu	32
+硫钌锇矿	liu liao e kuang	8
+六面神石	liu mian shen shi	7
+流明晶石	liu ming jing shi	3
+硫钠霞石	liu na xia shi	8
+硫钠硝石	liu na xiao shi	8
+硫镍钴矿	liu nie gu kuang	6
+硫镍铁矿	liu nie tie kuang	12
+硫硼镁石	liu peng mei shi	6
+硫铅铋矿	liu qian bi kuang	5
+硫砷钴矿	liu shen gu kuang	5
+硫砷钌矿	liu shen liao kuang	6
+硫砷铅矿	liu shen qian kuang	5
+硫砷铅石	liu shen qian shi	9
+硫砷铁矿	liu shen tie kuang	3
+硫砷铜矿	liu shen tong kuang	25
+硫砷银矿	liu shen yin kuang	5
+硫属化锰	liu shu hua meng	7
+硫酸铅矿	liu suan qian kuang	5
+硫锑铅矿	liu ti qian kuang	17
+硫锑铁矿	liu ti tie kuang	6
+硫锑银矿	liu ti yin kuang	5
+硫铁矿硫	liu tie kuang liu	1
+硫铁镍矿	liu tie nie kuang	1
+硫铁银矿	liu tie yin kuang	6
+硫铜铋矿	liu tong bi kuang	5
+硫铜钴矿	liu tong gu kuang	7
+硫铜锑矿	liu tong ti kuang	7
+硫铜银矿	liu tong yin kuang	11
+硫铜铀矿	liu tong you kuang	9
+硫钨铅矿	liu wu qian kuang	8
+柳下漱石	liu xia shu shi	7
+硫锌铅矿	liu xin qian kuang	6
+流星殒石	liu xing yun shi	5
+硫银铋矿	liu yin bi kuang	6
+硫银铁矿	liu yin tie kuang	9
+硫银锡矿	liu yin xi kuang	9
+硫银锗矿	liu yin zhe kuang	17
+硫锗铜矿	liu zhe tong kuang	9
+龙矿集团	long kuang ji tuan	12
+龙烟铁矿	long yan tie kuang	30
+漏斗采矿	lou dou cai kuang	8
+陆地水文	lu di shui wen	9
+庐江矾矿	lu jiang fan kuang	11
+庐山三石	lu shan san shi	13
+露天采矿	lu tian cai kuang	5
+露天采石	lu tian cai shi	10
+露天矿场	lu tian kuang chang	9
+露天矿工	lu tian kuang gong	5
+露天矿山	lu tian kuang shan	7
+露天煤矿	lu tian mei kuang	9
+陆依宝矿	lu yi bao kuang	6
+陆源矿物	lu yuan kuang wu	10
+卵不敌石	luan bu di shi	32
+轮藻化石	lun zao hua shi	5
+落井投石	luo jing tou shi	7
+落井下石	luo jing xia shi	55
+珞珞如石	luo luo ru shi	17
+罗马洞石	luo ma dong shi	19
+螺旋笔石	luo xuan bi shi	9
+氯铵汞矿	lu an gong kuang	1
+铝板钛矿	lu ban tai kuang	8
+绿宝石矿	lu bao shi kuang	22
+绿电气石	lu dian qi shi	6
+氯碘铅矿	lu dian qian kuang	1
+绿都褐石	lu dou he shi	6
+铝矾土矿	lu fan tu kuang	22
+绿钙闪石	lu gai shan shi	8
+绿橄榄石	lu gan lan shi	7
+绿高岭石	lu gao ling shi	9
+铝铬铁矿	lu ge tie kuang	1
+绿辉石玉	lu hui shi yu	3
+氯钾铵矿	lu jia an kuang	6
+吕家坨矿	lu jia tuo kuang	18
+绿假霞石	lu jia xia shi	9
+绿尖晶石	lu jian jing shi	6
+铝蓝闪石	lu lan shan shi	7
+绿帘石化	lu lian shi hua	1
+绿帘石岩	lu lian shi yan	6
+绿帘石族	lu lian shi zu	4
+绿磷锰矿	lu lin meng kuang	5
+绿磷铁矿	lu lin tie kuang	1
+绿硫钒矿	lu liu fan kuang	5
+绿硫钒石	lu liu fan shi	9
+铝绿泥石	lu lu ni shi	3
+铝镁锰板	lu mei meng ban	7
+铝锰合金	lu meng he jin	18
+绿锰铁矿	lu meng tie kuang	9
+绿蒙脱石	lu meng tuo shi	5
+绿钠闪石	lu na shan shi	7
+绿泥石化	lu ni shi hua	8
+氯硼铜矿	lu peng tong kuang	1
+氯羟锰矿	lu qiang meng kuang	9
+绿色矿业	lu se kuang ye	17
+绿色石门	lu se shi men	6
+铝蛇纹石	lu she wen shi	12
+氯砷铅矿	lu shen qian kuang	1
+绿石指环	lu shi zhi huan	3
+铝水钙石	lu shui gai shi	9
+绿松石矿	lu song shi kuang	24
+绿松石蓝	lu song shi lan	19
+绿松石色	lu song shi se	33
+绿松原石	lu song yuan shi	3
+氯锑铅矿	lu ti qian kuang	9
+绿锑铅矿	lu ti qian kuang	8
+绿铁碲矿	lu tie di kuang	7
+绿铁榴石	lu tie liu shi	8
+绿铁铅矿	lu tie qian kuang	9
+铝铁闪石	lu tie shan shi	9
+绿铁闪石	lu tie shan shi	7
+氯铜铅矿	lu tong qian kuang	5
+绿铜锌矿	lu tong xin kuang	14
+铝土矿床	lu tu kuang chuang	3
+铝土矿石	lu tu kuang shi	9
+铝土矿渣	lu tu kuang zha	1
+绿纤石相	lu xian shi xiang	4
+氯溴银矿	lu xiu yin kuang	1
+绿雪松石	lu xue song shi	7
+绿盐铜矿	lu yan tong kuang	7
+绿荧石色	lu ying shi se	10
+铝柘榴石	lu zhe liu shi	13
+铝直闪石	lu zhi shan shi	3
+绿柱石化	lu zhu shi hua	8
+马基诺矿	ma ji nuo kuang	9
+马坑矿业	ma keng kuang ye	14
+玛瑙原石	ma nao yuan shi	31
+麻杏甘石	ma xing gan shi	13
+蚂蚁矿池	ma yi kuang chi	9
+埋藏矿砂	mai cang kuang sha	5
+埋藏矿体	mai cang kuang ti	6
+买矿泉水	mai kuang quan shui	35
+脉石矿物	mai shi kuang wu	15
+馒头页岩	man tou ye yan	5
+满洲角石	man zhou jiao shi	9
+芒果小石	mang guo xiao shi	5
+芒硝矿床	mang xiao kuang chuang	7
+毛赤铜矿	mao chi tong kuang	5
+茅坑顽石	mao keng wan shi	5
+茅坑无石	mao keng wu shi	6
+毛坯钻石	mao pi zuan shi	28
+煤安矿安	mei an kuang an	12
+镁白云石	mei bai yun shi	9
+镁冰晶石	mei bing jing shi	7
+煤层变薄	mei ceng bian bao	7
+煤层变化	mei ceng bian hua	7
+煤层底板	mei ceng di ban	6
+煤层顶板	mei ceng ding ban	5
+煤层对比	mei ceng dui bi	10
+煤层分叉	mei ceng fen cha	7
+煤层厚度	mei ceng hou du	19
+煤层结构	mei ceng jie gou	5
+煤层露头	mei ceng lou tou	10
+煤层煤样	mei ceng mei yang	10
+煤层倾角	mei ceng qing jiao	7
+煤层倾斜	mei ceng qing xie	5
+煤层石球	mei ceng shi qiu	7
+煤层瓦斯	mei ceng wa si	7
+煤层形变	mei ceng xing bian	9
+煤层形态	mei ceng xing tai	10
+镁电气石	mei dian qi shi	17
+镁符山石	mei fu shan shi	8
+镁钙闪石	mei gai shan shi	1
+镁橄榄石	mei gan lan shi	31
+镁铬铁矿	mei ge tie kuang	1
+镁硅钙石	mei gui gai shi	8
+美国矿场	mei guo kuang chang	6
+美国矿工	mei guo kuang gong	7
+美国矿难	mei guo kuang nan	6
+美国矿业	mei guo kuang ye	6
+镁褐帘石	mei he lian shi	6
+镁黄长石	mei huang chang shi	3
+镁碱沸石	mei jian fei shi	1
+镁尖晶石	mei jian jing shi	12
+煤矿安全	mei kuang an quan	7
+煤矿沉陷	mei kuang chen xian	5
+煤矿地质	mei kuang di zhi	12
+煤矿电机	mei kuang dian ji	9
+煤矿防尘	mei kuang fang chen	7
+煤矿工人	mei kuang gong ren	8
+煤矿公司	mei kuang gong si	70
+煤矿机电	mei kuang ji dian	19
+煤矿机械	mei kuang ji xie	8
+煤矿井下	mei kuang jing xia	34
+煤矿开采	mei kuang kai cai	6
+煤矿矿长	mei kuang kuang zhang	31
+煤矿企业	mei kuang qi ye	95
+煤矿设计	mei kuang she ji	7
+煤矿瓦斯	mei kuang wa si	9
+煤矿医院	mei kuang yi yuan	14
+镁菱铁矿	mei ling tie kuang	8
+镁铝榴石	mei lu liu shi	27
+镁绿泥石	mei lu ni shi	9
+镁锰闪石	mei meng shan shi	5
+镁钠闪石	mei na shan shi	1
+镁硼锰石	mei peng meng shi	9
+梅山铁矿	mei shan tie kuang	18
+镁蛇纹石	mei she wen shi	3
+煤炭矿床	mei tan kuang chuang	9
+镁铁辉石	mei tie hui shi	6
+镁铁榴石	mei tie liu shi	10
+镁铁闪石	mei tie shan shi	18
+镁星叶石	mei xing ye shi	8
+没有砖石	mei you zhuan shi	1
+煤峪口矿	mei yu kou kuang	10
+镁直闪石	mei zhi shan shi	6
+美卓矿机	mei zhuo kuang ji	3
+锰白云石	meng bai yun shi	7
+梦窗疏石	meng chuang shu shi	20
+锰磁铁矿	meng ci tie kuang	1
+锰方解石	meng fang jie shi	6
+锰方硼石	meng fang peng shi	6
+锰钙辉石	meng gai hui shi	1
+锰橄榄石	meng gan lan shi	23
+锰钢辙叉	meng gang zhe cha	1
+锰硅铝矿	meng gui lu kuang	7
+锰硅锌矿	meng gui xin kuang	8
+锰黑云母	meng hei yun mu	7
+锰红帘石	meng hong lian shi	9
+锰红柱石	meng hong zhu shi	6
+锰化合物	meng hua he wu	36
+锰尖晶石	meng jian jing shi	19
+锰磷灰石	meng lin hui shi	1
+锰磷锂矿	meng lin li kuang	6
+锰菱铁矿	meng ling tie kuang	9
+锰铝榴石	meng lu liu shi	28
+锰铝榴岩	meng lu liu yan	7
+锰绿泥石	meng lu ni shi	8
+锰绿铁矿	meng lu tie kuang	10
+锰镁闪石	meng mei shan shi	1
+锰镁锌矾	meng mei xin fan	10
+锰砂滤料	meng sha lu liao	5
+锰砷锑矿	meng shen ti kuang	8
+锰石榴石	meng shi liu shi	7
+锰水镁石	meng shui mei shi	6
+锰水磨石	meng shui mo shi	7
+锰钽铁矿	meng tan tie kuang	1
+锰铁菱石	meng tie ling shi	6
+锰铁榴石	meng tie liu shi	1
+锰铁闪石	meng tie shan shi	1
+锰铁锌矾	meng tie xin fan	9
+锰铜合金	meng tong he jin	5
+锰纤锌矿	meng xian xin kuang	6
+锰锌辉石	meng xin hui shi	1
+锰氧化物	meng yang hua wu	32
+锰叶泥石	meng ye ni shi	7
+米白窿石	mi bai long shi	9
+蜜黄长石	mi huang chang shi	7
+米黄洞石	mi huang dong shi	3
+米克菊石	mi ke ju shi	5
+蜜蜡原石	mi la yuan shi	39
+泌尿结石	mi niao jie shi	38
+米卅五石	mi sa wu shi	1
+秘银矿脉	mi yin kuang mai	7
+秘银矿石	mi yin kuang shi	7
+缅甸矿难	mian dian kuang nan	6
+缅甸矿业	mian dian kuang ye	5
+缅甸铜矿	mian dian tong kuang	6
+缅甸玉石	mian dian yu shi	23
+眠云卧石	mian yun wo shi	3
+庙坡页岩	miao po ye yan	6
+命运云石	ming yun yun shi	9
+摩擦选矿	mo ca xuan kuang	7
+蘑菇岩石	mo gu yan shi	9
+磨矿车间	mo kuang che jian	7
+磨矿介质	mo kuang jie zhi	2
+磨矿粒度	mo kuang li du	13
+磨矿撂图	mo kuang liao tu	9
+磨矿设备	mo kuang she bei	32
+魔矿守卫	mo kuang shou wei	11
+磨矿细度	mo kuang xi du	6
+磨矿效率	mo kuang xiao lu	5
+磨砾岩相	mo li yan xiang	10
+模拟放矿	mo ni fang kuang	9
+墨染白石	mo ran bai shi	5
+磨石燧石	mo shi sui shi	10
+魔仙彩石	mo xian cai shi	5
+莫依桑石	mo yi sang shi	4
+模铸化石	mo zhu hua shi	22
+慕白蓝石	mu bai lan shi	5
+木冲沟矿	mu chong gou kuang	5
+钼方钠石	mu fang na shi	7
+钼钛铀矿	mu tai you kuang	8
+钼钨钙矿	mu wu gai kuang	9
+钠矾硝石	na fan xiao shi	5
+钠钙长石	na gai chang shi	5
+钠钙闪石	na gai shan shi	14
+钠铬辉石	na ge hui shi	24
+钠菱沸石	na ling fei shi	8
+钠明矾石	na ming fan shi	5
+钠硼钙石	na peng gai shi	10
+钠硼解石	na peng jie shi	10
+钠烧绿石	na shao lu shi	9
+钠铁闪石	na tie shan shi	5
+钠透长石	na tou chang shi	5
+钠透闪石	na tou shan shi	7
+钠正长石	na zheng zhang shi	6
+耐普矿机	nai pu kuang ji	16
+奶油砂石	nai you sha shi	8
+南丹陨石	nan dan yun shi	15
+南极陨石	nan ji yun shi	23
+南山矿区	nan shan kuang qu	9
+南桐矿区	nan tong kuang qu	32
+囊状矿脉	nang zhuang kuang mai	8
+闹鬼金矿	nao gui jin kuang	12
+内成矿床	nei cheng kuang chuang	9
+内生矿床	nei sheng kuang chuang	6
+内生铀矿	nei sheng you kuang	9
+内石拐矿	nei shi guai kuang	5
+能量晶石	neng liang jing shi	19
+铌钙钛矿	ni gai tai kuang	1
+泥结碎石	ni jie sui shi	18
+铌铈钇矿	ni shi yi kuang	5
+铌钽矿床	ni tan kuang chuang	16
+铌钽铁矿	ni tan tie kuang	7
+铌钽铀矿	ni tan you kuang	8
+铌铁锰矿	ni tie meng kuang	6
+霓透辉石	ni tou hui shi	7
+铌易解石	ni yi jie shi	8
+铌钇铀矿	ni yi you kuang	9
+泥质页岩	ni zhi ye yan	7
+粘附选矿	nian fu xuan kuang	7
+粘土矿床	nian tu kuang chuang	8
+粘土矿物	nian tu kuang wu	36
+黏土矿物	nian tu kuang wu	30
+年夜理石	nian ye li shi	32
+尿道结石	niao dao jie shi	42
+鸟粪磷矿	niao fen lin kuang	8
+尿路结石	niao lu jie shi	47
+镍磁铁矿	nie ci tie kuang	13
+镍黄铁矿	nie huang tie kuang	19
+镍尖晶石	nie jian jing shi	8
+镊流铁矿	nie liu tie kuang	8
+镍绿泥石	nie lu ni shi	5
+镍锰电池	nie meng dian chi	3
+镍碳铁石	nie tan tie shi	6
+镍铁陨石	nie tie yun shi	14
+宁贵华矿	ning gui hua kuang	4
+宁国页岩	ning guo ye yan	9
+宁夏矿难	ning xia kuang nan	6
+宁夏煤矿	ning xia mei kuang	7
+浓红银矿	nong hong yin kuang	12
+奴隶矿场	nu li kuang chang	7
+怒猊抉石	nu ni jue shi	3
+女娲彩石	nu wa cai shi	5
+女娲炼石	nu wa lian shi	24
+女医仓石	nu yi cang shi	9
+欧阳中石	ou yang zhong shi	40
+排矿速度	pai kuang su du	7
+盘古山矿	pan gu shan kuang	4
+潘洛铁矿	pan luo tie kuang	31
+番禺大石	pan yu da shi	25
+膀胱结石	pang guang jie shi	42
+佩察莫矿	pei cha mo kuang	4
+佩戴玉石	pei dai yu shi	30
+喷流矿床	pen liu kuang chuang	6
+喷气矿床	pen qi kuang chuang	10
+硼符山石	peng fu shan shi	7
+硼硅铈矿	peng gui shi kuang	8
+澎湖文石	peng hu wen shi	25
+硼钾镁石	peng jia mei shi	8
+硼锂铍矿	peng li pi kuang	7
+硼磷镁石	peng lin mei shi	8
+硼铝镁石	peng lu mei shi	3
+硼镁锰矿	peng mei meng kuang	7
+硼镁钛矿	peng mei tai kuang	8
+硼镁铁矿	peng mei tie kuang	5
+硼钠钙石	peng na gai shi	1
+膨润土矿	peng run tu kuang	12
+硼酸钙石	peng suan gai shi	7
+膨胀蛭石	peng zhang zhi shi	18
+彭志忠石	peng zhi zhong shi	9
+铍尖晶石	pi jian jing shi	9
+铍镁晶石	pi mei jing shi	3
+片硅铝石	pian gui lu shi	5
+片水锰矿	pian shui meng kuang	6
+片言金石	pian yan jin shi	1
+平巷矿柱	ping hang kuang zhu	6
+平炉富矿	ping lu fu kuang	9
+平水铜矿	ping shui tong kuang	1
+平卧矿体	ping wo kuang ti	9
+坡积砂矿	po ji sha kuang	7
+破碎岩石	po sui yan shi	20
+普查找矿	pu cha zhao kuang	5
+濮水顽石	pu shui wan shi	6
+葡萄硼石	pu tao peng shi	7
+普通辉石	pu tong hui shi	24
+七彩晶石	qi cai jing shi	1
+气成矿物	qi cheng kuang wu	10
+奇峰怪石	qi feng guai shi	41
+奇峰异石	qi feng yi shi	36
+栖管化石	qi guan hua shi	9
+气化矿床	qi hua kuang chuang	8
+七煌炉石	qi huang lu shi	32
+綦江铁矿	qi jiang tie kuang	10
+奇山怪石	qi shan guai shi	26
+奇山异石	qi shan yi shi	28
+奇松怪石	qi song guai shi	39
+其他玉石	qi ta yu shi	29
+气体矿床	qi ti kuang chuang	5
+骑田岭矿	qi tian ling kuang	9
+气象水文	qi xiang shui wen	41
+七星煤矿	qi xing mei kuang	6
+奇岩怪石	qi yan guai shi	31
+浅层岩溶	qian ceng yan rong	9
+浅成矿床	qian cheng kuang chuang	1
+铅钙铀矿	qian gai you kuang	9
+浅红晶石	qian hong jing shi	5
+千斤巨石	qian jin ju shi	13
+浅孔留矿	qian kong liu kuang	4
+铅蓝方石	qian lan fang shi	10
+浅蓝暹石	qian lan xian shi	5
+铅铌铁矿	qian ni tie kuang	8
+浅色矿物	qian se kuang wu	8
+铅钛铁矿	qian tai tie kuang	5
+铅锌矿床	qian xin kuang chuang	19
+铅锌矿石	qian xin kuang shi	12
+铅锌铁矿	qian xin tie kuang	9
+铅锌银矿	qian xin yin kuang	19
+羟钒铜矿	qiang fan tong kuang	7
+羟硅锰石	qiang gui meng shi	6
+羟硅铍石	qiang gui pi shi	8
+羟磷灰石	qiang lin hui shi	29
+羟磷铝石	qiang lin lu shi	1
+羟氯铅矿	qiang lu qian kuang	9
+羟砷锌石	qiang shen xin shi	17
+蔷薇辉石	qiang wei hui shi	31
+蔷薇榴石	qiang wei liu shi	7
+敲金击石	qiao jin ji shi	15
+秦汴锈石	qin bian xiu shi	6
+亲当矢石	qin dang shi shi	3
+亲冒矢石	qin mao shi shi	19
+亲水矿物	qin shui kuang wu	9
+清除矸石	qing chu gan shi	7
+清除岩石	qing chu yan shi	10
+青岛金石	qing dao jin shi	17
+青符山石	qing fu shan shi	7
+青缸炬石	qing gang ju shi	4
+青金石矿	qing jin shi kuang	7
+清理矸石	qing li gan shi	8
+清理岩石	qing li yan shi	5
+青磷灰石	qing lin hui shi	9
+青龙魂石	qing long hun shi	5
+青铝闪石	qing lu shan shi	6
+青钠闪石	qing na shan shi	5
+清平磷矿	qing ping lin kuang	1
+清水白石	qing shui bai shi	4
+青溪白石	qing xi bai shi	6
+倾斜矿脉	qing xie kuang mai	5
+倾斜煤层	qing xie mei ceng	7
+氢氧钙石	qing yang gai shi	8
+氢氧化锰	qing yang hua meng	21
+氢氧镁石	qing yang mei shi	6
+球队基石	qiu dui ji shi	26
+球粒陨石	qiu li yun shi	46
+球菱铁矿	qiu ling tie kuang	8
+球泡铋矿	qiu pao bi kuang	8
+球砷锰矿	qiu shen meng kuang	5
+瞿人犁石	qu ren li shi	6
+曲水文华	qu shui wen hua	3
+去牙克石	qu ya ke shi	10
+泉胶岩石	quan jiao yan shi	7
+全市煤矿	quan shi mei kuang	20
+燃料矿产	ran liao kuang chan	8
+燃料矿床	ran liao kuang chuang	7
+热泉矿床	re quan kuang chuang	7
+热液矿床	re ye kuang chuang	9
+人非木石	ren fei mu shi	23
+人非土石	ren fei tu shi	32
+人工砂石	ren gong sha shi	32
+韧皮络石	ren pi luo shi	9
+人造沸石	ren zao fei shi	6
+人造富矿	ren zao fu kuang	8
+人造矿物	ren zao kuang wu	8
+日本金矿	ri ben jin kuang	8
+日本矿场	ri ben kuang chang	7
+日本矿难	ri ben kuang nan	5
+日本矿山	ri ben kuang shan	4
+日本矿业	ri ben kuang ye	5
+日本煤矿	ri ben mei kuang	5
+日本铜矿	ri ben tong kuang	8
+日本银矿	ri ben yin kuang	5
+日光榴石	ri guang liu shi	10
+熔化矿石	rong hua kuang shi	5
+熔角砾岩	rong jiao li yan	11
+熔离矿床	rong li kuang chuang	10
+绒毛紫矿	rong mao zi kuang	5
+熔析矿床	rong xi kuang chuang	7
+熔岩巨石	rong yan ju shi	5
+溶液采矿	rong ye cai kuang	5
+肉红长石	rou hong chang shi	8
+肉色柱石	rou se zhu shi	6
+乳埃洛石	ru ai luo shi	9
+乳白铅矿	ru bai qian kuang	9
+如大理石	ru da li shi	23
+如何铁石	ru he tie shi	1
+蠕绿泥石	ru lu ni shi	6
+如水投石	ru shui tou shi	1
+如意钻石	ru yi zuan shi	6
+软硅铜矿	ruan gui tong kuang	8
+软绿脱石	ruan lu tuo shi	8
+软弱岩石	ruan ruo yan shi	10
+软砷铜矿	ruan shen tong kuang	7
+软水铝石	ruan shui lu shi	10
+弱矿化湖	ruo kuang hua hu	6
+萨塞瓦斯	sa sai wa si	4
+散布漂石	san bu piao shi	10
+三大基石	san da ji shi	32
+三和松石	san he song shi	3
+三级矿量	san ji kuang liang	5
+三矿中学	san kuang zhong xue	3
+三菱矿业	san ling kuang ye	7
+三泉中石	san quan zhong shi	32
+三三三石	san san san shi	5
+三水铝矿	san shui lu kuang	10
+三水铝石	san shui lu shi	14
+三羰基锰	san tang ji meng	8
+三峡炭矿	san xia tan kuang	8
+三斜闪石	san xie shan shi	6
+三斜霞石	san xie xia shi	6
+瑟银矿脉	se yin kuang mai	3
+瑟银矿石	se yin kuang shi	9
+沙方解石	sha fang jie shi	7
+沙佛莱石	sha fo lai shi	24
+沙弗莱石	sha fu lai shi	36
+砂积矿床	sha ji kuang chuang	1
+砂夹碎石	sha jia sui shi	5
+砂金矿床	sha jin kuang chuang	5
+砂矿测量	sha kuang ce liang	8
+砂矿工祖	sha kuang gong zu	7
+砂矿开采	sha kuang kai cai	6
+砂矿取样	sha kuang qu yang	6
+砂矿淘采	sha kuang tao cai	8
+砂锡矿床	sha xi kuang chuang	1
+砂质页岩	sha zhi ye yan	16
+筛选矿石	shai xuan kuang shi	6
+山地水文	shan di shui wen	6
+闪电管石	shan dian guan shi	9
+山顶乱石	shan ding luan shi	32
+山东地矿	shan dong di kuang	78
+山东矿难	shan dong kuang nan	7
+山东矿业	shan dong kuang ye	7
+珊瑚碎石	shan hu sui shi	16
+山间一石	shan jian yi shi	6
+闪石化酌	shan shi hua zhuo	9
+山石山石	shan shi shan shi	6
+闪石石棉	shan shi shi mian	5
+山水文化	shan shui wen hua	59
+山水文园	shan shui wen yuan	30
+山水文苑	shan shui wen yuan	14
+山体岩石	shan ti yan shi	27
+山西矿监	shan xi kuang jian	7
+山西矿难	shan xi kuang nan	8
+陕西矿难	shan xi kuang nan	6
+陕西矿业	shan xi kuang ye	5
+山西矿业	shan xi kuang ye	5
+陕西煤矿	shan xi mei kuang	8
+山下顽石	shan xia wan shi	7
+闪锌矿星	shan xin kuang xing	9
+山中一石	shan zhong yi shi	6
+上八洞石	shang ba dong shi	9
+上海矿业	shang hai kuang ye	6
+商品矿石	shang pin kuang shi	7
+设想的矿	she xiang de kuang	5
+砷钡铀矿	shen bei you kuang	8
+砷铋铜矿	shen bi tong kuang	5
+深部砂矿	shen bu sha kuang	9
+深成矿床	shen cheng kuang chuang	7
+身当矢石	shen dang shi shi	9
+砷钒铅矿	shen fan qian kuang	9
+身非木石	shen fei mu shi	10
+砷钙镁石	shen gai mei shi	17
+砷钙铜矿	shen gai tong kuang	17
+砷钙锌矿	shen gai xin kuang	5
+砷钙铀矿	shen gai you kuang	9
+神冈矿业	shen gang kuang ye	7
+肾硅锰矿	shen gui meng kuang	10
+砷硅锰矿	shen gui meng kuang	8
+深海沉石	shen hai chen shi	7
+深红榴石	shen hong liu shi	10
+深红银矿	shen hong yin kuang	7
+砷黄铁矿	shen huang tie kuang	21
+深黄铀矿	shen huang you kuang	8
+深蓝燧石	shen lan sui shi	6
+砷硫银矿	shen liu yin kuang	6
+深露天矿	shen lu tian kuang	7
+深绿辉石	shen lu hui shi	9
+砷氯铅矿	shen lu qian kuang	9
+砷锰钙石	shen meng gai shi	1
+砷锰铅矿	shen meng qian kuang	6
+砷镍钴矿	shen nie gu kuang	7
+砷镍铁矿	shen nie tie kuang	9
+砷硼钙石	shen peng gai shi	1
+砷铅铁矿	shen qian tie kuang	1
+深色矿物	shen se kuang wu	7
+砷闪锌矿	shen shan xin kuang	5
+神圣原石	shen sheng yuan shi	3
+砷水锰矿	shen shui meng kuang	5
+砷酸铋矿	shen suan bi kuang	7
+深铁矿洞	shen tie kuang dong	5
+砷铁铝矿	shen tie lu kuang	7
+砷铁镍矿	shen tie nie kuang	1
+砷铜铅矿	shen tong qian kuang	16
+砷锌铜矿	shen xin tong kuang	5
+深岩溶洞	shen yan rong dong	9
+砷铀铋矿	shen you bi kuang	5
+砷黝铜矿	shen you tong kuang	16
+肾盂结石	shen yu jie shi	12
+肾脏结石	shen zang jie shi	28
+深圳矿场	shen zhen kuang chang	5
+生白云石	sheng bai yun shi	3
+生产矿量	sheng chan kuang liang	6
+生产矿脉	sheng chan kuang mai	10
+生产矿山	sheng chan kuang shan	6
+生产探矿	sheng chan tan kuang	3
+盛达矿业	sheng da kuang ye	43
+盛大矿业	sheng da kuang ye	1
+省地矿局	sheng di kuang ju	32
+省地矿厅	sheng di kuang ting	1
+升华矿床	sheng hua kuang chuang	5
+生矿物学	sheng kuang wu xue	9
+生硫化矿	sheng liu hua kuang	1
+生命晶石	sheng ming jing shi	3
+圣魔光石	sheng mo guang shi	10
+声如金石	sheng ru jin shi	9
+省水文局	sheng shui wen ju	32
+盛屯矿业	sheng tun kuang ye	41
+生物采矿	sheng wu cai kuang	10
+生物浸矿	sheng wu jin kuang	10
+石奥加石	shi ao jia shi	4
+蚀变矿物	shi bian kuang wu	13
+蚀变岩石	shi bian yan shi	6
+石材矿山	shi cai kuang shan	23
+石大斑石	shi da ban shi	1
+史碲银矿	shi di yin kuang	6
+湿法磨矿	shi fa mo kuang	5
+铈钙钛矿	shi gai tai kuang	1
+石膏矿床	shi gao kuang chuang	7
+铈黑帘石	shi hei lian shi	10
+石灰石矿	shi hui shi kuang	31
+石灰岩矿	shi hui yan kuang	18
+世纪矿难	shi ji kuang nan	7
+世纪钻石	shi ji zuan shi	12
+石矿矿工	shi kuang kuang gong	3
+市矿务局	shi kuang wu ju	10
+石匮书石	shi kui shu shi	4
+石榴子石	shi liu zi shi	29
+石录矿区	shi lu kuang qu	5
+石棉矿床	shi mian kuang chuang	5
+石墨矿床	shi mo kuang chuang	9
+石牌页岩	shi pai ye yan	10
+铈片榍石	shi pian xie shi	8
+市水文局	shi shui wen ju	29
+实体化石	shi ti hua shi	9
+石铁陨石	shi tie yun shi	40
+石盐矿床	shi yan kuang chuang	3
+试验矿井	shi yan kuang jing	7
+石英脉石	shi ying mai shi	6
+石英萤石	shi ying ying shi	5
+石油矿床	shi you kuang chuang	7
+石质陨石	shi zhi yun shi	20
+十字沸石	shi zi fei shi	10
+蜀南气矿	shu nan qi kuang	3
+输尿管石	shu niao guan shi	7
+书女爱石	shu nu ai shi	5
+疏水矿物	shu shui kuang wu	8
+疏松岩石	shu song yan shi	3
+双房角石	shuang fang jiao shi	9
+双矿物法	shuang kuang wu fa	6
+霜脲锰锌	shuang niao meng xin	1
+双肾结石	shuang shen jie shi	30
+双头笔石	shuang tou bi shi	7
+双纹长石	shuang wen chang shi	10
+双鱼陨石	shuang yu yun shi	10
+水铵硼石	shui an peng shi	10
+水白铅矿	shui bai qian kuang	1
+水白云石	shui bai yun shi	5
+水城菊石	shui cheng ju shi	6
+水赤铁矿	shui chi tie kuang	1
+水碲铁矿	shui di tie kuang	9
+水底顽石	shui di wan shi	5
+水钒钡石	shui fan bei shi	9
+水钒钙石	shui fan gai shi	8
+水钒镁石	shui fan mei shi	7
+水钒铁矿	shui fan tie kuang	10
+水方解石	shui fang jie shi	5
+水方锰矿	shui fang meng kuang	10
+水方硼石	shui fang peng shi	5
+水复钒矿	shui fu fan kuang	6
+水钙沸石	shui gai fei shi	1
+水钙硝石	shui gai xiao shi	6
+水钴镍矿	shui gu nie kuang	9
+水硅钡矿	shui gui bei kuang	7
+水硅钙石	shui gui gai shi	7
+水硅灰石	shui gui hui shi	1
+水硅锰矿	shui gui meng kuang	7
+水硅铍石	shui gui pi shi	5
+水硅铁矿	shui gui tie kuang	8
+水硅铀石	shui gui you shi	7
+水化矿物	shui hua kuang wu	5
+水黄长石	shui huang chang shi	10
+水晶矿场	shui jing kuang chang	18
+水晶矿厂	shui jing kuang chang	5
+水晶原石	shui jing yuan shi	16
+水力采矿	shui li cai kuang	13
+水磷钙石	shui lin gai shi	5
+水磷钾石	shui lin jia shi	6
+水磷铝石	shui lin lu shi	1
+水磷锰石	shui lin meng shi	1
+水磷铈矿	shui lin shi kuang	8
+水磷铁石	shui lin tie shi	10
+水磷铀矿	shui lin you kuang	7
+水菱镁矿	shui ling mei kuang	12
+水菱镁石	shui ling mei shi	13
+水菱钇矿	shui ling yi kuang	8
+水灵原石	shui ling yuan shi	1
+水铝钙石	shui lu gai shi	19
+水绿榴石	shui lu liu shi	1
+水铝镍石	shui lu nie shi	9
+水氯铜矿	shui lu tong kuang	3
+水铝氧石	shui lu yang shi	6
+水铝英石	shui lu ying shi	12
+水镁矾矿	shui mei fan kuang	1
+水镁锰矿	shui mei meng kuang	7
+水镁铁石	shui mei tie shi	6
+水镁硝石	shui mei xiao shi	9
+水锰辉石	shui meng hui shi	9
+水钼铁矿	shui mu tie kuang	1
+水钼铀矿	shui mu you kuang	6
+水钠锰矿	shui na meng kuang	3
+水钠铀矿	shui na you kuang	1
+水泥碎石	shui ni sui shi	14
+水泥蛭石	shui ni zhi shi	1
+水硼钙石	shui peng gai shi	1
+水硼镁石	shui peng mei shi	8
+水硼钠石	shui peng na shi	1
+水硼锶石	shui peng si shi	1
+水硼铁矿	shui peng tie kuang	7
+水平矿层	shui ping kuang ceng	8
+水平矿柱	shui ping kuang zhu	7
+水热矿床	shui re kuang chuang	6
+水蛇纹石	shui she wen shi	1
+水砷锰石	shui shen meng shi	5
+水砷锌矿	shui shen xin kuang	16
+水铈钛石	shui shi tai shi	8
+水钛铌矿	shui tai ni kuang	9
+水碳镁石	shui tan mei shi	9
+水碳硼石	shui tan peng shi	8
+水锑铅矿	shui ti qian kuang	1
+水文测报	shui wen ce bao	31
+水文测量	shui wen ce liang	25
+水文测验	shui wen ce yan	31
+水文测站	shui wen ce zhan	43
+水文地质	shui wen di zhi	41
+水文调查	shui wen diao cha	24
+水文干旱	shui wen gan han	15
+水文工程	shui wen gong cheng	20
+水文工作	shui wen gong zuo	31
+水文观测	shui wen guan ce	30
+水文过程	shui wen guo cheng	9
+水文化学	shui wen hua xue	10
+水文环境	shui wen huan jing	30
+水文计算	shui wen ji suan	13
+水文监测	shui wen jian ce	50
+水文勘测	shui wen kan ce	20
+水文勘察	shui wen kan cha	10
+水文勘查	shui wen kan cha	1
+水文科学	shui wen ke xue	27
+水文流量	shui wen liu liang	8
+水文模型	shui wen mo xing	26
+水文年鉴	shui wen nian jian	5
+水文气象	shui wen qi xiang	42
+水文情报	shui wen qing bao	37
+水文情况	shui wen qing kuang	27
+水文情势	shui wen qing shi	20
+水文曲线	shui wen qu xian	1
+水文社区	shui wen she qu	16
+水文数据	shui wen shu ju	25
+水文水文	shui wen shui wen	13
+水稳碎石	shui wen sui shi	12
+水文特征	shui wen te zheng	33
+水文条件	shui wen tiao jian	34
+水文条例	shui wen tiao li	7
+水文信息	shui wen xin xi	28
+水文学家	shui wen xue jia	31
+水文循环	shui wen xun huan	25
+水文要素	shui wen yao su	17
+水文仪器	shui wen yi qi	1
+水文预报	shui wen yu bao	28
+水文中心	shui wen zhong xin	22
+水文状况	shui wen zhuang kuang	26
+水文资料	shui wen zi liao	33
+水文总站	shui wen zong zhan	25
+水文组织	shui wen zu zhi	4
+水锌锰矿	shui xin meng kuang	8
+水型矿床	shui xing kuang chuang	10
+水星叶石	shui xing ye shi	5
+水铀铅矿	shui you qian kuang	7
+水针铁矿	shui zhen tie kuang	3
+水之漂石	shui zhi piao shi	7
+水之原石	shui zhi yuan shi	7
+泗滨砭石	si bin bian shi	25
+四大基石	si da ji shi	32
+似大理石	si da li shi	1
+斯担硅石	si dan gui shi	7
+似电气石	si dian qi shi	6
+丝光沸石	si guang fei shi	6
+四老沟矿	si lao gou kuang	13
+锶磷灰石	si lin hui shi	1
+四氯化锰	si lu hua meng	1
+丝钠铝石	si na lu shi	6
+似钠闪石	si na shan shi	8
+锶片沸石	si pian fei shi	1
+丝绒金矿	si rong jin kuang	18
+似石榴石	si shi liu shi	6
+四十原石	si shi yuan shi	32
+四水硼矿	si shui peng kuang	8
+丝竹金石	si zhu jin shi	32
+松果体石	song guo ti shi	10
+松化为石	song hua wei shi	1
+松藻煤矿	song zao mei kuang	17
+苏联矿工	su lian kuang gong	5
+塑性岩石	su xing yan shi	7
+肃之嘉石	su zhi jia shi	6
+酸性矿石	suan xing kuang shi	5
+酸性矿水	suan xing kuang shui	6
+碎矿车间	sui kuang che jian	10
+碎矿设备	sui kuang she bei	3
+碎屑沉积	sui xie chen ji	20
+碎屑废石	sui xie fei shi	9
+碎屑结构	sui xie jie gou	8
+碎屑矿床	sui xie kuang chuang	10
+碎屑岩脉	sui xie yan mai	11
+碎屑岩墙	sui xie yan qiang	8
+岁月磐石	sui yue pan shi	6
+梭式矿车	suo shi kuang che	9
+踏山裂石	ta shan lie shi	12
+他生矿物	ta sheng kuang wu	6
+塔斯钻石	ta si zuan shi	13
+钛赤铁矿	tai chi tie kuang	9
+钛磁铁矿	tai ci tie kuang	18
+钛橄榄石	tai gan lan shi	9
+钛锆钍矿	tai gao tu kuang	9
+钛铬铁矿	tai ge tie kuang	8
+泰国化石	tai guo hua shi	5
+钛角闪石	tai jiao shan shi	5
+太空岩石	tai kong yan shi	24
+钛镁铁矿	tai mei tie kuang	8
+钛铌钽矿	tai ni tan kuang	5
+泰山刻石	tai shan ke shi	27
+泰山磐石	tai shan pan shi	5
+钛铈钙矿	tai shi gai kuang	10
+钛铁晶石	tai tie jing shi	1
+钛铁矿石	tai tie kuang shi	5
+钛铁矿族	tai tie kuang zu	5
+钛型矿化	tai xing kuang hua	7
+钛钇针矿	tai yi zhen kuang	10
+太阴魂石	tai yin hun shi	10
+泰宇矿产	tai yu kuang chan	5
+碳大理石	tan da li shi	7
+钽锆钇矿	tan gao yi kuang	8
+碳硅钙石	tan gui gai shi	1
+钽金红石	tan jin hong shi	6
+坛金矿业	tan jin kuang ye	12
+探矿工程	tan kuang gong cheng	22
+探矿技术	tan kuang ji shu	7
+炭矿梅萨	tan kuang mei sa	7
+探矿权人	tan kuang quan ren	48
+探矿系数	tan kuang xi shu	6
+碳磷灰石	tan lin hui shi	1
+碳铝铅矿	tan lu qian kuang	10
+碳镁铁矿	tan mei tie kuang	10
+碳酸钡矿	tan suan bei kuang	7
+碳酸锶矿	tan suan si kuang	1
+钽稀金矿	tan xi jin kuang	10
+弹性岩石	tan xing yan shi	6
+钽钇铌矿	tan yi ni kuang	9
+碳铀钍矿	tan you tu kuang	8
+炭质页岩	tan zhi ye yan	28
+碳质页岩	tan zhi ye yan	14
+唐口煤矿	tang kou mei kuang	7
+棠垭笔石	tang ya bi shi	8
+洮河绿石	tao he lu shi	3
+桃矿街道	tao kuang jie dao	14
+腾冲铀矿	teng chong you kuang	8
+锑蒂铋矿	ti di bi kuang	7
+锑方铅矿	ti fang qian kuang	8
+梯级角石	ti ji jiao shi	14
+锑硫镍矿	ti liu nie kuang	10
+锑钠铝石	ti na lu shi	6
+锑铅银矿	ti qian yin kuang	9
+锑砷铋矿	ti shen bi kuang	9
+锑砷锰矿	ti shen meng kuang	8
+锑铁钛矿	ti tie tai kuang	1
+体外碎石	ti wai sui shi	34
+梯状矿脉	ti zhuang kuang mai	7
+天机魂石	tian ji hun shi	18
+天机巨石	tian ji ju shi	5
+天机神石	tian ji shen shi	25
+田间三石	tian jian san shi	7
+天降陨石	tian jiang yun shi	20
+天津矿业	tian jin kuang ye	7
+天青金石	tian qing jin shi	6
+天然磁矿	tian ran ci kuang	8
+天然磁石	tian ran ci shi	22
+天然矿泉	tian ran kuang quan	31
+天然卵石	tian ran luan shi	11
+天然砂石	tian ran sha shi	15
+天然硝石	tian ran xiao shi	10
+天然岩石	tian ran yan shi	28
+天然油石	tian ran you shi	16
+天然玉石	tian ran yu shi	32
+天然钻石	tian ran zuan shi	54
+天水文化	tian shui wen hua	5
+天水文物	tian shui wen wu	5
+天外来石	tian wai lai shi	18
+天外异石	tian wai yi shi	12
+天外陨石	tian wai yun shi	26
+填隙碎石	tian xi sui shi	7
+天元锰业	tian yuan meng ye	5
+条纹长石	tiao wen chang shi	16
+铁白云石	tie bai yun shi	10
+铁板钛矿	tie ban tai kuang	1
+铁电气石	tie dian qi shi	6
+铁方解石	tie fang jie shi	9
+铁橄榄石	tie gan lan shi	25
+铁高岭石	tie gao ling shi	6
+铁辉钴矿	tie hui gu kuang	6
+铁尖晶石	tie jian jing shi	16
+铁角闪石	tie jiao shan shi	1
+铁结砾岩	tie jie li yan	1
+铁金红石	tie jin hong shi	10
+铁堇青石	tie jin qing shi	1
+铁坑铁矿	tie keng tie kuang	9
+铁矿村乡	tie kuang cun xiang	6
+铁矿矿床	tie kuang kuang chuang	9
+铁矿医院	tie kuang yi yuan	1
+铁矿原石	tie kuang yuan shi	1
+铁磷钙石	tie lin gai shi	10
+铁磷灰石	tie lin hui shi	1
+铁菱镁矿	tie ling mei kuang	1
+铁菱锌矿	tie ling xin kuang	6
+铁铝榴石	tie lu liu shi	27
+铁绿泥石	tie lu ni shi	1
+铁氯铅矿	tie lu qian kuang	9
+铁铝氧石	tie lu yang shi	5
+铁镁矿物	tie mei kuang wu	9
+铁锰合金	tie meng he jin	2
+铁锰辉石	tie meng hui shi	6
+铁锰结核	tie meng jie he	3
+铁锰铜金	tie meng tong jin	1
+铁闪锌矿	tie shan xin kuang	5
+铁蛇纹石	tie she wen shi	1
+铁石陨石	tie shi yun shi	1
+铁钛铀矿	tie tai you kuang	9
+铁锑钙石	tie ti gai shi	6
+铁纤硼石	tie xian peng shi	9
+铁锌晶石	tie xin jing shi	7
+铁型矿化	tie xing kuang hua	10
+铁铀钍石	tie you tu shi	9
+铁柘榴石	tie zhe liu shi	1
+铁质页岩	tie zhi ye yan	5
+铜白钨矿	tong bai wu kuang	7
+铜碘银矿	tong dian yin kuang	10
+铜钴锰土	tong gu meng tu	9
+铜辉铋矿	tong hui bi kuang	8
+同家梁矿	tong jia liang kuang	14
+铜矿产量	tong kuang chan liang	28
+铜矿开采	tong kuang kai cai	27
+铜矿项目	tong kuang xiang mu	31
+铜矿遗址	tong kuang yi zhi	5
+铜矿资源	tong kuang zi yuan	29
+铜菱镁矿	tong ling mei kuang	9
+铜菱锌矿	tong ling xin kuang	1
+铜硫铅矿	tong liu qian kuang	10
+铜绿山矿	tong lu shan kuang	23
+铜锰合金	tong meng he jin	5
+铜蒙脱石	tong meng tuo shi	8
+铜铅霰石	tong qian xian shi	6
+同生矿床	tong sheng kuang chuang	9
+同生砾岩	tong sheng li yan	10
+同纹长石	tong wen chang shi	8
+铜硒铁矿	tong xi tie kuang	7
+铜锌精矿	tong xin jing kuang	1
+同源岩石	tong yuan yan shi	7
+头带角石	tou dai jiao shi	7
+头骨化石	tou gu hua shi	38
+钭硅镁石	tou gui mei shi	10
+投井下石	tou jing xia shi	20
+透锂长石	tou li chang shi	18
+投卵击石	tou luan ji shi	5
+透绿柱石	tou lu zhu shi	19
+透明胃石	tou ming wei shi	7
+透蛇纹石	tou she wen shi	7
+透斜长石	tou xie chang shi	10
+投掷岩石	tou zhi yan shi	5
+土硅铜矿	tu gui tong kuang	6
+土黑铜矿	tu hei tong kuang	7
+土磷铁矿	tu lin tie kuang	5
+土硫铀矿	tu liu you kuang	9
+土壤矿物	tu rang kuang wu	5
+钍钛铀矿	tu tai you kuang	8
+土状萤石	tu zhuang ying shi	10
+脱矿质水	tuo kuang zhi shui	1
+挖多少矿	wa duo shao kuang	32
+挖矿小李	wa kuang xiao li	7
+瓦斯爆炸	wa si bao zha	59
+瓦斯超限	wa si chao xian	16
+瓦斯抽放	wa si chou fang	24
+瓦斯叮当	wa si ding dang	9
+瓦斯含量	wa si han liang	7
+瓦斯聚集	wa si ju ji	10
+瓦斯开采	wa si kai cai	39
+瓦斯煤层	wa si mei ceng	7
+瓦斯煤矿	wa si mei kuang	7
+瓦斯外泄	wa si wai xie	7
+瓦斯涌出	wa si yong chu	3
+瓦兹利石	wa zi li shi	18
+外模化石	wai mo hua shi	10
+外生矿床	wai sheng kuang chuang	12
+外星岩石	wai xing yan shi	5
+万古磐石	wan gu pan shi	6
+顽火辉石	wan huo hui shi	33
+网格笔石	wang ge bi shi	8
+网金红石	wang jin hong shi	8
+网络化石	wang luo hua shi	7
+王台铺矿	wang tai pu kuang	7
+王谢安石	wang xie an shi	7
+王庄煤矿	wang zhuang mei kuang	11
+微玻陨石	wei bo yun shi	9
+伪顶岩石	wei ding yan shi	8
+韦岗铁矿	wei gang tie kuang	13
+伟晶蜡石	wei jing la shi	9
+伟晶腊石	wei jing la shi	7
+维克托石	wei ke tuo shi	5
+尾矿产量	wei kuang chan liang	9
+尾矿干排	wei kuang gan pai	8
+尾矿品位	wei kuang pin wei	5
+尾矿再选	wei kuang zai xuan	7
+微体化石	wei ti hua shi	27
+微纹长石	wei wen chang shi	5
+微斜长石	wei xie chang shi	29
+稳定矿物	wen ding kuang wu	7
+稳固岩石	wen gu yan shi	10
+纹绿泥石	wen lu ni shi	7
+稳如磐石	wen ru pan shi	35
+稳若磐石	wen ruo pan shi	24
+汶上锈石	wen shang xiu shi	32
+文物碑石	wen wu bei shi	7
+我心匪石	wo xin fei shi	26
+我在黄石	wo zai huang shi	1
+五彩神石	wu cai shen shi	7
+五峰页岩	wu feng ye yan	6
+乌格页岩	wu ge ye yan	7
+武汉岩溶	wu han yan rong	6
+无机矿物	wu ji kuang wu	27
+五金矿产	wu jin kuang chan	55
+乌金矿石	wu jin kuang shi	9
+五矿发展	wu kuang fa zhan	42
+五矿集团	wu kuang ji tuan	7
+无矿物油	wu kuang wu you	31
+五矿学校	wu kuang xue xiao	6
+五矿证券	wu kuang zheng quan	44
+物理选矿	wu li xuan kuang	9
+钨锰铁矿	wu meng tie kuang	17
+无名燧石	wu ming sui shi	7
+钨钼铅矿	wu mu qian kuang	8
+五泉砾岩	wu quan li yan	5
+五日一石	wu ri yi shi	3
+五色晶石	wu se jing shi	24
+无色榴石	wu se liu shi	7
+五色神石	wu se shen shi	1
+武山铜矿	wu shan tong kuang	3
+无水矾石	wu shui fan shi	10
+钨酸钙矿	wu suan gai kuang	6
+无瓦斯矿	wu wa si kuang	7
+无限原石	wu xian yuan shi	20
+无限钻石	wu xian zuan shi	12
+五行晶石	wu xing jing shi	3
+五行神石	wu xing shen shi	17
+无烟煤矿	wu yan mei kuang	22
+五阳煤矿	wu yang mei kuang	7
+钨硬锰矿	wu ying meng kuang	9
+无羽笔石	wu yu bi shi	6
+西北矿冶	xi bei kuang ye	5
+希波箭石	xi bo jian shi	24
+西部矿业	xi bu kuang ye	77
+锡成矿业	xi cheng kuang ye	10
+硒碲铋矿	xi di bi kuang	8
+矽钒钙石	xi fan gai shi	1
+细梗络石	xi geng luo shi	12
+西湖村石	xi hu cun shi	1
+细角砾岩	xi jiao li yan	10
+硒金银矿	xi jin yin kuang	8
+细菌化石	xi jun hua shi	8
+西矿环保	xi kuang huan bao	5
+西矿集团	xi kuang ji tuan	12
+锡矿山阶	xi kuang shan jie	10
+锡矿山期	xi kuang shan qi	8
+锡矿山组	xi kuang shan zu	8
+洗矿摇床	xi kuang yao chuang	6
+细粒精矿	xi li jing kuang	6
+硒磷灰石	xi lin hui shi	8
+西露天矿	xi lu tian kuang	22
+锡铁山石	xi tie shan shi	7
+硒铜镍矿	xi tong nie kuang	7
+硒铜铅矿	xi tong qian kuang	8
+硒铜银矿	xi tong yin kuang	8
+稀土锆石	xi tu gao shi	8
+稀土精矿	xi tu jing kuang	25
+稀土矿场	xi tu kuang chang	7
+细网笔石	xi wang bi shi	15
+烯酰锰锌	xi xian meng xin	5
+稀有矿石	xi you kuang shi	12
+锡黝铜矿	xi you tong kuang	8
+西峪煤矿	xi yu mei kuang	10
+席状矿床	xi zhuang kuang chuang	5
+席状矿体	xi zhuang kuang ti	6
+夏不睡石	xia bu shui shi	25
+下井投石	xia jing tou shi	12
+夏目漱石	xia mu shu shi	53
+下铺白石	xia pu bai shi	1
+夏日漱石	xia ri shu shi	16
+纤钡锂石	xian bei li shi	9
+贤成矿业	xian cheng kuang ye	31
+纤钒钙石	xian fan gai shi	1
+纤方解石	xian fang jie shi	7
+纤硅铜矿	xian gui tong kuang	7
+纤磷铝石	xian lin lu shi	7
+纤磷铁矿	xian lin tie kuang	6
+纤鳞铜矿	xian lin tong kuang	7
+纤磷铜矿	xian lin tong kuang	6
+纤绿闪石	xian lu shan shi	6
+纤锰柱石	xian meng zhu shi	10
+纤硼钙石	xian peng gai shi	1
+先期砾石	xian qi li shi	21
+县铅锌矿	xian qian xin kuang	1
+纤闪石化	xian shan shi hua	1
+纤蛇纹石	xian she wen shi	12
+县水文站	xian shui wen zhan	9
+纤碳铀矿	xian tan you kuang	9
+纤维锌矿	xian wei xin kuang	7
+纤铀铋矿	xian you bi kuang	5
+湘东铁矿	xiang dong tie kuang	1
+香港菊石	xiang gang ju shi	9
+香港矿场	xiang gang kuang chang	6
+湘江铀矿	xiang jiang you kuang	6
+巷九曜石	xiang jiu yao shi	1
+相邻矿体	xiang lin kuang ti	21
+相心雨石	xiang xin yu shi	8
+小壳化石	xiao ke hua shi	3
+小溪顽石	xiao xi wan shi	6
+小型矿车	xiao xing kuang che	10
+小雨花石	xiao yu hua shi	7
+斜板晶石	xie ban jing shi	7
+斜发沸石	xie fa fei shi	7
+斜方矾石	xie fang fan shi	9
+斜方辉石	xie fang hui shi	12
+斜方锰矿	xie fang meng kuang	7
+斜方闪石	xie fang shan shi	8
+斜钙沸石	xie gai fei shi	8
+斜钙榴石	xie gai liu shi	9
+斜硅钙石	xie gui gai shi	3
+斜硅镁石	xie gui mei shi	19
+斜交矿脉	xie jiao kuang mai	10
+斜矿硐室	xie kuang dong shi	7
+斜磷锰矿	xie lin meng kuang	6
+斜绿泥石	xie lu ni shi	16
+斜钠钙石	xie na gai shi	10
+斜钠锆石	xie na gao shi	7
+斜铁辉石	xie tie hui shi	5
+斜顽辉石	xie wan hui shi	3
+斜钨铅矿	xie wu qian kuang	8
+斜黝帘石	xie you lian shi	14
+锌白铅矿	xin bai qian kuang	6
+新城金矿	xin cheng jin kuang	21
+新单笔石	xin dan bi shi	6
+锌方解石	xin fang jie shi	9
+心非木石	xin fei mu shi	16
+鑫海矿装	xin hai kuang zhuang	7
+锌黑锰矿	xin hei meng kuang	10
+新华四矿	xin hua si kuang	1
+锌黄长石	xin huang chang shi	1
+锌黄锡矿	xin huang xi kuang	1
+锌尖晶石	xin jian jing shi	9
+新疆矿业	xin jiang kuang ye	6
+新疆煤矿	xin jiang mei kuang	7
+新井白石	xin jing bai shi	17
+新矿集团	xin kuang ji tuan	22
+新矿院路	xin kuang yuan lu	7
+新矿资源	xin kuang zi yuan	17
+锌菱锰矿	xin ling meng kuang	7
+锌锰电池	xin meng dian chi	27
+锌锰辉石	xin meng hui shi	10
+锌蒙脱石	xin meng tuo shi	9
+新浦磷矿	xin pu lin kuang	1
+新生矿床	xin sheng kuang chuang	5
+新汶矿业	xin wen kuang ye	17
+新兴矿业	xin xing kuang ye	16
+新兴煤矿	xin xing mei kuang	24
+锌黝铜矿	xin you tong kuang	9
+鑫源矿业	xin yuan kuang ye	19
+信运汉石	xin yun han shi	27
+新振锰业	xin zhen meng ye	9
+心中大石	xin zhong da shi	16
+荥矿机器	xing kuang ji qi	5
+邢台矿业	xing tai kuang ye	3
+兴业矿业	xing ye kuang ye	37
+星状耳石	xing zhuang er shi	10
+锈毛络石	xiu mao luo shi	10
+修整钻石	xiu zheng zuan shi	5
+许厂煤矿	xu chang mei kuang	9
+虚构矿工	xu gou kuang gong	5
+徐矿集团	xu kuang ji tuan	26
+需选矿石	xu xuan kuang shi	6
+选矿技术	xuan kuang ji shu	6
+选矿撂图	xuan kuang liao tu	7
+选矿流程	xuan kuang liu cheng	7
+选矿磨碎	xuan kuang mo sui	7
+选矿设备	xuan kuang she bei	6
+选矿试验	xuan kuang shi yan	14
+选矿尾矿	xuan kuang wei kuang	5
+选矿摇床	xuan kuang yao chuang	7
+选矿指标	xuan kuang zhi biao	9
+玄女血石	xuan nu xue shi	30
+玄武辉石	xuan wu hui shi	6
+玄武魂石	xuan wu hun shi	5
+玄武闪石	xuan wu shan shi	10
+玄武岩石	xuan wu yan shi	18
+炫玉贾石	xuan yu gu shi	32
+选择磨矿	xuan ze mo kuang	7
+旋转磨石	xuan zhuan mo shi	3
+雪白云石	xue bai yun shi	9
+雪硅钙石	xue gui gai shi	10
+血红石蒜	xue hong shi suan	4
+寻获陨石	xun huo yun shi	9
+压覆矿产	ya fu kuang chan	26
+压碎砾石	ya sui li shi	7
+牙形化石	ya xing hua shi	3
+延长油矿	yan chang you kuang	19
+雁行矿脉	yan hang kuang mai	6
+盐湖矿床	yan hu kuang chuang	5
+盐湖岩溶	yan hu yan rong	9
+岩浆矿床	yan jiang kuang chuang	5
+岩浆矿石	yan jiang kuang shi	10
+岩矿测试	yan kuang ce shi	12
+兖矿集团	yan kuang ji tuan	37
+盐类矿床	yan lei kuang chuang	16
+淹没的矿	yan mo de kuang	5
+淹没矿井	yan mo kuang jing	7
+岩溶槽谷	yan rong cao gu	5
+岩溶地层	yan rong di ceng	8
+岩溶地貌	yan rong di mao	7
+岩溶地面	yan rong di mian	8
+岩溶地势	yan rong di shi	6
+岩溶地质	yan rong di zhi	32
+岩溶嗲面	yan rong dia mian	8
+岩溶洞穴	yan rong dong xue	7
+岩溶发育	yan rong fa yu	8
+岩溶高原	yan rong gao yuan	7
+岩溶工程	yan rong gong cheng	23
+岩溶管道	yan rong guan dao	5
+岩溶河流	yan rong he liu	9
+岩溶景观	yan rong jing guan	7
+岩溶勘察	yan rong kan cha	7
+岩溶类型	yan rong lei xing	6
+岩溶漏斗	yan rong lou dou	8
+岩溶盆地	yan rong pen di	9
+岩溶平原	yan rong ping yuan	6
+岩溶丘陵	yan rong qiu ling	9
+岩溶申报	yan rong shen bao	10
+岩溶石柱	yan rong shi zhu	10
+岩溶洼地	yan rong wa di	7
+岩溶悬谷	yan rong xuan gu	7
+岩溶旋回	yan rong xuan hui	9
+岩溶嶂谷	yan rong zhang gu	8
+岩溶作用	yan rong zuo yong	6
+岩塞爆破	yan sai bao po	3
+衍生化石	yan sheng hua shi	8
+岩石搬送	yan shi ban song	9
+岩石爆破	yan shi bao po	16
+岩石爆炸	yan shi bao zha	3
+岩石崩落	yan shi beng luo	12
+岩石崩塌	yan shi beng ta	31
+岩石变形	yan shi bian xing	17
+岩石尘土	yan shi chen tu	5
+岩石成因	yan shi cheng yin	7
+岩石充填	yan shi chong tian	8
+岩石磁化	yan shi ci hua	6
+岩石磁性	yan shi ci xing	12
+岩石磁学	yan shi ci xue	3
+岩石大厅	yan shi da ting	7
+岩石地球	yan shi di qiu	24
+岩石地质	yan shi di zhi	23
+岩石电钻	yan shi dian zuan	9
+岩石吊桶	yan shi diao tong	8
+岩石分级	yan shi fen ji	3
+岩石粉碎	yan shi fen sui	16
+岩石风暴	yan shi feng bao	8
+岩石封闭	yan shi feng bi	12
+岩石风化	yan shi feng hua	33
+岩石缝隙	yan shi feng xi	34
+岩石缝中	yan shi feng zhong	32
+岩石浮雕	yan shi fu diao	19
+岩石高仑	yan shi gao lun	9
+岩石工程	yan shi gong cheng	23
+岩石公园	yan shi gong yuan	4
+岩石工作	yan shi gong zuo	5
+岩石构造	yan shi gou zao	24
+岩石海岸	yan shi hai an	31
+岩石护甲	yan shi hu jia	1
+岩石化学	yan shi hua xue	16
+岩石环境	yan shi huan jing	16
+岩石级别	yan shi ji bie	9
+岩石夹层	yan shi jia ceng	9
+岩石甲虫	yan shi jia chong	5
+岩石鉴定	yan shi jian ding	8
+岩石阶地	yan shi jie di	8
+岩石结构	yan shi jie gou	30
+岩石巨人	yan shi ju ren	21
+岩石开挖	yan shi kai wa	5
+岩石抗力	yan shi kang li	6
+岩石傀儡	yan shi kui lei	3
+岩石类型	yan shi lei xing	29
+岩石里奇	yan shi li qi	4
+岩石沥青	yan shi li qing	6
+岩石力学	yan shi li xue	37
+岩石林立	yan shi lin li	10
+岩石露头	yan shi lou tou	33
+岩石裸露	yan shi luo lou	30
+岩石密度	yan shi mi du	22
+岩石皮肤	yan shi pi fu	7
+岩石平巷	yan shi ping hang	10
+岩石破坏	yan shi po huai	13
+岩石破碎	yan shi po sui	26
+岩石钎子	yan shi qian zi	6
+岩石强度	yan shi qiang du	22
+岩石强森	yan shi qiang sen	5
+岩石缺陷	yan shi que xian	7
+岩石容重	yan shi rong zhong	9
+岩石蠕动	yan shi ru dong	10
+岩石三轴	yan shi san zhou	23
+岩石试验	yan shi shi yan	8
+岩石碎片	yan shi sui pian	28
+岩石突出	yan shi tu chu	14
+岩石物理	yan shi wu li	22
+岩石系统	yan shi xi tong	8
+岩石行星	yan shi xing xing	37
+岩石性质	yan shi xing zhi	18
+岩石学报	yan shi xue bao	19
+岩石学者	yan shi xue zhe	8
+岩石循环	yan shi xun huan	16
+岩石压力	yan shi ya li	14
+岩石样本	yan shi yang ben	29
+岩石异常	yan shi yi chang	7
+岩石硬度	yan shi ying du	16
+岩石之地	yan shi zhi di	1
+岩石之间	yan shi zhi jian	22
+岩石植物	yan shi zhi wu	18
+岩石组构	yan shi zu gou	9
+氧磁铁矿	yang ci tie kuang	10
+杨村煤矿	yang cun mei kuang	3
+洋底岩石	yang di yan shi	5
+氧化矿石	yang hua kuang shi	5
+氧角闪石	yang jiao shan shi	7
+氧磷灰石	yang lin hui shi	9
+摇床精矿	yao chuang jing kuang	7
+瑶岭矿业	yao ling kuang ye	7
+腰弩八石	yao nu ba shi	6
+乐水文化	yao shui wen hua	8
+叶碲铋矿	ye di bi kuang	5
+叶碲金矿	ye di jin kuang	9
+野复理石	ye fu li shi	7
+叶腊石矿	ye la shi kuang	12
+耶律大石	ye lu da shi	32
+叶绿泥石	ye lu ni shi	8
+叶钠长石	ye na chang shi	9
+叶蛇纹石	ye she wen shi	17
+叶双晶石	ye shuang jing shi	10
+液体矿脂	ye ti kuang zhi	10
+页岩裂缝	ye yan lie feng	8
+页岩密度	ye yan mi du	6
+页岩气田	ye yan qi tian	29
+页岩陶粒	ye yan tao li	25
+页岩油气	ye yan you qi	46
+页岩砖厂	ye yan zhuan chang	21
+页岩状的	ye yan zhuang de	8
+页岩状煤	ye yan zhuang mei	7
+页岩状沙	ye yan zhuang sha	8
+一般富矿	yi ban fu kuang	8
+易变辉石	yi bian hui shi	23
+异剥辉石	yi bo hui shi	7
+钇方解石	yi fang jie shi	5
+钇褐帘石	yi he lian shi	9
+钇褐榴石	yi he liu shi	9
+遗迹化石	yi ji hua shi	34
+益矿钻采	yi kuang zuan cai	5
+钇磷灰石	yi lin hui shi	9
+钇铝榴石	yi lu liu shi	15
+乙铝锰锌	yi lu meng xin	1
+钇铌铁矿	yi ni tie kuang	1
+以七耀石	yi qi yao shi	6
+钇铅铀矿	yi qian you kuang	7
+以升量石	yi sheng liang dan	32
+钇铈锆石	yi shi gao shi	8
+易碎岩石	yi sui yan shi	7
+钇钽铁矿	yi tan tie kuang	7
+一土山石	yi tu shan shi	7
+一氧化锰	yi yang hua meng	3
+钇易解石	yi yi jie shi	12
+钇杂铌矿	yi za ni kuang	9
+一锗化锰	yi zhe hua meng	7
+一种矿物	yi zhong kuang wu	7
+一座金矿	yi zuo jin kuang	32
+隐藏岩石	yin cang yan shi	5
+印度矿业	yin du kuang ye	7
+印度煤矿	yin du mei kuang	5
+隐伏矿床	yin fu kuang chuang	1
+隐伏矿体	yin fu kuang ti	9
+隐伏岩溶	yin fu yan rong	10
+银矿遗址	yin kuang yi zhi	6
+银漫矿业	yin man kuang ye	19
+银泉矿洞	yin quan kuang dong	5
+银色钻石	yin se zuan shi	23
+隐纹长石	yin wen chang shi	8
+印象化石	yin xiang hua shi	8
+银黝铜矿	yin you tong kuang	3
+硬硅钙石	ying gui gai shi	1
+英国化石	ying guo hua shi	5
+英国矿工	ying guo kuang gong	8
+英国矿业	ying guo kuang ye	7
+应力矿物	ying li kuang wu	5
+硬绿泥石	ying lu ni shi	9
+硬锰矿族	ying meng kuang zu	6
+硬硼钙石	ying peng gai shi	11
+硬蛇纹石	ying she wen shi	6
+萤石矿床	ying shi kuang chuang	9
+硬铈钍石	ying shi tu shi	10
+硬水铝矿	ying shui lu kuang	9
+硬水铝石	ying shui lu shi	20
+硬质岩石	ying zhi yan shi	10
+永久冰石	yong jiu bing shi	7
+永久磁石	yong jiu ci shi	6
+永平铜矿	yong ping tong kuang	13
+铀铵磷石	you an lin shi	7
+右岸玉石	you an yu shi	6
+铀方钍矿	you fang tu kuang	8
+铀钙铜矿	you gai tong kuang	9
+有机矿物	you ji kuang wu	7
+有价矿物	you jia kuang wu	1
+油矿地质	you kuang di zhi	8
+铀矿浸出	you kuang jin chu	7
+尤莱辉石	you lai hui shi	7
+柚木沙石	you mu sha shi	7
+油母页岩	you mu ye yan	22
+悠然磐石	you ran pan shi	6
+有色矿业	you se kuang ye	6
+铀烧绿石	you shao lu shi	8
+铀钛铁矿	you tai tie kuang	9
+铀钽铌矿	you tan ni kuang	8
+黝锑银矿	you ti yin kuang	8
+铀细晶石	you xi jing shi	10
+油页岩矿	you ye yan kuang	19
+铀钇钽矿	you yi tan kuang	7
+有用矿物	you yong kuang wu	21
+油脂选矿	you zhi xuan kuang	10
+鱼火日石	yu huo ri shi	5
+瑜伽小石	yu jia xiao shi	4
+豫金刚石	yu jin gang shi	32
+玉矿原石	yu kuang yuan shi	19
+与魔法石	yu mo fa shi	14
+御魔晶石	yu mo jing shi	3
+与木而石	yu mu er shi	5
+鱼鳍化石	yu qi hua shi	10
+于是怀石	yu shi huai shi	9
+玉石矿床	yu shi kuang chuang	10
+玉石矿洞	yu shi kuang dong	3
+玉石原石	yu shi yuan shi	25
+玉髓燧石	yu sui sui shi	12
+鱼牙化石	yu ya hua shi	10
+玉藻静石	yu zao jing shi	5
+原白云石	yuan bai yun shi	8
+原成岩石	yuan cheng yan shi	8
+原地岩石	yuan di yan shi	5
+原方解石	yuan fang jie shi	8
+原钾霞石	yuan jia xia shi	5
+原矿给料	yuan kuang gei liao	7
+原矿品位	yuan kuang pin wei	13
+原矿重量	yuan kuang zhong liang	9
+原矿紫泥	yuan kuang zi ni	16
+原矿紫砂	yuan kuang zi sha	27
+元灵晶石	yuan ling jing shi	3
+原铝土矿	yuan lu tu kuang	1
+原生化石	yuan sheng hua shi	6
+原生矿床	yuan sheng kuang chuang	7
+原生矿石	yuan sheng kuang shi	16
+远生矿石	yuan sheng kuang shi	8
+原生矿物	yuan sheng kuang wu	6
+原生岩石	yuan sheng yan shi	7
+圆树脂石	yuan shu zhi shi	8
+原水磨石	yuan shui mo shi	1
+圆形钻石	yuan xing zuan shi	24
+源之洪石	yuan zhi hong shi	6
+源质矿石	yuan zhi kuang shi	5
+圆柱锡矿	yuan zhu xi kuang	3
+悦达矿业	yue da kuang ye	12
+越南化石	yue nan hua shi	7
+月球岩石	yue qiu yan shi	35
+月球陨石	yue qiu yun shi	37
+陨磺砾岩	yun huang li yan	12
+陨硫钙石	yun liu gai shi	1
+陨落陨石	yun luo yun shi	5
+陨氯钛矿	yun lu tai kuang	8
+云梦钝石	yun meng dun shi	5
+云母长石	yun mu chang shi	16
+云母滑石	yun mu hua shi	10
+云母矿床	yun mu kuang chuang	1
+云母铁矿	yun mu tie kuang	1
+云母铜矿	yun mu tong kuang	5
+云母铀矿	yun mu you kuang	8
+云母原矿	yun mu yuan kuang	7
+云南矿难	yun nan kuang nan	6
+云南矿业	yun nan kuang ye	4
+云南络石	yun nan luo shi	5
+陨石矿物	yun shi kuang wu	20
+云锡矿业	yun xi kuang ye	8
+杂臭葱石	za chou cong shi	9
+杂碲铅矿	za di qian kuang	8
+杂硅锌矿	za gui xin kuang	1
+杂褐锰矿	za he meng kuang	9
+杂磷锌矿	za lin xin kuang	6
+杂菱锰矿	za ling meng kuang	9
+杂砷银矿	za shen yin kuang	9
+杂云英石	za yun ying shi	6
+再沉化石	zai chen hua shi	10
+在金矿上	zai jin kuang shang	18
+再矿化法	zai kuang hua fa	3
+在矿务局	zai kuang wu ju	9
+再生矿床	zai sheng kuang chuang	7
+在五块石	zai wu kuai shi	13
+在牙克石	zai ya ke shi	17
+枣矿集团	zao kuang ji tuan	17
+造岩矿物	zao yan kuang wu	26
+增生矿脉	zeng sheng kuang mai	7
+窄轨矿车	zhai gui kuang che	10
+赵各庄矿	zhao ge zhuang kuang	5
+招金矿业	zhao jin kuang ye	33
+找矿标志	zhao kuang biao zhi	6
+找矿方法	zhao kuang fang fa	8
+浙江矿业	zhe jiang kuang ye	4
+针磅全矿	zhen bang quan kuang	6
+镇城底矿	zhen cheng di kuang	13
+震旦角石	zhen dan jue shi	14
+针电气石	zhen dian qi shi	9
+振动磨矿	zhen dong mo kuang	8
+针钒钙石	zhen fan gai shi	1
+针碱钙石	zhen jian gai shi	5
+针碱铌石	zhen jian ni shi	9
+针磷铒矿	zhen lin er kuang	5
+针磷铁矿	zhen lin tie kuang	8
+针六方石	zhen liu fang shi	7
+针硫镍矿	zhen liu nie kuang	8
+枕流漱石	zhen liu shu shi	18
+针钠钙石	zhen na gai shi	17
+真蹄菊石	zhen ti ju shi	3
+针铁矿法	zhen tie kuang fa	1
+真银矿石	zhen yin kuang shi	3
+珍珠岩矿	zhen zhu yan kuang	11
+针状矿石	zhen zhuang kuang shi	8
+正白云石	zheng bai yun shi	6
+正钾长石	zheng jia chang shi	10
+正石灰石	zheng shi hui shi	8
+整体精矿	zheng ti jing kuang	5
+政治基石	zheng zhi ji shi	18
+支承垫石	zhi cheng dian shi	18
+支承矿柱	zhi cheng kuang zhu	9
+芝罘刻石	zhi fu ke shi	5
+智慧矿山	zhi hui kuang shan	14
+智利化石	zhi li hua shi	8
+智利矿场	zhi li kuang chang	5
+智利矿难	zhi li kuang nan	7
+智利硝石	zhi li xiao shi	22
+脂磷钙石	zhi lin gai shi	10
+致密矿石	zhi mi kuang shi	8
+智能矿山	zhi neng kuang shan	16
+脂铅铀矿	zhi qian you kuang	6
+指示化石	zhi shi hua shi	9
+蛭石矿床	zhi shi kuang chuang	8
+指示矿物	zhi shi kuang wu	9
+植物化石	zhi wu hua shi	10
+指相化石	zhi xiang hua shi	12
+之柘榴石	zhi zhe liu shi	6
+支座垫石	zhi zuo dian shi	32
+忠贯金石	zhong guan jin shi	32
+重硅线石	zhong gui xian shi	7
+中国金矿	zhong guo jin kuang	5
+中国矿场	zhong guo kuang chang	7
+中国矿难	zhong guo kuang nan	4
+中国矿业	zhong guo kuang ye	92
+中国银矿	zhong guo yin kuang	7
+中和矿路	zhong he kuang lu	5
+中厚矿层	zhong hou kuang ceng	7
+中厚煤层	zhong hou mei ceng	6
+中华角石	zhong hua jiao shi	8
+中级采矿	zhong ji cai kuang	3
+重介选矿	zhong jie xuan kuang	7
+重晶石矿	zhong jing shi kuang	16
+中矿宾馆	zhong kuang bin guan	6
+中矿集团	zhong kuang ji tuan	14
+中矿微星	zhong kuang wei xing	24
+中矿再磨	zhong kuang zai mo	8
+中矿资源	zhong kuang zi yuan	31
+重力选矿	zhong li xuan kuang	13
+中煤矿山	zhong mei kuang shan	7
+重膜矿带	zhong mo kuang dai	7
+重膜矿脉	zhong mo kuang mai	7
+重铌铁矿	zhong ni tie kuang	1
+重砂矿床	zhong sha kuang chuang	1
+重砂矿物	zhong sha kuang wu	8
+重烧绿石	zhong shao lu shi	10
+重钽铁矿	zhong tan tie kuang	7
+中铁陨石	zhong tie yun shi	21
+中信大锰	zhong xin da meng	14
+中兖矿业	zhong yan kuang ye	7
+中央矿层	zhong yang kuang ceng	5
+重液选矿	zhong ye xuan kuang	7
+中雨花石	zhong yu hua shi	6
+帚状矿脉	zhou zhuang kuang mai	5
+珠海矿场	zhu hai kuang chang	4
+柱晶磷矿	zhu jing lin kuang	10
+柱磷铝石	zhu lin lu shi	7
+柱绿泥石	zhu lu ni shi	8
+柱硼镁石	zhu peng mei shi	1
+朱雀魂石	zhu que hun shi	5
+朱砂矿石	zhu sha kuang shi	10
+铸型结石	zhu xing jie shi	12
+柱星叶石	zhu xing ye shi	19
+主要矿物	zhu yao kuang wu	7
+株洲钻石	zhu zhou zuan shi	7
+转沈宏石	zhuan shen hong shi	4
+装矿硐室	zhuang kuang dong shi	9
+装运废石	zhuang yun fei shi	8
+锥叠层石	zhui die ceng shi	10
+锥迭层石	zhui die ceng shi	9
+锥稀土矿	zhui xi tu kuang	9
+锥形块石	zhui xing kuai shi	9
+准埃洛石	zhun ai luo shi	5
+准油矿物	zhun you kuang wu	6
+紫瓣石斛	zi ban shi hu	10
+紫苞石柑	zi bao shi gan	9
+紫电气石	zi dian qi shi	7
+紫方钠石	zi fang na shi	5
+紫花络石	zi hua luo shi	10
+紫金矿业	zi jin kuang ye	48
+淄矿集团	zi kuang ji tuan	18
+紫锂辉石	zi li hui shi	20
+籽料原石	zi liao yuan shi	30
+紫硫镍矿	zi liu nie kuang	8
+紫钼铀矿	zi mu you kuang	9
+紫钠闪石	zi na shan shi	10
+自然原石	zi ran yuan shi	1
+资深矿工	zi shen kuang gong	12
+自生矿物	zi sheng kuang wu	6
+紫石英号	zi shi ying hao	42
+紫水晶矿	zi shui jing kuang	24
+紫苏辉石	zi su hui shi	25
+自卸矿车	zi xie kuang che	8
+紫心石大	zi xin shi da	1
+紫心石小	zi xin shi xiao	5
+子夜丑石	zi ye chou shi	5
+自有矿山	zi you kuang shan	18
+综合找矿	zong he zhao kuang	10
+足迹化石	zu ji hua shi	6
+钻石母矿	zuan shi mu kuang	7
+钻石原石	zuan shi yuan shi	29
+最后精矿	zui hou jing kuang	9
+最终尾矿	zui zhong wei kuang	6
+做金刚石	zuo jin gang shi	1
+安全灯煤矿	an quan deng mei kuang	1
+白垩纪地质	bai e ji di zhi	1
+白榴凝灰岩	bai liu ning hui yan	1
+百寿岩石刻	bai shou yan shi ke	1
+白云鄂博矿	bai yun e bo kuang	1
+白云泥灰岩	bai yun ni hui yan	1
+白云岩矿床	bai yun yan kuang chuang	1
+白云质灰岩	bai yun zhi hui yan	1
+板硫锑铅矿	ban liu ti qian kuang	1
+半透明矿物	ban tou ming kuang wu	1
+斑岩钼矿床	ban yan mu kuang chuang	1
+斑岩铜矿床	ban yan tong kuang chuang	1
+斑状变质岩	ban zhuang bian zhi yan	1
+斑状花岗岩	ban zhuang hua gang yan	1
+板状石灰岩	ban zhuang shi hui yan	1
+爆发角砾岩	bao fa jiao li yan	1
+宝矿力水特	bao kuang li shui te	1
+宝石矿物学	bao shi kuang wu xue	1
+宝塔石灰岩	bao ta shi hui yan	1
+北京矿务局	bei jing kuang wu ju	1
+北票矿务局	bei piao kuang wu ju	1
+本溪湖煤矿	ben xi hu mei kuang	1
+崩落采矿法	beng luo cai kuang fa	1
+崩塌角砾岩	beng ta jiao li yan	1
+比特币矿工	bi te bi kuang gong	1
+比特币矿机	bi te bi kuang ji	1
+比特币挖矿	bi te bi wa kuang	1
+碧玉铁质岩	bi yu tie zhi yan	1
+碧云岩石刻	bi yun yan shi ke	1
+变质岩石学	bian zhi yan shi xue	1
+表生成岩酌	biao sheng cheng yan zhuo	1
+玢岩铁矿床	bin yan tie kuang chuang	1
+冰川地质学	bing chuan di zhi xue	1
+剥蚀角砾岩	bo shi jiao li yan	1
+补充矿物质	bu chong kuang wu zhi	1
+不含矿物油	bu han kuang wu you	1
+不可采煤层	bu ke cai mei ceng	1
+不蚀变岩石	bu shi bian yan shi	1
+不透水岩石	bu tou shui yan shi	1
+擦碎角砾岩	ca sui jiao li yan	1
+采矿工程师	cai kuang gong cheng shi	1
+采矿工作面	cai kuang gong zuo mian	1
+采矿回收率	cai kuang hui shou lu	1
+采矿贫化率	cai kuang pin hua lu	1
+采矿权出让	cai kuang quan chu rang	1
+采矿权延续	cai kuang quan yan xu	1
+采矿权转让	cai kuang quan zhuan rang	1
+采矿许可证	cai kuang xu ke zheng	1
+残积砂矿床	can ji sha kuang chuang	1
+残余页岩体	can yu ye yan ti	1
+测井地质学	ce jing di zhi xue	1
+侧卸式矿车	ce xie shi kuang che	1
+层间角砾岩	ceng jian jiao li yan	1
+层内角砾岩	ceng nei jiao li yan	1
+层状铜矿床	ceng zhuang tong kuang chuang	1
+长春地质宫	chang chun di zhi gong	1
+长石类矿物	chang shi lei kuang wu	1
+长兴石灰岩	chang xing shi hui yan	1
+长云角页岩	chang yun jiao ye yan	1
+超镁铁质岩	chao mei tie zhi yan	1
+沉积岩石学	chen ji yan shi xue	1
+成矿预测图	cheng kuang yu ce tu	1
+成矿远景区	cheng kuang yuan jing qu	1
+成矿专属性	cheng kuang zhuan shu xing	1
+成岩白云岩	cheng yan bai yun yan	1
+成岩分异酌	cheng yan fen yi zhuo	1
+成岩角砾岩	cheng yan jiao li yan	1
+成因矿物学	cheng yin kuang wu xue	1
+成因岩石学	cheng yin yan shi xue	1
+冲积砂矿床	chong ji sha kuang chuang	1
+重聚矿石镇	chong ju kuang shi zhen	1
+充填采矿法	chong tian cai kuang fa	1
+储层地质学	chu ceng di zhi xue	1
+串岭沟页岩	chuan ling gou ye yan	1
+船山石灰岩	chuan shan shi hui yan	1
+次生氧化矿	ci sheng yang hua kuang	1
+粗粒凝灰岩	cu li ning hui yan	1
+粗面凝灰岩	cu mian ning hui yan	1
+脆硫砷铅矿	cui liu shen qian kuang	1
+脆硫锑铅矿	cui liu ti qian kuang	1
+脆硫锑铜矿	cui liu ti tong kuang	1
+脆硫铜铋矿	cui liu tong bi kuang	1
+翠绿锂辉石	cui lu li hui shi	1
+翠砷铜铀矿	cui shen tong you kuang	1
+大气碎屑岩	da qi sui xie yan	1
+大同矿务局	da tong kuang wu ju	1
+大屯火山群	da tun huo shan qun	1
+大型选矿厂	da xing xuan kuang chang	1
+淡色花岗岩	dan se hua gang yan	1
+但是矿泉水	dan shi kuang quan shui	1
+倒堆采矿法	dao dui cai kuang fa	1
+碲硫镍钴矿	di liu nie gu kuang	1
+低平火山口	di ping huo shan kou	1
+第三纪火山	di san ji huo shan	1
+第四纪地质	di si ji di zhi	1
+第四纪火山	di si ji huo shan	1
+低瓦斯矿井	di wa si kuang jing	1
+地震地质学	di zhen di zhi xue	1
+地震断裂带	di zhen duan lie dai	1
+地质博物馆	di zhi bo wu guan	1
+地质出版社	di zhi chu ban she	1
+地质地貌学	di zhi di mao xue	1
+地质地形图	di zhi di xing tu	1
+地质调查局	di zhi diao cha ju	1
+地质调查院	di zhi diao cha yuan	1
+地质工程师	di zhi gong cheng shi	1
+地质工作者	di zhi gong zuo zhe	1
+地质构造的	di zhi gou zao de	1
+地质构造图	di zhi gou zao tu	1
+地质构造学	di zhi gou zao xue	1
+地质聚合物	di zhi ju he wu	1
+地质考古学	di zhi kao gu xue	1
+地质科学院	di zhi ke xue yuan	1
+地质块段法	di zhi kuai duan fa	1
+地质矿产部	di zhi kuang chan bu	1
+地质矿产厅	di zhi kuang chan ting	1
+地质类比法	di zhi lei bi fa	1
+地质年代表	di zhi nian dai biao	1
+地质年代学	di zhi nian dai xue	1
+地质平面图	di zhi ping mian tu	1
+地质剖面图	di zhi pou mian tu	1
+地质水文学	di zhi shui wen xue	1
+地质统计学	di zhi tong ji xue	1
+地质学分科	di zhi xue fen ke	1
+地质学基础	di zhi xue ji chu	1
+地质学术语	di zhi xue shu yu	1
+地质学原理	di zhi xue yuan li	1
+地质学专题	di zhi xue zhuan ti	1
+地质学专业	di zhi xue zhuan ye	1
+地质研究所	di zhi yan jiu suo	1
+地质灾害点	di zhi zai hai dian	1
+电成岩作用	dian cheng yan zuo yong	1
+电气花岗岩	dian qi hua gang yan	1
+吊水洞煤矿	diao shui dong mei kuang	1
+叠锥状火山	die zhui zhuang huo shan	1
+动力变质岩	dong li bian zhi yan	1
+动力地质学	dong li di zhi xue	1
+独立工矿区	du li gong kuang qu	1
+读书岩石刻	du shu yan shi ke	1
+断层角砾岩	duan ceng jiao li yan	1
+短柱硫银矿	duan zhu liu yin kuang	1
+多铋硒铅矿	duo bi xi qian kuang	1
+多金属矿床	duo jin shu kuang chuang	1
+多金属矿业	duo jin shu kuang ye	1
+多杂质砾岩	duo za zhi li yan	1
+多种矿物质	duo zhong kuang wu zhi	1
+二长花岗岩	er chang hua gang yan	1
+鲕状石灰岩	er zhuang shi hui yan	1
+凡口铅锌矿	fan kou qian xin kuang	1
+钒酸钾铀矿	fan suan jia you kuang	1
+钒酸盐矿物	fan suan yan kuang wu	1
+钒钛磁铁矿	fan tai ci tie kuang	1
+反应力矿物	fan ying li kuang wu	1
+方硫铁镍矿	fang liu tie nie kuang	1
+放射性矿泉	fang she xing kuang quan	1
+放射性矿石	fang she xing kuang shi	1
+放射性矿物	fang she xing kuang wu	1
+房柱采矿法	fang zhu cai kuang fa	1
+肥城矿务局	fei cheng kuang wu ju	1
+非磁性矿物	fei ci xing kuang wu	1
+非法采矿罪	fei fa cai kuang zui	1
+非活跃火山	fei huo yue huo shan	1
+非金属矿产	fei jin shu kuang chan	1
+非金属矿床	fei jin shu kuang chuang	1
+非金属矿石	fei jin shu kuang shi	1
+非金属矿物	fei jin shu kuang wu	1
+非均质岩石	fei jun zhi yan shi	1
+废弃的矿山	fei qi de kuang shan	1
+飞仙关页岩	fei xian guan ye yan	1
+非洲火山岛	fei zhou huo shan dao	1
+粉砂屑灰岩	fen sha xie hui yan	1
+汾西矿务局	fen xi kuang wu ju	1
+丰城矿务局	feng cheng kuang wu ju	1
+风成碎屑岩	feng cheng sui xie yan	1
+峰峰矿务局	feng feng kuang wu ju	1
+丰富的矿藏	feng fu de kuang cang	1
+丰富的矿产	feng fu de kuang chan	1
+风化的岩石	feng hua de yan shi	1
+风化壳矿床	feng hua ke kuang chuang	1
+凤凰山矿区	feng huang shan kuang qu	1
+风火山隧道	feng huo shan sui dao	1
+风林火山篇	feng lin huo shan pian	1
+副长深成岩	fu chang shen cheng yan	1
+富含矿物质	fu han kuang wu zhi	1
+复合火山锥	fu he huo shan zhui	1
+傅科陨石坑	fu ke yun shi keng	1
+抚矿工学院	fu kuang gong xue yuan	1
+复矿碎屑岩	fu kuang sui xie yan	1
+副硫锑钴矿	fu liu ti gu kuang	1
+富硫银铁矿	fu liu yin tie kuang	1
+腐泥砂屑岩	fu ni sha xie yan	1
+浮石火山锥	fu shi huo shan zhui	1
+浮石凝灰岩	fu shi ning hui yan	1
+抚顺矿务局	fu shun kuang wu ju	1
+氟碳酸铈矿	fu tan suan shi kuang	1
+富碳油页岩	fu tan you ye yan	1
+伽马探矿法	ga ma tan kuang fa	1
+钙等矿物质	gai deng kuang wu zhi	1
+钙碱花岗岩	gai jian hua gang yan	1
+钙钛矿材料	gai tai kuang cai liao	1
+钙钛矿电池	gai tai kuang dian chi	1
+钙钛矿结构	gai tai kuang jie gou	1
+该岩类岩石	gai yan lei yan shi	1
+钙质角砾岩	gai zhi jiao li yan	1
+高家边页岩	gao jia bian ye yan	1
+高岭土矿床	gao ling tu kuang chuang	1
+高品级氨矿	gao pin ji an kuang	1
+高品位矿石	gao pin wei kuang shi	1
+高瓦斯矿井	gao wa si kuang jing	1
+高于庄灰岩	gao yu zhuang hui yan	1
+革老河灰岩	ge lao he hui yan	1
+葛林芝火山	ge lin zhi huo shan	1
+铬酸盐矿物	ge suan yan kuang wu	1
+各种矿物质	ge zhong kuang wu zhi	1
+更长花岗岩	geng chang hua gang yan	1
+更新世火山	geng xin shi huo shan	1
+工程地质图	gong cheng di zhi tu	1
+工程地质学	gong cheng di zhi xue	1
+公馆凝灰岩	gong guan ning hui yan	1
+工艺矿物学	gong yi kuang wu xue	1
+工艺岩石学	gong yi yan shi xue	1
+构造地质学	gou zao di zhi xue	1
+构造岩石学	gou zao yan shi xue	1
+钴硫砷铁矿	gu liu shen tie kuang	1
+钴锑硫镍矿	gu ti liu nie kuang	1
+古丈红石林	gu zhang hong shi lin	1
+关闭的矿山	guan bi de kuang shan	1
+观音岩石窟	guan yin yan shi ku	1
+光性矿物学	guang xing kuang wu xue	1
+光学矿物学	guang xue kuang wu xue	1
+贵金属矿床	gui jin shu kuang chuang	1
+瑰硫方铅矿	gui liu fang qian kuang	1
+硅铝质矿物	gui lu zhi kuang wu	1
+硅酸钡钛矿	gui suan bei tai kuang	1
+硅酸盐矿物	gui suan yan kuang wu	1
+硅藻土矿床	gui zao tu kuang chuang	1
+硅质石灰岩	gui zhi shi hui yan	1
+滚动的岩石	gun dong de yan shi	1
+国家地质部	guo jia di zhi bu	1
+过碱性岩石	guo jian xing yan shi	1
+过硫锑铅矿	guo liu ti qian kuang	1
+海岸岩溶型	hai an yan rong xing	1
+海底地质学	hai di di zhi xue	1
+海底断裂带	hai di duan lie dai	1
+海洋地质所	hai yang di zhi suo	1
+海洋地质学	hai yang di zhi xue	1
+邯郸峰峰矿	han dan feng feng kuang	1
+邯郸矿务局	han dan kuang wu ju	1
+含金砾岩层	han jin li yan ceng	1
+含沥青岩石	han li qing yan shi	1
+含镁石灰岩	han mei shi hui yan	1
+含水针铁矿	han shui zhen tie kuang	1
+合成金红石	he cheng jin hong shi	1
+合成绿松石	he cheng lu song shi	1
+河成碎屑岩	he cheng sui xie yan	1
+鹤岗矿务局	he gang kuang wu ju	1
+黑矿型矿床	hei kuang xing kuang chuang	1
+黑硫铜镍矿	hei liu tong nie kuang	1
+黑硫银锡矿	hei liu yin xi kuang	1
+黑色花岗岩	hei se hua gang yan	1
+黑色火山土	hei se huo shan tu	1
+黑云花岗岩	hei yun hua gang yan	1
+横巷采矿法	heng xiang cai kuang fa	1
+红硅钙锰矿	hong gui gai meng kuang	1
+红帘石片岩	hong lian shi pian yan	1
+红色的石头	hong se de shi tou	1
+红色绿柱石	hong se lu zhu shi	1
+红色石灰土	hong se shi hui tu	1
+红色搜魂石	hong se sou hun shi	1
+红石比较器	hong shi bi jiao qi	1
+红石兵工厂	hong shi bing gong chang	1
+红石砬子镇	hong shi la zi zhen	1
+红石林业局	hong shi lin ye ju	1
+红石榴糖浆	hong shi liu tang jiang	1
+红石水电站	hong shi shui dian zhan	1
+红石峡水库	hong shi xia shui ku	1
+红石崖街道	hong shi ya jie dao	1
+红石中继器	hong shi zhong ji qi	1
+洪水庄页岩	hong shui zhuang ye yan	1
+红心番石榴	hong xin fan shi liu	1
+红柱角页岩	hong zhu jiao ye yan	1
+后的矿泉水	hou de kuang quan shui	1
+后生角砾岩	hou sheng jue li yan	1
+湖北绿松石	hu bei lu song shi	1
+湖水矿化度	hu shui kuang hua du	1
+花岗岩地貌	hua gang yan di mao	1
+花岗岩瀑布	hua gang yan pu bu	1
+花岗岩铺砌	hua gang yan pu qi	1
+花岗岩丘陵	hua gang yan qiu ling	1
+花岗岩石材	hua gang yan shi cai	1
+花岗岩石块	hua gang yan shi kuai	1
+花岗岩台阶	hua gang yan tai jie	1
+花岗岩台面	hua gang yan tai mian	1
+花岗岩质层	hua gang yan zhi ceng	1
+花岗岩状的	hua gang yan zhuang de	1
+华南花岗岩	hua nan hua gang yan	1
+化石岩石学	hua shi yan shi xue	1
+化学石灰岩	hua xue shi hui yan	1
+淮北矿务局	huai bei kuang wu ju	1
+环斑花岗岩	huan ban hua gang yan	1
+环境地质学	huan jing di zhi xue	1
+环境矿物学	huan jing kuang wu xue	1
+黄龙石灰岩	huang long shi hui yan	1
+黄马青页岩	huang ma qing ye yan	1
+黄泥岗页岩	huang ni gang ye yan	1
+黄铁矿结核	huang tie kuang jie he	1
+黄铁矿矿床	huang tie kuang kuang chuang	1
+灰硫砷铅矿	hui liu shen qian kuang	1
+辉锑锡铅矿	hui ti xi qian kuang	1
+辉硒铅铋矿	hui xi qian bi kuang	1
+灰岩粗毛藤	hui yan cu mao teng	1
+灰岩香茶菜	hui yan xiang cha cai	1
+灰岩肖韶子	hui yan xiao shao zi	1
+灰岩紫地榆	hui yan zi di yu	1
+灰质结砾岩	hui zhi jie li yan	1
+灰质泥灰岩	hui zhi ni hui yan	1
+混合花岗岩	hun he hua gang yan	1
+混合火山锥	hun he huo shan zhui	1
+火成变质岩	huo cheng bian zhi yan	1
+火成堆积岩	huo cheng dui ji yan	1
+火成角砾岩	huo cheng jiao li yan	1
+火成片麻岩	huo cheng pian ma yan	1
+火成碎屑物	huo cheng sui xie wu	1
+火成碎屑岩	huo cheng sui xie yan	1
+火成岩产状	huo cheng yan chan zhuang	1
+火成岩石学	huo cheng yan shi xue	1
+火成岩纹理	huo cheng yan wen li	1
+火成岩系列	huo cheng yan xi lie	1
+火硫锑银矿	huo liu ti yin kuang	1
+火山爆发后	huo shan bao fa hou	1
+火山碧云寺	huo shan bi yun si	1
+火山大爆发	huo shan da bao fa	1
+火山的意志	huo shan de yi zhi	1
+火山地震带	huo shan di zhen dai	1
+火山地质学	huo shan di zhi xue	1
+火山肺矽病	huo shan fei xi bing	1
+火山观测站	huo shan guan ce zhan	1
+火山灰活性	huo shan hui huo xing	1
+火山灰水泥	huo shan hui shui ni	1
+火山集块岩	huo shan ji kuai yan	1
+火山角砾岩	huo shan jiao li yan	1
+火山喀斯特	huo shan ka si te	1
+火山口边缘	huo shan kou bian yuan	1
+火山口高地	huo shan kou gao di	1
+火山口公园	huo shan kou gong yuan	1
+火山泥面膜	huo shan ni mian mo	1
+火山泥石流	huo shan ni shi liu	1
+火山凝灰岩	huo shan ning hui yan	1
+火山喷出物	huo shan pen chu wu	1
+火山喷气孔	huo shan pen qi kong	1
+火山碎屑流	huo shan sui xie liu	1
+火山碎屑物	huo shan sui xie wu	1
+火山碎屑岩	huo shan sui xie yan	1
+火山矽肺病	huo shan xi fei bing	1
+火山小视频	huo shan xiao shi pin	1
+火山性地震	huo shan xing di zhen	1
+火山岩建造	huo shan yan jian zao	1
+火山岩系列	huo shan yan xi lie	1
+火山岩屑土	huo shan yan xie tu	1
+火山岩组合	huo shan yan zu he	1
+火星的火山	huo xing de huo shan	1
+集块火山锥	ji kuai huo shan zhui	1
+基隆火山群	ji long huo shan qun	1
+急倾斜煤层	ji qing xie mei ceng	1
+寄生火山口	ji sheng huo shan kou	1
+寄生火山锥	ji sheng huo shan zhui	1
+机械碎屑岩	ji xie sui xie yan	1
+基岩地质图	ji yan di zhi tu	1
+钾等矿物质	jia deng kuang wu zhi	1
+嘉陵江灰岩	jia ling jiang hui yan	1
+假深成岩体	jia shen cheng yan ti	1
+假象赤铁矿	jia xiang chi tie kuang	1
+假象磁铁矿	jia xiang ci tie kuang	1
+钾玄岩系列	jia xuan yan xi lie	1
+钾质花岗岩	jia zhi hua gang yan	1
+坚固的岩石	jian gu de yan shi	1
+碱性花岗岩	jian xing hua gang yan	1
+碱性火成岩	jian xing huo cheng yan	1
+碱性火山岩	jian xing huo shan yan	1
+坚硬的岩石	jian ying de yan shi	1
+建造内砾岩	jian zao nei li yan	1
+礁岛岩溶型	jiao dao yan rong xing	1
+角闪质岩石	jiao shan zhi yan shi	1
+角页岩构造	jiao ye yan gou zao	1
+接触变质岩	jie chu bian zhi yan	1
+结构地质学	jie gou di zhi xue	1
+结晶矿物学	jie jing kuang wu xue	1
+结晶凝灰岩	jie jing ning hui yan	1
+解渴矿泉水	jie ke kuang quan shui	1
+晋城矿务局	jin cheng kuang wu ju	1
+近单矿物岩	jin dan kuang wu yan	1
+金刚石矿床	jin gang shi kuang chuang	1
+金红石结构	jin hong shi jie gou	1
+进口铁矿石	jin kou tie kuang shi	1
+浸染状矿石	jin ran zhuang kuang shi	1
+金属矿相学	jin shu kuang xiang xue	1
+堇云角页岩	jin yun jiao ye yan	1
+静电选矿机	jing dian xuan kuang ji	1
+晶洞花岗岩	jing dong hua gang yan	1
+景儿峪灰岩	jing er yu hui yan	1
+晶后碎屑岩	jing hou sui xie yan	1
+经济地质学	jing ji di zhi xue	1
+京西矿务局	jing xi kuang wu ju	1
+井下采矿法	jing xia cai kuang fa	1
+井陉矿务局	jing xing kuang wu ju	1
+巨量矿物质	ju liang kuang wu zhi	1
+巨形角砾岩	ju xing jiao li yan	1
+开滦矿务局	kai luan kuang wu ju	1
+开滦唐山矿	kai luan tang shan kuang	1
+开平矿务局	kai ping kuang wu ju	1
+考古地质学	kao gu di zhi xue	1
+颗粒石灰岩	ke li shi hui yan	1
+可燃性页岩	ke ran xing ye yan	1
+壳溪页岩层	ke xi ye yan ceng	1
+科学找矿法	ke xue zhao kuang fa	1
+空场采矿法	kong chang cai kuang fa	1
+块硫砷铜矿	kuai liu shen tong kuang	1
+块硫锑铅矿	kuai liu ti qian kuang	1
+块硫锑铜矿	kuai liu ti tong kuang	1
+矿藏开采权	kuang cang kai cai quan	1
+矿产储量表	kuang chan chu liang biao	1
+矿产分布图	kuang chan fen bu tu	1
+矿产金产量	kuang chan jin chan liang	1
+矿产经济学	kuang chan jing ji xue	1
+矿产品加工	kuang chan pin jia gong	1
+矿产资源法	kuang chan zi yuan fa	1
+矿床地质学	kuang chuang di zhi xue	1
+矿粉压球机	kuang fen ya qiu ji	1
+矿工安全帽	kuang gong an quan mao	1
+矿工俱乐部	kuang gong ju le bu	1
+矿井等积孔	kuang jing deng ji kong	1
+矿井防灭火	kuang jing fang mie huo	1
+矿井内火灾	kuang jing nei huo zai	1
+矿井内空气	kuang jing nei kong qi	1
+矿井内气体	kuang jing nei qi ti	1
+矿井热环境	kuang jing re huan jing	1
+矿井水处理	kuang jing shui chu li	1
+矿井提升机	kuang jing ti sheng ji	1
+矿井选煤厂	kuang jing xuan mei chang	1
+矿井涌水量	kuang jing yong shui liang	1
+矿坑勘探法	kuang keng kan tan fa	1
+矿棉吸音板	kuang mian xi yin ban	1
+矿区办事处	kuang qu ban shi chu	1
+矿泉水公司	kuang quan shui gong si	1
+矿泉水品牌	kuang quan shui pin pai	1
+矿泉水瓶盖	kuang quan shui ping gai	1
+矿泉水瓶装	kuang quan shui ping zhuang	1
+矿泉水瓶子	kuang quan shui ping zi	1
+矿泉水生产	kuang quan shui sheng chan	1
+矿泉游泳场	kuang quan you yong chang	1
+矿山安全法	kuang shan an quan fa	1
+矿山测量学	kuang shan ce liang xue	1
+矿山地质学	kuang shan di zhi xue	1
+矿山集街道	kuang shan ji jie dao	1
+矿山机械厂	kuang shan ji xie chang	1
+矿山监察局	kuang shan jian cha ju	1
+矿山救护车	kuang shan jiu hu che	1
+矿山救护队	kuang shan jiu hu dui	1
+矿山路街道	kuang shan lu jie dao	1
+矿山年产量	kuang shan nian chan liang	1
+矿山自动化	kuang shan zi dong hua	1
+矿山自卸车	kuang shan zi xie che	1
+矿石回采率	kuang shi hui cai lu	1
+矿石可选性	kuang shi ke xuan xing	1
+矿石矿物学	kuang shi kuang wu xue	1
+矿石贫化率	kuang shi pin hua lu	1
+矿石破碎机	kuang shi po sui ji	1
+矿石烧结机	kuang shi shao jie ji	1
+矿石收音机	kuang shi shou yin ji	1
+矿石损失率	kuang shi sun shi lu	1
+矿体投影图	kuang ti tou ying tu	1
+矿物博物馆	kuang wu bo wu guan	1
+矿物化学式	kuang wu hua xue shi	1
+矿物化妆品	kuang wu hua zhuang pin	1
+矿物皮质素	kuang wu pi zhi su	1
+矿物物理学	kuang wu wu li xue	1
+矿物性颜料	kuang wu xing yan liao	1
+矿物质成分	kuang wu zhi cheng fen	1
+矿物质丰富	kuang wu zhi feng fu	1
+矿物质含量	kuang wu zhi han liang	1
+矿物质机油	kuang wu zhi ji you	1
+矿物质纤维	kuang wu zhi xian wei	1
+矿物质元素	kuang wu zhi yuan su	1
+矿相显微镜	kuang xiang xian wei jing	1
+矿业博物馆	kuang ye bo wu guan	1
+矿业工程师	kuang ye gong cheng shi	1
+矿业工程学	kuang ye gong cheng xue	1
+矿业权交易	kuang ye quan jiao yi	1
+矿业权评估	kuang ye quan ping gu	1
+矿业权转让	kuang ye quan zhuan rang	1
+矿用自卸车	kuang yong zi xie che	1
+矿渣混凝土	kuang zha hun ning tu	1
+蓝晶石片岩	lan jing shi pian yan	1
+蓝色搜魂石	lan se sou hun shi	1
+蓝色托帕石	lan se tuo pa shi	1
+蓝色月光石	lan se yue guang shi	1
+蓝闪石片岩	lan shan shi pian yan	1
+蓝石大溪地	lan shi da xi di	1
+蓝丝黛尔石	lan si dai er shi	1
+蓝尾石龙子	lan wei shi long zi	1
+狼溪陨石坑	lang xi yun shi keng	1
+崂山矿泉水	lao shan kuang quan shui	1
+雷琼火山群	lei qiong huo shan qun	1
+类型花岗岩	lei xing hua gang yan	1
+沥青质页岩	li qing zhi ye yan	1
+历史地质学	li shi di zhi xue	1
+砾石找矿法	li shi zhao kuang fa	1
+砾岩型铀矿	li yan xing you kuang	1
+粒状角页岩	li zhuang jiao ye yan	1
+联合采矿法	lian he cai kuang fa	1
+涟邵矿务局	lian shao kuang wu ju	1
+两瓶矿泉水	liang ping kuang quan shui	1
+磷等矿物质	lin deng kuang wu zhi	1
+磷灰石矿床	lin hui shi kuang chuang	1
+磷块岩矿床	lin kuai yan kuang chuang	1
+磷硫铅铝矿	lin liu qian lu kuang	1
+磷硫铅铁矿	lin liu qian tie kuang	1
+磷砷锌铜矿	lin shen xin tong kuang	1
+磷酸锂铁矿	lin suan li tie kuang	1
+磷酸盐矿物	lin suan yan kuang wu	1
+临湘石灰岩	lin xiang shi hui yan	1
+临沂矿务局	lin yi kuang wu ju	1
+硫铋锑镍矿	liu bi ti nie kuang	1
+硫铋锑铜矿	liu bi ti tong kuang	1
+硫铋锑银矿	liu bi ti yin kuang	1
+硫铋铜铅矿	liu bi tong qian kuang	1
+硫汞银铜矿	liu gong yin tong kuang	1
+硫化矿精矿	liu hua kuang jing kuang	1
+硫化铜钒矿	liu hua tong fan kuang	1
+硫钾钠铅矿	liu jia na qian kuang	1
+留矿采矿法	liu kuang cai kuang fa	1
+留矿开采法	liu kuang kai cai fa	1
+硫磷铝锶矿	liu lin lu si kuang	1
+硫镍铋锑矿	liu nie bi ti kuang	1
+硫砷铅铁矿	liu shen qian tie kuang	1
+硫砷铊铅矿	liu shen ta qian kuang	1
+硫砷锑铅矿	liu shen ti qian kuang	1
+硫砷铜银矿	liu shen tong yin kuang	1
+硫酸盐矿物	liu suan yan kuang wu	1
+硫碳酸铅矿	liu tan suan qian kuang	1
+硫锑铋镍矿	liu ti bi nie kuang	1
+硫锑铋铅矿	liu ti bi qian kuang	1
+硫锑锰银矿	liu ti meng yin kuang	1
+硫锑铅银矿	liu ti qian yin kuang	1
+硫锑铁铅矿	liu ti tie qian kuang	1
+硫锑铜银矿	liu ti tong yin kuang	1
+硫锑银铅矿	liu ti yin qian kuang	1
+硫铜铅铋矿	liu tong qian bi kuang	1
+硫硒铋铅矿	liu xi bi qian kuang	1
+硫硒铅铋矿	liu xi qian bi kuang	1
+硫锡铁铜矿	liu xi tie tong kuang	1
+龙岗火山群	long gang huo shan qun	1
+隆基迈火山	long ji mai huo shan	1
+龙马溪页岩	long ma xi ye yan	1
+漏斗采矿法	lou dou cai kuang fa	1
+潞安矿务局	lu an kuang wu ju	1
+卤化物矿物	lu hua wu kuang wu	1
+芦荟矿物晶	lu hui kuang wu jing	1
+露天采矿法	lu tian cai kuang fa	1
+露天矿边坡	lu tian kuang bian po	1
+露天矿街道	lu tian kuang jie dao	1
+露天矿开拓	lu tian kuang kai tuo	1
+露天矿运输	lu tian kuang yun shu	1
+乱层火成岩	luan ceng huo cheng yan	1
+裸露的岩石	luo lou de yan shi	1
+裸露型岩溶	luo lou xing yan rong	1
+螺旋给矿机	luo xuan gei kuang ji	1
+螺旋选矿机	luo xuan xuan kuang ji	1
+螺状硫银矿	luo zhuang liu yin kuang	1
+绿帘花岗岩	lu lian hua gang yan	1
+绿泥花岗岩	lu ni hua gang yan	1
+绿色凝灰岩	lu se ning hui yan	1
+绿色搜魂石	lu se sou hun shi	1
+绿松石耳坠	lu song shi er zhui	1
+绿松石项链	lu song shi xiang lian	1
+绿松石原石	lu song shi yuan shi	1
+麻辣矿泉水	ma la kuang quan shui	1
+埋藏型岩溶	mai cang xing yan rong	1
+茅口石灰岩	mao kou shi hui yan	1
+茅口组灰岩	mao kou zu hui yan	1
+毛纳基火山	mao na ji huo shan	1
+冒纳基火山	mao na ji huo shan	1
+帽天山页岩	mao tian shan ye yan	1
+冒险与挖矿	mao xian yu wa kuang	1
+煤层气产业	mei ceng qi chan ye	1
+煤层气公司	mei ceng qi gong si	1
+煤层气开发	mei ceng qi kai fa	1
+煤层总厚度	mei ceng zong hou du	1
+煤成岩作用	mei cheng yan zuo yong	1
+镁等矿物质	mei deng kuang wu zhi	1
+玫红尖晶石	mei hong jian jing shi	1
+煤矿安监局	mei kuang an jian ju	1
+煤矿博物馆	mei kuang bo wu guan	1
+煤矿采空区	mei kuang cai kong qu	1
+煤矿机械厂	mei kuang ji xie chang	1
+煤矿文工团	mei kuang wen gong tuan	1
+煤矿智能化	mei kuang zhi neng hua	1
+煤矿自动化	mei kuang zi dong hua	1
+煤炭地质学	mei tan di zhi xue	1
+煤田地质局	mei tian di zhi ju	1
+煤田地质学	mei tian di zhi xue	1
+镁铁质矿物	mei tie zhi kuang wu	1
+镁铁质岩石	mei tie zhi yan shi	1
+煤中矿物质	mei zhong kuang wu zhi	1
+锰钽酸铁矿	meng tan suan tie kuang	1
+描述地质学	miao shu di zhi xue	1
+描述岩石学	miao shu yan shi xue	1
+冥王星地质	ming wang xing di zhi	1
+默奇森陨石	mo qi sen yun shi	1
+磨蚀性岩石	mo shi xing yan shi	1
+钼酸盐矿物	mu suan yan kuang wu	1
+木卫一火山	mu wei yi huo shan	1
+那高岭页岩	na gao ling ye yan	1
+钠辉细岗岩	na hui xi gang yan	1
+钠闪花岗岩	na shan hua gang yan	1
+钠闪微岗岩	na shan wei gang yan	1
+钠质火成岩	na zhi huo cheng yan	1
+内蒙古矿业	nei meng gu kuang ye	1
+内蒙古煤矿	nei meng gu mei kuang	1
+泥流角砾岩	ni liu jiao li yan	1
+泥质角砾岩	ni zhi jiao li yan	1
+鲶矿泉前站	nian kuang quan qian zhan	1
+粘土泥灰岩	nian tu ni hui yan	1
+黏土质页岩	nian tu zhi ye yan	1
+凝灰角砾岩	ning hui jiao li yan	1
+凝灰质砾岩	ning hui zhi li yan	1
+凝灰质页岩	ning hui zhi ye yan	1
+牛马司煤矿	niu ma si mei kuang	1
+喷发的火山	pen fa de huo shan	1
+硼酸盐矿物	peng suan yan kuang wu	1
+瓶装矿泉水	ping zhuang kuang quan shui	1
+婆罗摩火山	po luo mo huo shan	1
+破碎的岩石	po sui de yan shi	1
+普通地质学	pu tong di zhi xue	1
+起傅岩石刻	qi fu yan shi ke	1
+其他矿物质	qi ta kuang wu zhi	1
+栖霞石灰岩	qi xia shi hui yan	1
+浅带变质岩	qian dai bian zhi yan	1
+前地质时期	qian di zhi shi qi	1
+潜火山地震	qian huo shan di zhen	1
+前进成岩酌	qian jin cheng yan zhuo	1
+欠压实页岩	qian ya shi ye yan	1
+强磁性矿物	qiang ci xing kuang wu	1
+强风化砾岩	qiang feng hua li yan	1
+羟硅硼钙石	qiang gui peng gai shi	1
+侵入火成岩	qin ru huo cheng yan	1
+亲水性矿物	qin shui xing kuang wu	1
+轻硫砷铅矿	qing liu shen qian kuang	1
+球颗火成岩	qiu ke huo cheng yan	1
+球状花岗岩	qiu zhuang hua gang yan	1
+去花岗岩化	qu hua gang yan hua	1
+区域变质岩	qu yu bian zhi yan	1
+区域成矿学	qu yu cheng kuang xue	1
+区域地质图	qu yu di zhi tu	1
+区域地质学	qu yu di zhi xue	1
+区域岩石学	qu yu yan shi xue	1
+全面采矿法	quan mian cai kuang fa	1
+全球铁矿石	quan qiu tie kuang shi	1
+全新世火山	quan xin shi huo shan	1
+缺裂火山锥	que lie huo shan zhui	1
+热力类岩溶	re li lei yan rong	1
+人造花岗岩	ren zao hua gang yan	1
+溶解角砾岩	rong jie jiao li yan	1
+熔结角砾岩	rong jie jiao li yan	1
+熔结凝灰岩	rong jie ning hui yan	1
+熔壳火山锥	rong ke huo shan zhui	1
+熔岩溪火山	rong yan xi huo shan	1
+软弱的岩石	ruan ruo de yan shi	1
+三道岭矿区	san dao ling kuang qu	1
+三道岭煤矿	san dao ling mei kuang	1
+砂岩型铀矿	sha yan xing you kuang	1
+砂质泥灰岩	sha zhi ni hui yan	1
+山顶火山口	shan ding huo shan kou	1
+膳食矿物质	shan shi kuang wu zhi	1
+闪锌矿结构	shan xin kuang jie gou	1
+烧结页岩砖	shao jie ye yan zhuan	1
+深地质处置	shen di zhi chu zhi	1
+砷硫铜铁矿	shen liu tong tie kuang	1
+砷酸盐矿物	shen suan yan kuang wu	1
+渗透性岩石	shen tou xing yan shi	1
+生物层灰岩	sheng wu ceng hui yan	1
+生物地质学	sheng wu di zhi xue	1
+生物礁灰岩	sheng wu jiao hui yan	1
+生物碎屑岩	sheng wu sui xie yan	1
+生物滩灰岩	sheng wu tan hui yan	1
+石灰石矿山	shi hui shi kuang shan	1
+石灰岩道碴	shi hui yan dao cha	1
+石灰岩地形	shi hui yan di xing	1
+石灰岩海岸	shi hui yan hai an	1
+石灰岩鹪鹛	shi hui yan jiao mei	1
+石灰岩矿床	shi hui yan kuang chuang	1
+石灰岩溶洞	shi hui yan rong dong	1
+石家庄矿区	shi jia zhuang kuang qu	1
+实验地质学	shi yan di zhi xue	1
+实验矿床学	shi yan kuang chuang xue	1
+实验矿物学	shi yan kuang wu xue	1
+实验岩石学	shi yan yan shi xue	1
+石英质岩石	shi ying zhi yan shi	1
+石油地质学	shi you di zhi xue	1
+石质凝灰岩	shi zhi ning hui yan	1
+受变质矿床	shou bian zhi kuang chuang	1
+水成变质岩	shui cheng bian zhi yan	1
+水成碎屑岩	shui cheng sui xie yan	1
+水电瓦斯费	shui dian wa si fei	1
+水井沱页岩	shui jing tuo ye yan	1
+水泥石灰岩	shui ni shi hui yan	1
+水文地质的	shui wen di zhi de	1
+水文地质图	shui wen di zhi tu	1
+水文地质学	shui wen di zhi xue	1
+苏联地质部	su lian di zhi bu	1
+碎晶凝灰岩	sui jing ning hui yan	1
+碎屑角砾岩	sui xie jiao li yan	1
+碎屑岩岩溶	sui xie yan yan rong	1
+塌积角砾岩	ta ji jiao li yan	1
+塌陷角砾岩	ta xian jiao li yan	1
+太空地质学	tai kong di zhi xue	1
+太平洋岩群	tai ping yang yan qun	1
+钛铁磷灰岩	tai tie lin hui yan	1
+探矿权保留	tan kuang quan bao liu	1
+探矿权设置	tan kuang quan she zhi	1
+探矿权转让	tan kuang quan zhuan rang	1
+郯庐断裂带	tan lu duan lie dai	1
+弹塑性岩石	tan su xing yan shi	1
+碳酸钡锶矿	tan suan bei si kuang	1
+碳酸钙钡矿	tan suan gai bei kuang	1
+碳酸钙镁矿	tan suan gai mei kuang	1
+碳酸镁铬矿	tan suan mei ge kuang	1
+碳酸锶铈矿	tan suan si shi kuang	1
+碳酸盐矿物	tan suan yan kuang wu	1
+碳质石灰岩	tan zhi shi hui yan	1
+陶托那金矿	tao tuo na jin kuang	1
+锑硫砷铅矿	ti liu shen qian kuang	1
+锑硫砷铜矿	ti liu shen tong kuang	1
+天鹅绒金矿	tian e rong jin kuang	1
+天桂岩石刻	tian gui yan shi ke	1
+天然花岗岩	tian ran hua gang yan	1
+天然碱矿床	tian ran jian kuang chuang	1
+天然矿泉水	tian ran kuang quan shui	1
+天然矿物质	tian ran kuang wu zhi	1
+天体地质学	tian ti di zhi xue	1
+天文地质学	tian wen di zhi xue	1
+条带状铁矿	tiao dai zhuang tie kuang	1
+跳火山的人	tiao huo shan de ren	1
+铁磁性矿物	tie ci xing kuang wu	1
+铁等矿物质	tie deng kuang wu zhi	1
+铁基钙钛矿	tie ji gai tai kuang	1
+铁矿石出口	tie kuang shi chu kou	1
+铁矿石价格	tie kuang shi jia ge	1
+铁矿石进口	tie kuang shi jin kou	1
+铁矿石开采	tie kuang shi kai cai	1
+铁矿石贸易	tie kuang shi mao yi	1
+铁矿石品位	tie kuang shi pin wei	1
+铁矿石期货	tie kuang shi qi huo	1
+铁矿石市场	tie kuang shi shi chang	1
+铁矿石谈判	tie kuang shi tan pan	1
+铁矿石涨价	tie kuang shi zhang jia	1
+铁矿石指数	tie kuang shi zhi shu	1
+铁硫砷钻矿	tie liu shen zuan kuang	1
+铁镁质矿物	tie mei zhi kuang wu	1
+廷蒂纳岩石	ting di na yan shi	1
+铜川矿务局	tong chuan kuang wu ju	1
+统计岩石学	tong ji yan shi xue	1
+通科科火山	tong ke ke huo shan	1
+同生角砾岩	tong sheng jiao li yan	1
+通天岩石窟	tong tian yan shi ku	1
+同源花岗岩	tong yuan hua gang yan	1
+桶装矿泉水	tong zhuang kuang quan shui	1
+透长凝灰岩	tou chang ning hui yan	1
+透镜状矿体	tou jing zhuang kuang ti	1
+突出的岩石	tu chu de yan shi	1
+瓦斯涌出量	wa si yong chu liang	1
+外成岩作用	wai cheng yan zuo yong	1
+外碎屑灰岩	wai sui xie hui yan	1
+外岩浆矿床	wai yan jiang kuang chuang	1
+王家岭矿难	wang jia ling kuang nan	1
+王家岭煤矿	wang jia ling mei kuang	1
+微贝壳灰岩	wei bei ke hui yan	1
+伟晶岩矿床	wei jing yan kuang chuang	1
+伟晶岩矿物	wei jing yan kuang wu	1
+尾矿处理厂	wei kuang chu li chang	1
+尾矿库安全	wei kuang ku an quan	1
+尾矿压滤机	wei kuang ya lu ji	1
+微量矿物质	wei liang kuang wu zhi	1
+我是地质人	wo shi di zhi ren	1
+无根火山锥	wu gen huo shan zhui	1
+无机矿物质	wu ji kuang wu zhi	1
+五莲红石材	wu lian hong shi cai	1
+雾迷山灰岩	wu mi shan hui yan	1
+钨钼酸铅矿	wu mu suan qian kuang	1
+无球粒陨石	wu qiu li yun shi	1
+钨酸盐矿物	wu suan yan kuang wu	1
+五塔岩石塔	wu ta yan shi ta	1
+硒等矿物质	xi deng kuang wu zhi	1
+硒化物矿物	xi hua wu kuang wu	1
+细晶磷灰岩	xi jing lin hui yan	1
+矽卡岩矿床	xi ka yan kuang chuang	1
+夕卡岩矿物	xi ka yan kuang wu	1
+锡矿山街道	xi kuang shan jie dao	1
+细硫砷铅矿	xi liu shen qian kuang	1
+锡纳朋火山	xi na peng huo shan	1
+悉尼岩石区	xi ni yan shi qu	1
+硒铊银铜矿	xi ta yin tong kuang	1
+硒铜铅镍矿	xi tong qian nie kuang	1
+稀土火成岩	xi tu huo cheng yan	1
+锡瓦斯体育	xi wa si ti yu	1
+下马岭页岩	xia ma ling ye yan	1
+纤硫锑铅矿	xian liu ti qian kuang	1
+陷落火山口	xian luo huo shan kou	1
+显微岩石学	xian wei yan shi xue	1
+纤维状岩石	xian wei zhuang yan shi	1
+小江断裂带	xiao jiang duan lie dai	1
+硝酸盐矿物	xiao suan yan kuang wu	1
+小行星采矿	xiao xing xing cai kuang	1
+小行星陨石	xiao xing xing yun shi	1
+逍遥岩石刻	xiao yao yan shi ke	1
+斜长花岗岩	xie chang hua gang yan	1
+斜硫锑铅矿	xie liu ti qian kuang	1
+锌等矿物质	xin deng kuang wu zhi	1
+锌硫锡铅矿	xin liu xi qian kuang	1
+新生代火山	xin sheng dai huo shan	1
+兴隆庄煤矿	xing long zhuang mei kuang	1
+邢台矿务局	xing tai kuang wu ju	1
+行星地质学	xing xing di zhi xue	1
+休格地陨石	xiu ge di yun shi	1
+岫岩陨石坑	xiu yan yun shi keng	1
+徐州矿务局	xu zhou kuang wu ju	1
+选别采矿法	xuan bie cai kuang fa	1
+选矿回收率	xuan kuang hui shou lu	1
+玄武岩石辊	xuan wu yan shi gun	1
+压碎角砾岩	ya sui jiao li yan	1
+岩崩角砾岩	yan beng jiao li yan	1
+岩基成矿说	yan ji cheng kuang shuo	1
+岩浆成矿酌	yan jiang cheng kuang zhuo	1
+岩浆花岗岩	yan jiang hua gang yan	1
+岩浆内矿床	yan jiang nei kuang chuang	1
+岩矿心采样	yan kuang xin cai yang	1
+岩溶剥蚀面	yan rong bo shi mian	1
+岩溶地面的	yan rong di mian de	1
+岩溶洞回填	yan rong dong hui tian	1
+岩溶多潮泉	yan rong duo chao quan	1
+岩溶含水层	yan rong han shui ceng	1
+岩溶红色土	yan rong hong se tu	1
+岩溶基准面	yan rong ji zhun mian	1
+岩溶较发育	yan rong jiao fa yu	1
+岩溶角砾岩	yan rong jiao li yan	1
+盐溶角砾岩	yan rong jiao li yan	1
+岩溶水文学	yan rong shui wen xue	1
+岩溶陷落柱	yan rong xian luo zhu	1
+岩溶夷平面	yan rong yi ping mian	1
+岩溶油气藏	yan rong you qi cang	1
+岩溶准平原	yan rong zhun ping yuan	1
+岩石泊松比	yan shi bo song bi	1
+岩石层岩块	yan shi ceng yan kuai	1
+岩石成因论	yan shi cheng yin lun	1
+岩石成因学	yan shi cheng yin xue	1
+岩石的海洋	yan shi de hai yang	1
+岩石的粘性	yan shi de nian xing	1
+岩石地层法	yan shi di ceng fa	1
+岩石地层时	yan shi di ceng shi	1
+岩石地层学	yan shi di ceng xue	1
+岩石地貌学	yan shi di mao xue	1
+岩石发电机	yan shi fa dian ji	1
+岩石粉磨机	yan shi fen mo ji	1
+岩石构造学	yan shi gou zao xue	1
+岩石和土壤	yan shi he tu rang	1
+岩石堠题刻	yan shi hou ti ke	1
+岩石几何学	yan shi ji he xue	1
+岩石坚固性	yan shi jian gu xing	1
+岩石胶结酌	yan shi jiao jie zhuo	1
+岩石静压力	yan shi jing ya li	1
+岩石掘进机	yan shi jue jin ji	1
+岩石抗冻性	yan shi kang dong xing	1
+岩石可爆性	yan shi ke bao xing	1
+岩石可采性	yan shi ke cai xing	1
+岩石可钻性	yan shi ke zuan xing	1
+岩石矿物学	yan shi kuang wu xue	1
+岩石裂隙带	yan shi lie xi dai	1
+岩石岭水库	yan shi ling shui ku	1
+岩石流变性	yan shi liu bian xing	1
+岩石磨蚀性	yan shi mo shi xing	1
+岩石圈板块	yan shi quan ban kuai	1
+岩石圈滴落	yan shi quan di luo	1
+岩石圈地幔	yan shi quan di man	1
+岩石圈地震	yan shi quan di zhen	1
+岩石圈断块	yan shi quan duan kuai	1
+岩石圈断裂	yan shi quan duan lie	1
+岩石圈弯曲	yan shi quan wan qu	1
+岩石热导率	yan shi re dao lu	1
+岩石热胀性	yan shi re zhang xing	1
+岩石热阻率	yan shi re zu lu	1
+岩石软化性	yan shi ruan hua xing	1
+岩石渗透性	yan shi shen tou xing	1
+岩石声发射	yan shi sheng fa she	1
+岩石弹塑性	yan shi tan su xing	1
+岩石透气性	yan shi tou qi xing	1
+岩石挖掘机	yan shi wa jue ji	1
+岩石物理学	yan shi wu li xue	1
+岩石吸水率	yan shi xi shui lu	1
+岩石吸水性	yan shi xi shui xing	1
+岩石显微镜	yan shi xian wei jing	1
+岩石小作品	yan shi xiao zuo pin	1
+岩石艺术区	yan shi yi shu qu	1
+岩石硬度比	yan shi ying du bi	1
+岩尾火山群	yan wei huo shan qun	1
+岩屑砂屑岩	yan xie sha xie yan	1
+岩钟成矿说	yan zhong cheng kuang shuo	1
+兖州矿务局	yan zhou kuang wu ju	1
+氧化物矿物	yang hua wu kuang wu	1
+阳泉矿务局	yang quan kuang wu ju	1
+阳泉市矿区	yang quan shi kuang qu	1
+冶里石灰岩	ye li shi hui yan	1
+野外地质学	ye wai di zhi xue	1
+页岩化作用	ye yan hua zuo yong	1
+页岩气革命	ye yan qi ge ming	1
+页岩气开采	ye yan qi kai cai	1
+页岩气开发	ye yan qi kai fa	1
+页岩气勘探	ye yan qi kan tan	1
+页岩油产量	ye yan you chan liang	1
+页岩油开采	ye yan you kai cai	1
+页岩油提炼	ye yan you ti lian	1
+怡宝矿泉水	yi bao kuang quan shui	1
+异化粒灰岩	yi hua li hui yan	1
+易家湾页岩	yi jia wan ye yan	1
+医疗热矿水	yi liao re kuang shui	1
+异硫锑铅矿	yi liu ti qian kuang	1
+易溶性岩石	yi rong xing yan shi	1
+伊通火山群	yi tong huo shan qun	1
+依云矿泉水	yi yun kuang quan shui	1
+隐爆角砾岩	yin bao jiao li yan	1
+饮料矿泉水	yin liao kuang quan shui	1
+隐岩浆矿床	yin yan jiang kuang chuang	1
+饮用矿泉水	yin yong kuang quan shui	1
+鹰手营子矿	ying shou ying zi kuang	1
+应用地质学	ying yong di zhi xue	1
+英云角页岩	ying yun jiao ye yan	1
+铀矿地质学	you kuang di zhi xue	1
+铀砾岩矿床	you li yan kuang chuang	1
+有色金属矿	you se jin shu kuang	1
+油页岩产业	you ye yan chan ye	1
+油页岩储量	you ye yan chu liang	1
+油页岩工业	you ye yan gong ye	1
+油页岩技术	you ye yan ji shu	1
+油页岩开采	you ye yan kai cai	1
+优质矿泉水	you zhi kuang quan shui	1
+宇宙地质学	yu zhou di zhi xue	1
+原地花岗岩	yuan di hua gang yan	1
+原始火山岩	yuan shi huo shan yan	1
+远岩浆矿床	yuan yan jiang kuang chuang	1
+圆锥选矿机	yuan zhui xuan kuang ji	1
+月球地质学	yue qiu di zhi xue	1
+月球火成岩	yue qiu huo cheng yan	1
+月球岩石圈	yue qiu yan shi quan	1
+月岩新矿物	yue yan xin kuang wu	1
+陨击角砾岩	yun ji jiao li yan	1
+云母赤铁矿	yun mu chi tie kuang	1
+杂块花岗岩	za kuai hua gang yan	1
+杂硫银铁矿	za liu yin tie kuang	1
+杂硫银铜矿	za liu yin tong kuang	1
+杂硒铅汞矿	za xi qian gong kuang	1
+再生花岗岩	zai sheng hua gang yan	1
+造岩矿物学	zao yan kuang wu xue	1
+枣庄矿务局	zao zhuang kuang wu ju	1
+张夏石灰岩	zhang xia shi hui yan	1
+张性角砾岩	zhang xing jiao li yan	1
+找矿矿物学	zhao kuang kuang wu xue	1
+赵巧岩石窟	zhao qiao yan shi ku	1
+针硫铋铅矿	zhen liu bi qian kuang	1
+针硫锑铅矿	zhen liu ti qian kuang	1
+珍珠岩矿床	zhen zhu yan kuang chuang	1
+蒸发岩矿床	zheng fa yan kuang chuang	1
+正岩浆矿床	zheng yan jiang kuang chuang	1
+正长花岗岩	zheng zhang hua gang yan	1
+郑州矿务局	zheng zhou kuang wu ju	1
+支柱采矿法	zhi zhu cai kuang fa	1
+重介质选矿	zhong jie zhi xuan kuang	1
+重晶石矿床	zhong jing shi kuang chuang	1
+重力选矿厂	zhong li xuan kuang chang	1
+重力选矿法	zhong li xuan kuang fa	1
+重力选矿机	zhong li xuan kuang ji	1
+重砂找矿法	zhong sha zhao kuang fa	1
+中生代地质	zhong sheng dai di zhi	1
+中心式火山	zhong xin shi huo shan	1
+柱硫锑铅矿	zhu liu ti qian kuang	1
+烛煤质页岩	zhu mei zhi ye yan	1
+柱式采矿法	zhu shi cai kuang fa	1
+竹叶状灰岩	zhu ye zhuang hui yan	1
+竹叶状砾岩	zhu ye zhuang li yan	1
+撞击角砾岩	zhuang ji jiao li yan	1
+准硫铀钙矿	zhun liu you gai kuang	1
+淄博矿务局	zi bo kuang wu ju	1
+自动化煤矿	zi dong hua mei kuang	1
+紫硫镍铁矿	zi liu nie tie kuang	1
+紫苏花岗岩	zi su hua gang yan	1
+紫苏闪石岩	zi su shan shi yan	1
+棕灰岩鹪鹛	zong hui yan jiao mei	1
+白银厂铜矿床	bai yin chang tong kuang chuang	1
+斑岩铜矿模式	ban yan tong kuang mo shi	1
+半原地花岗岩	ban yuan di hua gang yan	1
+保护地质环境	bao hu di zhi huan jing	1
+保晋矿务公司	bao jin kuang wu gong si	1
+宝矿国际大厦	bao kuang guo ji da sha	1
+北京地质学院	bei jing di zhi xue yuan	1
+北石灰岩山脉	bei shi hui yan shan mai	1
+变质成矿作用	bian zhi cheng kuang zuo yong	1
+表生成岩作用	biao sheng cheng yan zuo yong	1
+铂族元素矿床	bo zu yuan su kuang chuang	1
+不良地质作用	bu liang di zhi zuo yong	1
+采矿工程师岩	cai kuang gong cheng shi yan	1
+层硅酸盐矿物	ceng gui suan yan kuang wu	1
+长春地质学院	chang chun di zhi xue yuan	1
+场地地质效应	chang di di zhi xiao ying	1
+超强陨石魔法	chao qiang yun shi mo fa	1
+超岩石圈断裂	chao yan shi quan duan lie	1
+沉火山角砾岩	chen huo shan jiao li yan	1
+沉火山碎屑岩	chen huo shan sui xie yan	1
+沉积变质矿床	chen ji bian zhi kuang chuang	1
+沉积成岩作用	chen ji cheng yan zuo yong	1
+沉积喷流矿床	chen ji pen liu kuang chuang	1
+成都地质学院	cheng du di zhi xue yuan	1
+成矿地质背景	cheng kuang di zhi bei jing	1
+城市工程地质	cheng shi gong cheng di zhi	1
+初步地质勘察	chu bu di zhi kan cha	1
+次生地质灾害	ci sheng di zhi zai hai	1
+次生晕找矿法	ci sheng yun zhao kuang fa	1
+次碳酸镁铁矿	ci tan suan mei tie kuang	1
+脆硫锑银铅矿	cui liu ti yin qian kuang	1
+大型工矿企业	da xing gong kuang qi ye	1
+大型火成岩区	da xing huo cheng yan qu	1
+单斜晶系矿物	dan xie jing xi kuang wu	1
+岛硅酸盐矿物	dao gui suan yan kuang wu	1
+倒石锥角砾岩	dao shi zhui jiao li yan	1
+地球地质历史	di qiu di zhi li shi	1
+地球化学探矿	di qiu hua xue tan kuang	1
+低铁假板钛矿	di tie jia ban tai kuang	1
+地下岩石孔缝	di xia yan shi kong feng	1
+地震地质效应	di zhen di zhi xiao ying	1
+地震地质灾害	di zhen di zhi zai hai	1
+地震工程地质	di zhen gong cheng di zhi	1
+地质复杂程度	di zhi fu za cheng du	1
+地质工程专业	di zhi gong cheng zhuan ye	1
+地质构造体系	di zhi gou zao ti xi	1
+地质国家公园	di zhi guo jia gong yuan	1
+地质环境保护	di zhi huan jing bao hu	1
+地质环境破坏	di zhi huan jing po huai	1
+地质环境条件	di zhi huan jing tiao jian	1
+地质环境总站	di zhi huan jing zong zhan	1
+地质勘查报告	di zhi kan cha bao gao	1
+地质勘察报告	di zhi kan cha bao gao	1
+地质勘查资料	di zhi kan cha zi liao	1
+地质勘探单位	di zhi kan tan dan wei	1
+地质矿产勘查	di zhi kuang chan kan cha	1
+地质雷达探测	di zhi lei da tan ce	1
+地质历史时期	di zhi li shi shi qi	1
+地质力学概论	di zhi li xue gai lun	1
+地质年代单位	di zhi nian dai dan wei	1
+地质年代学的	di zhi nian dai xue de	1
+地质透视效应	di zhi tou shi xiao ying	1
+地质研究程度	di zhi yan jiu cheng du	1
+地质灾害防治	di zhi zai hai fang zhi	1
+地质灾害气象	di zhi zai hai qi xiang	1
+地质灾害巡查	di zhi zai hai xun cha	1
+地质灾害治理	di zhi zai hai zhi li	1
+地中海型岩溶	di zhong hai xing yan rong	1
+电动破碎岩石	dian dong po sui yan shi	1
+动力地质作用	dong li di zhi zuo yong	1
+二次岩石压力	er ci yan shi ya li	1
+鲕粒亮晶灰岩	er li liang jing hui yan	1
+鲕粒泥质灰岩	er li ni zhi hui yan	1
+尔塔阿雷火山	er ta a lei huo shan	1
+二氧化硅矿物	er yang hua gui kuang wu	1
+肥城矿业集团	fei cheng kuang ye ji tuan	1
+非煤矿山安全	fei mei kuang shan an quan	1
+非煤矿山企业	fei mei kuang shan qi ye	1
+废弃的小矿井	fei qi de xiao kuang jing	1
+非渗透性岩石	fei shen tou xing yan shi	1
+粪粒泥晶灰岩	fen li ni jing hui yan	1
+分散流找矿法	fen san liu zhao kuang fa	1
+风成细粒灰岩	feng cheng xi li hui yan	1
+风的地质作用	feng de di zhi zuo yong	1
+副沉积角砾岩	fu chen ji jiao li yan	1
+附法岩石高仑	fu fa yan shi gao lun	1
+涪陵页岩气田	fu ling ye yan qi tian	1
+富铝质火成岩	fu lu zhi huo cheng yan	1
+抚顺西露天矿	fu shun xi lu tian kuang	1
+负异钠花岗岩	fu yi na hua gang yan	1
+抚州地质学院	fu zhou di zhi xue yuan	1
+钙碱性火山岩	gai jian xing huo shan yan	1
+钙质微晶灰岩	gai zhi wei jing hui yan	1
+甘科诺拉火山	gan ke nuo la huo shan	1
+甘斯基陨石坑	gan si ji yun shi keng	1
+高等岩石力学	gao deng yan shi li xue	1
+高原边沿岩石	gao yuan bian yan yan shi	1
+各国火成岩学	ge guo huo cheng yan xue	1
+耕地质量建设	geng di zhi liang jian she	1
+工程地质测绘	gong cheng di zhi ce hui	1
+工程地质单元	gong cheng di zhi dan yuan	1
+工程地质调查	gong cheng di zhi diao cha	1
+工程地质环境	gong cheng di zhi huan jing	1
+工程地质勘察	gong cheng di zhi kan cha	1
+工程地质力学	gong cheng di zhi li xue	1
+工程地质评价	gong cheng di zhi ping jia	1
+工程地质特征	gong cheng di zhi te zheng	1
+工程地质条件	gong cheng di zhi tiao jian	1
+工程地质问题	gong cheng di zhi wen ti	1
+工程地质岩组	gong cheng di zhi yan zu	1
+工程地质钻探	gong cheng di zhi zuan tan	1
+工矿仓储用地	gong kuang cang chu yong di	1
+工矿建设用地	gong kuang jian she yong di	1
+构造后花岗岩	gou zao hou hua gang yan	1
+构造控岩控矿	gou zao kong yan kong kuang	1
+固结成岩作用	gu jie cheng yan zuo yong	1
+骨矿物质含量	gu kuang wu zhi han liang	1
+骨矿物质密度	gu kuang wu zhi mi du	1
+牯牛潭石灰岩	gu niu tan shi hui yan	1
+古铜无球陨石	gu tong wu qiu yun shi	1
+滚刀破碎岩石	gun dao po sui yan shi	1
+国际地质大会	guo ji di zhi da hui	1
+国家地质公园	guo jia di zhi gong yuan	1
+海洋地质调查	hai yang di zhi diao cha	1
+海洋地质学家	hai yang di zhi xue jia	1
+海洋工程地质	hai yang gong cheng di zhi	1
+含瓦斯的岩石	han wa si de yan shi	1
+航空地质方法	hang kong di zhi fang fa	1
+河北地质大学	he bei di zhi da xue	1
+河北地质学院	he bei di zhi xue yuan	1
+河北矿冶学院	he bei kuang ye xue yuan	1
+黑泥碳酸铁矿	hei ni tan suan tie kuang	1
+黑色碳质页岩	hei se tan zhi ye yan	1
+红硅硼铝钙石	hong gui peng lu gai shi	1
+红帘石英片岩	hong lian shi ying pian yan	1
+红硫锑砷钠矿	hong liu ti shen na kuang	1
+红色石蕊试纸	hong se shi rui shi zhi	1
+红条毛肤石鳖	hong tiao mao fu shi bie	1
+后生成岩作用	hou sheng cheng yan zuo yong	1
+湖北地质学院	hu bei di zhi xue yuan	1
+笏山金矿事故	hu shan jin kuang shi gu	1
+华东地质学院	hua dong di zhi xue yuan	1
+花岗岩层下的	hua gang yan ceng xia de	1
+花岗岩化变质	hua gang yan hua bian zhi	1
+花岗岩类岩石	hua gang yan lei yan shi	1
+花岗岩型铀矿	hua gang yan xing you kuang	1
+花岗状火成岩	hua gang zhuang huo cheng yan	1
+化学沉积矿床	hua xue chen ji kuang chuang	1
+环硅酸盐矿物	huan gui suan yan kuang wu	1
+环境地质调查	huan jing di zhi diao cha	1
+环境地质问题	huan jing di zhi wen ti	1
+环境水文地质	huan jing shui wen di zhi	1
+黄铁炭质页岩	huang tie tan zhi ye yan	1
+黄铁碳质页岩	huang tie tan zhi ye yan	1
+灰岩喜鹊苣苔	hui yan xi que ju tai	1
+灰岩皱叶报春	hui yan zhou ye bao chun	1
+混合岩化矿床	hun he yan hua kuang chuang	1
+火色硫锑银矿	huo se liu ti yin kuang	1
+火山沉积矿床	huo shan chen ji kuang chuang	1
+火山地质公园	huo shan di zhi gong yuan	1
+火山角砾岩筒	huo shan jiao li yan tong	1
+火山碎屑熔岩	huo shan sui xie rong yan	1
+火山碎屑岩筒	huo shan sui xie yan tong	1
+火山岩型铀矿	huo shan yan xing you kuang	1
+火山柱状节理	huo shan zhu zhuang jie li	1
+火星岩石列表	huo xing yan shi lie biao	1
+及多种矿物质	ji duo zhong kuang wu zhi	1
+机械沉积矿床	ji xie chen ji kuang chuang	1
+基性磷锰铁矿	ji xing lin meng tie kuang	1
+基性磷铁锰矿	ji xing lin tie meng kuang	1
+坚固稳定岩石	jian gu wen ding yan shi	1
+碱性岩型铀矿	jian xing yan xing you kuang	1
+焦作矿业学院	jiao zuo kuang ye xue yuan	1
+焦作路矿学堂	jiao zuo lu kuang xue tang	1
+捷边科夫火山	jie bian ke fu huo shan	1
+接触变质矿床	jie chu bian zhi kuang chuang	1
+金矿开采公司	jin kuang kai cai gong si	1
+进行水文地质	jin xing shui wen di zhi	1
+居间灰岩黄芩	ju jian hui yan huang qin	1
+开采的小矿井	kai cai de xiao kuang jing	1
+块状硫砷铜矿	kuai zhuang liu shen tong kuang	1
+矿产资源勘查	kuang chan zi yuan kan cha	1
+矿床充水因素	kuang chuang chong shui yin su	1
+矿大南湖校区	kuang da nan hu xiao qu	1
+矿工的安全帽	kuang gong de an quan mao	1
+矿井反风装置	kuang jing fan feng zhuang zhi	1
+矿井富水系数	kuang jing fu shui xi shu	1
+矿块结构要素	kuang kuai jie gou yao su	1
+矿区地质环境	kuang qu di zhi huan jing	1
+矿区平均品位	kuang qu ping jun pin wei	1
+矿山地质工作	kuang shan di zhi gong zuo	1
+矿山基建地质	kuang shan ji jian di zhi	1
+矿山岩石力学	kuang shan yan shi li xue	1
+矿山总体布置	kuang shan zong ti bu zhi	1
+矿石工业品级	kuang shi gong ye pin ji	1
+矿务铁路学堂	kuang wu tie lu xue tang	1
+矿务铁路总局	kuang wu tie lu zong ju	1
+矿物性皮质素	kuang wu xing pi zhi su	1
+矿岩氧化自燃	kuang yan yang hua zi ran	1
+矿业秩序整顿	kuang ye zhi xu zheng dun	1
+蓝色石蕊试纸	lan se shi rui shi zhi	1
+蓝闪石片岩相	lan shan shi pian yan xiang	1
+利明顿矿泉市	li ming dun kuang quan shi	1
+粒状岩石风化	li zhuang yan shi feng hua	1
+炼钢用铁矿石	lian gang yong tie kuang shi	1
+链硅酸盐矿物	lian gui suan yan kuang wu	1
+炼铁用铁矿石	lian tie yong tie kuang shi	1
+灵应岩石桅子	ling ying yan shi wei zi	1
+硫铋铜银铅矿	liu bi tong yin qian kuang	1
+硫代酸盐矿物	liu dai suan yan kuang wu	1
+硫锑铋铁铜矿	liu ti bi tie tong kuang	1
+硫柱辉铜锑矿	liu zhu hui tong ti kuang	1
+潞安矿业集团	lu an kuang ye ji tuan	1
+鹿寨香桥岩溶	lu zhai xiang qiao yan rong	1
+铝硅酸盐矿物	lu gui suan yan kuang wu	1
+绿色凝灰岩组	lu se ning hui yan zu	1
+冒纳凯阿火山	mao na kai a huo shan	1
+冒纳凯亚火山	mao na kai ya huo shan	1
+茂纳凯亚火山	mao na kai ya huo shan	1
+冒纳罗亚火山	mao na luo ya huo shan	1
+茂纳洛亚火山	mao na luo ya huo shan	1
+煤层地质基础	mei ceng di zhi ji chu	1
+煤层顶板页岩	mei ceng ding ban ye yan	1
+煤层瓦斯含量	mei ceng wa si han liang	1
+煤矿安全监察	mei kuang an quan jian cha	1
+煤矿历史遗址	mei kuang li shi yi zhi	1
+煤田地质勘探	mei tian di zhi kan tan	1
+煤与瓦斯突出	mei yu wa si tu chu	1
+木里灰岩黄芩	mu li hui yan huang qin	1
+南石灰岩山脉	nan shi hui yan shan mai	1
+内力地质作用	nei li di zhi zuo yong	1
+凝灰火山渣锥	ning hui huo shan zha zhui	1
+凝灰质巨砾岩	ning hui zhi ju li yan	1
+片麻状花岗岩	pian ma zhuang hua gang yan	1
+普通硫锑铅矿	pu tong liu ti qian kuang	1
+普通球粒陨石	pu tong qiu li yun shi	1
+气化热液矿床	qi hua re ye kuang chuang	1
+浅成热液矿床	qian cheng re ye kuang chuang	1
+强力陨石魔法	qiang li yun shi mo fa	1
+切削破碎岩石	qie xiao po sui yan shi	1
+亲花岗岩矿床	qin hua gang yan kuang chuang	1
+倾斜岩石巷道	qing xie yan shi hang dao	1
+氢氧化物矿物	qing yang hua wu kuang wu	1
+球粒亮晶灰岩	qiu li liang jing hui yan	1
+球粒泥晶灰岩	qiu li ni jing hui yan	1
+球粒微晶灰岩	qiu li wei jing hui yan	1
+区域地质测量	qu yu di zhi ce liang	1
+区域地质调查	qu yu di zhi diao cha	1
+区域地质构造	qu yu di zhi gou zao	1
+热力破碎岩石	re li po sui yan shi	1
+人为地质灾害	ren wei de zhi zai hai	1
+熔火山碎屑岩	rong huo shan sui xie yan	1
+三菱金属矿业	san ling jin shu kuang ye	1
+砂矿边沿基岩	sha kuang bian yan ji yan	1
+山东路矿公司	shan dong lu kuang gong si	1
+山洪地质灾害	shan hong di zhi zai hai	1
+山西潞安矿业	shan xi lu an kuang ye	1
+舍维留奇火山	she wei liu qi huo shan	1
+深成热液矿床	shen cheng re ye kuang chuang	1
+砷硫锑铜银矿	shen liu ti tong yin kuang	1
+深热矿井通风	shen re kuang jing tong feng	1
+省地质测绘院	sheng di zhi ce hui yuan	1
+省煤田地质局	sheng mei tian di zhi ju	1
+生物地质化学	sheng wu di zhi hua xue	1
+生物堆积灰岩	sheng wu dui ji hui yan	1
+生物构架灰岩	sheng wu gou jia hui yan	1
+生物骨架灰岩	sheng wu gu jia hui yan	1
+生物架构灰岩	sheng wu jia gou hui yan	1
+生物建造灰岩	sheng wu jian zao hui yan	1
+生物泥晶灰岩	sheng wu ni jing hui yan	1
+生物粘结灰岩	sheng wu nian jie hui yan	1
+生物碎屑灰岩	sheng wu sui xie hui yan	1
+生物滞积灰岩	sheng wu zhi ji hui yan	1
+石磴子石灰岩	shi deng zi shi hui yan	1
+石灰岩参差面	shi hui yan cen ci mian	1
+世界地质公园	shi jie di zhi gong yuan	1
+世界地质奇观	shi jie di zhi qi guan	1
+石龙洞石灰岩	shi long dong shi hui yan	1
+石油地质储量	shi you di zhi chu liang	1
+双硅酸盐矿物	shuang gui suan yan kuang wu	1
+水滑结晶灰岩	shui hua jie jing hui yan	1
+水力开采矿井	shui li kai cai kuang jing	1
+水碳酸钙铀矿	shui tan suan gai you kuang	1
+水文地质参数	shui wen di zhi can shu	1
+水文地质勘察	shui wen di zhi kan cha	1
+水文地质勘查	shui wen di zhi kan cha	1
+水文地质手册	shui wen di zhi shou ce	1
+水文地质特征	shui wen di zhi te zheng	1
+水文地质条件	shui wen di zhi tiao jian	1
+水文地质问题	shui wen di zhi wen ti	1
+水文地质学家	shui wen di zhi xue jia	1
+水文地质资料	shui wen di zhi zi liao	1
+水文地质钻探	shui wen di zhi zuan tan	1
+水文工程地质	shui wen gong cheng di zhi	1
+四方硫砷铜矿	si fang liu shen tong kuang	1
+松散易垮岩石	song san yi kua yan shi	1
+覃家庙石灰岩	tan jia miao shi hui yan	1
+探明地质储量	tan ming di zhi chu liang	1
+碳质球粒陨石	tan zhi qiu li yun shi	1
+特征变质矿物	te zheng bian zhi kuang wu	1
+藤壶比尔岩石	teng hu bi er yan shi	1
+天河板石灰岩	tian he ban shi hui yan	1
+铜矿指示植物	tong kuang zhi shi zhi wu	1
+同生成岩作用	tong sheng cheng yan zuo yong	1
+屯兰煤矿事故	tun lan mei kuang shi gu	1
+外力地质作用	wai li di zhi zuo yong	1
+外力碎屑砾岩	wai li sui xie li yan	1
+外生成矿作用	wai sheng cheng kuang zuo yong	1
+晚期岩浆矿床	wan qi yan jiang kuang chuang	1
+网硅酸盐矿物	wang gui suan yan kuang wu	1
+伟晶岩型铀矿	wei jing yan xing you kuang	1
+伟俊矿业集团	wei jun kuang ye ji tuan	1
+微亮晶石灰岩	wei liang jing shi hui yan	1
+五大连池火山	wu da lian chi huo shan	1
+武汉地质学院	wu han di zhi xue yuan	1
+无化石石灰岩	wu hua shi shi hui yan	1
+吴家坪石灰岩	wu jia ping shi hui yan	1
+五矿崇文金城	wu kuang chong wen jin cheng	1
+五矿二十三冶	wu kuang er shi san ye	1
+五矿经易期货	wu kuang jing yi qi huo	1
+西安地质学院	xi an di zhi xue yuan	1
+夕拉科加陨石	xi la ke jia yun shi	1
+锡砷硫钒铜矿	xi shen liu fan tong kuang	1
+稀有元素矿床	xi you yuan su kuang chuang	1
+现代盐湖矿床	xian dai yan hu kuang chuang	1
+腺灰岩紫地榆	xian hui yan zi di yu	1
+斜方晶系矿物	xie fang jing xi kuang wu	1
+斜方硫锑铅矿	xie fang liu ti qian kuang	1
+新疆矿冶学院	xin jiang kuang ye xue yuan	1
+新疆新鑫矿业	xin jiang xin xin kuang ye	1
+徐州矿务集团	xu zhou kuang wu ji tuan	1
+玄武质凝灰岩	xuan wu zhi ning hui yan	1
+岩浆成矿作用	yan jiang cheng kuang zuo yong	1
+岩浆分结矿床	yan jiang fen jie kuang chuang	1
+岩浆期后矿床	yan jiang qi hou kuang chuang	1
+岩矿鉴定取样	yan kuang jian ding qu yang	1
+兖矿煤化公司	yan kuang mei hua gong si	1
+岩矿心采取率	yan kuang xin cai qu lu	1
+岩溶倒虹吸管	yan rong dao hong xi guan	1
+岩溶断块山地	yan rong duan kuai shan di	1
+岩溶断陷盆地	yan rong duan xian pen di	1
+岩溶含水地块	yan rong han shui di kuai	1
+岩溶水之间无	yan rong shui zhi jian wu	1
+岩溶型风化壳	yan rong xing feng hua ke	1
+岩石饱和系数	yan shi bao he xi shu	1
+岩石爆破机理	yan shi bao po ji li	1
+岩石本构方程	yan shi ben gou fang cheng	1
+岩石边的尘土	yan shi bian de chen tu	1
+岩石变形机制	yan shi bian xing ji zhi	1
+岩石变形模量	yan shi bian xing mo liang	1
+岩石表面破碎	yan shi biao mian po sui	1
+岩石残余强度	yan shi can yu qiang du	1
+岩石残余应力	yan shi can yu ying li	1
+岩石成因模型	yan shi cheng yin mo xing	1
+岩石的波阻抗	yan shi de bo zu kang	1
+岩石的成层性	yan shi de cheng ceng xing	1
+岩石的可采性	yan shi de ke cai xing	1
+岩石的可钻性	yan shi de ke zuan xing	1
+岩石的研磨性	yan shi de yan mo xing	1
+岩石地层单位	yan shi di ceng dan wei	1
+岩石地层单元	yan shi di ceng dan yuan	1
+岩石地球化学	yan shi di qiu hua xue	1
+岩石殿石棚墓	yan shi dian shi peng mu	1
+岩石动态强度	yan shi dong tai qiang du	1
+岩石断裂力学	yan shi duan lie li xue	1
+岩石断裂韧性	yan shi duan lie ren xing	1
+岩石非均匀性	yan shi fei jun yun xing	1
+岩石非连续性	yan shi fei lian xu xing	1
+岩石风化程度	yan shi feng hua cheng du	1
+岩石各向异性	yan shi ge xiang yi xing	1
+岩石花纹符号	yan shi hua wen fu hao	1
+岩石化学的球	yan shi hua xue de qiu	1
+岩石剪切试验	yan shi jian qie shi yan	1
+岩石交互作用	yan shi jiao hu zuo yong	1
+岩石抗拉强度	yan shi kang la qiang du	1
+岩石抗力系数	yan shi kang li xi shu	1
+岩石抗压强度	yan shi kang ya qiang du	1
+岩石孔隙结构	yan shi kong xi jie gou	1
+岩石力学性质	yan shi li xue xing zhi	1
+岩石流变强度	yan shi liu bian qiang du	1
+岩石粘滞效应	yan shi nian zhi xiao ying	1
+岩石破碎机理	yan shi po sui ji li	1
+岩石强度系数	yan shi qiang du xi shu	1
+岩石热扩散率	yan shi re kuo san lu	1
+岩石声学性质	yan shi sheng xue xing zhi	1
+岩石水理性质	yan shi shui li xing zhi	1
+岩石塑性表象	yan shi su xing biao xiang	1
+岩石弹性表象	yan shi tan xing biao xiang	1
+岩石弹性模量	yan shi tan xing mo liang	1
+岩石压缩应力	yan shi ya suo ying li	1
+岩石质量指标	yan shi zhi liang zhi biao	1
+岩石州立公园	yan shi zhou li gong yuan	1
+岩石自养生物	yan shi zi yang sheng wu	1
+岩石组构解析	yan shi zu gou jie xi	1
+岩石钻磨工具	yan shi zuan mo gong ju	1
+砚瓦山石灰岩	yan wa shan shi hui yan	1
+杨柳岗石灰岩	yang liu gang shi hui yan	1
+杨庄红色页岩	yang zhuang hong se ye yan	1
+页硅酸盐矿物	ye gui suan yan kuang wu	1
+冶金地质学院	ye jin di zhi xue yuan	1
+野柳地质公园	ye liu di zhi gong yuan	1
+易落上层岩石	yi luo shang ceng yan shi	1
+英岗岭矿务局	ying gang ling kuang wu ju	1
+硬硫铋铅铜矿	ying liu bi qian tong kuang	1
+油气地质勘探	you qi di zhi kan tan	1
+原地生物灰岩	yuan di sheng wu hui yan	1
+原生晕找矿法	yuan sheng yun zhao kuang fa	1
+原始地质编录	yuan shi di zhi bian lu	1
+原油地质储量	yuan you di zhi chu liang	1
+杂色灰岩鹪鹛	za se hui yan jiao mei	1
+早期岩浆矿床	zao qi yan jiang kuang chuang	1
+正斑花岗质岩	zheng ban hua gang zhi yan	1
+蒸发沉积矿床	zheng fa chen ji kuang chuang	1
+滞后弧火山岩	zhi hou hu huo shan yan	1
+重硫铋铜铅矿	zhong liu bi tong qian kuang	1
+中南矿冶学院	zhong nan kuang ye xue yuan	1
+中兴煤矿公司	zhong xing mei kuang gong si	1
+柱硫铋铜铅矿	zhu liu bi tong qian kuang	1
+柱硫锑铅银矿	zhu liu ti qian yin kuang	1
+竹叶状石灰岩	zhu ye zhuang shi hui yan	1
+住友金属矿山	zhu you jin shu kuang shan	1
+紫金矿业集团	zi jin kuang ye ji tuan	1
+梓门桥石灰岩	zi men qiao shi hui yan	1
+自然地质灾害	zi ran de zhi zai hai	1
+紫色石蕊试液	zi se shi rui shi ye	1
+紫石英号事件	zi shi ying hao shi jian	1
+总平巷矿井口	zong ping hang kuang jing kou	1
+采矿许可证年检	cai kuang xu ke zheng nian jian	1
+层状硅酸盐矿物	ceng zhuang gui suan yan kuang wu	1
+超镁铁质岩分类	chao mei tie zhi yan fen lei	1
+冲回压岩石突出	chong hui ya yan shi tu chu	1
+纯橄无球粒陨石	chun gan wu qiu li yun shi	1
+粗球粒玄武岩的	cu qiu li xuan wu yan de	1
+单层崩落采矿法	dan ceng beng luo cai kuang fa	1
+岛状硅酸盐矿物	dao zhuang gui suan yan kuang wu	1
+地球化学探矿法	di qiu hua xue tan kuang fa	1
+低山沟谷型岩溶	di shan gou gu xing yan rong	1
+地下矿开拓方法	di xia kuang kai tuo fang fa	1
+地质学的类比法	di zhi xue de lei bi fa	1
+电气绿泥石英岩	dian qi lu ni shi ying yan	1
+断块山地型岩溶	duan kuai shan di xing yan rong	1
+断陷盆地型岩溶	duan xian pen di xing yan rong	1
+钒钛磁铁矿矿床	fan tai ci tie kuang kuang chuang	1
+放射性元素矿床	fang she xing yuan su kuang chuang	1
+非金属矿物制品	fei jin shu kuang wu zhi pin	1
+分层崩落采矿法	fen ceng beng luo cai kuang fa	1
+分段崩落采矿法	fen duan beng luo cai kuang fa	1
+分段矿房采矿法	fen duan kuang fang cai kuang fa	1
+峰丛谷地型岩溶	feng cong gu di xing yan rong	1
+峰丛洼地型岩溶	feng cong wa di xing yan rong	1
+风化壳型铝土矿	feng hua ke xing lu tu kuang	1
+峰林谷地型岩溶	feng lin gu di xing yan rong	1
+峰林平原型岩溶	feng lin ping yuan xing yan rong	1
+富钙无球粒陨石	fu gai wu qiu li yun shi	1
+富含多种矿物质	fu han duo zhong kuang wu zhi	1
+橄辉无球粒陨石	gan hui wu qiu li yun shi	1
+更长环斑花岗岩	geng chang huan ban hua gang yan	1
+工业矿物和岩石	gong ye kuang wu he yan shi	1
+孤峰波地型岩溶	gu feng bo di xing yan rong	1
+古铜钙无粒陨石	gu tong gai wu li yun shi	1
+广泛应用于矿山	guang fan ying yong yu kuang shan	1
+航空地质甸方法	hang kong di zhi dian fang fa	1
+花岗岩化成矿说	hua gang yan hua cheng kuang shuo	1
+环状硅酸盐矿物	huan zhuang gui suan yan kuang wu	1
+架状硅酸盐矿物	jia zhuang gui suan yan kuang wu	1
+金属非金属矿山	jin shu fei jin shu kuang shan	1
+金属互化物矿物	jin shu hu hua wu kuang wu	1
+绝对瓦斯涌出量	jue dui wa si yong chu liang	1
+矿井进风流净化	kuang jing jin feng liu jing hua	1
+矿井提升防坠器	kuang jing ti sheng fang zhui qi	1
+矿井通风静压头	kuang jing tong feng jing ya tou	1
+矿坑涌水量预测	kuang keng yong shui liang yu ce	1
+链状硅酸盐矿物	lian zhuang gui suan yan kuang wu	1
+露天矿采剥方法	lu tian kuang cai bo fang fa	1
+美国页岩油产量	mei guo ye yan you chan liang	1
+贫钙无球粒陨石	pin gai wu qiu li yun shi	1
+群状硅酸盐矿物	qun zhuang gui suan yan kuang wu	1
+热带季风型岩溶	re dai ji feng xing yan rong	1
+钛辉无球粒陨石	tai hui wu qiu li yun shi	1
+顽火无球粒陨石	wan huo wu qiu li yun shi	1
+五元素建造矿床	wu yuan su jian zao kuang chuang	1
+矽卡岩型铜矿床	xi ka yan xing tong kuang chuang	1
+新疆煤田地质局	xin jiang mei tian di zhi ju	1
+氧矾多矾酸盐矿	yang fan duo fan suan yan kuang	1
+原始无球粒陨石	yuan shi wu qiu li yun shi	1
+正长球粒霞霓岩	zheng zhang qiu li xia ni yan	1
+紫苏斜长花岗岩	zi su xie chang hua gang yan	1
+自碎火成角砾岩	zi sui huo cheng jiao li yan	1
+爆破地面大块岩石	bao po di mian da kuai yan shi	1
+爆破角砾岩型铀矿	bao po jiao li yan xing you kuang	1
+北极地质研究所岩	bei ji di zhi yan jiu suo yan	1
+非铀矿山排氡通风	fei you kuang shan pai dong tong feng	1
+硅质页岩及石煤层	gui zhi ye yan ji shi mei ceng	1
+含煤岩系成因类型	han mei yan xi cheng yin lei xing	1
+含煤岩系旋回结构	han mei yan xi xuan hui jie gou	1
+航空地质调查方法	hang kong di zhi diao cha fang fa	1
+环境水文地质调查	huan jing shui wen di zhi diao cha	1
+火山深成联合岩群	huo shan shen cheng lian he yan qun	1
+近海煤型含煤岩系	jin hai mei xing han mei yan xi	1
+矿井通风速度压头	kuang jing tong feng su du ya tou	1
+矿区水文地质条件	kuang qu shui wen di zhi tiao jian	1
+六苴含铜砂岩矿床	liu ju han tong sha yan kuang chuang	1
+普氏岩石强度指数	pu shi yan shi qiang du zhi shu	1
+强斯型圆锥洗煤机	qiang si xing yuan zhui xi mei ji	1
+生物球粒亮晶灰岩	sheng wu qiu li liang jing hui yan	1
+生物球粒泥晶灰岩	sheng wu qiu li ni jing hui yan	1
+岩石动态弹性模量	yan shi dong tai tan xing mo liang	1
+岩石孔隙压缩系数	yan shi kong xi ya suo xi shu	1
+岩石破碎比能学说	yan shi po sui bi neng xue shuo	1
+地质资源与地质工程	di zhi zi yuan yu di zhi gong cheng	1

@@ -1,0 +1,292 @@
+# Rime 五笔输入法配置
+# 基于86五笔，支持简繁切换、拼音反查、英文分词等功能
+
+schema:
+  schema_id: wubi
+  name: "五笔"
+  version: "2026-01-13"
+  author: Alamo
+  description: |
+    基于86五笔编码，部分码位进行调整
+    支持简繁切换、英文分词、拼音反查、日期快捷输入
+  dependencies:
+    - English        # 英文输入依赖
+
+# ------- 输入法开关配置 -------
+switches:
+  - name: ascii_mode           # 中英文切换
+    states: [ 中, Ａ ]
+    reset: 1                   # 默认英文模式
+  - name: ascii_punct          # 中英标点切换
+    states: [ 。, .  ]
+    reset: 0                   # 默认中文标点
+  - name: traditionalize       # 简繁转换
+    states: [ 简, 繁 ]
+    reset: 0                   # 默认简体
+  - name: emoji                # Emoji开关
+    states: [ 💀, 😄 ]
+    reset: 1                   # 默认开启
+  - name: full_shape           # 全角/半角切换
+    states: [ 半, 全 ]
+    reset: 0                   # 默认半角
+
+# ------- 引擎配置 -------
+engine:
+  processors:                  # 处理器链
+    - ascii_composer           # 中英文切换处理
+    - recognizer               # 模式识别（网址、日期等）
+    - key_binder               # 按键绑定
+    - speller                  # 拼写处理
+    - punctuator               # 标点符号
+    - selector                 # 候选项选择
+    - navigator                # 光标导航
+    - express_editor           # 快速编辑
+  segmentors:                  # 文本分段器
+    - ascii_segmentor          # 西文段落
+    - matcher                  # 模式匹配
+    - abc_segmentor            # 文字段落
+    - punct_segmentor          # 标点段落
+    - fallback_segmentor       # 后备段落
+  translators:                 # 翻译器
+    - punct_translator         # 标点翻译
+    - reverse_lookup_translator # 拼音反查
+    - table_translator         # 主码表翻译
+    - lua_translator@*date_translator      # 日期时间
+    - lua_translator@*number_translato  r  # 大写数字
+    - history_translator@repeat_last_input # 重复上次输入
+    - table_translator@custom_phrase
+    - table_translator@English             # 英文输入
+  filters:                     # 过滤器
+    - simplifier@tradition     # 简繁转换
+    - simplifier@emoji         # Emoji转换
+    - lua_filter@*reduce_english_filter  # 英文降频
+    - lua_filter@*en_spacer             # 英文自动空格
+    - lua_filter@*long_word_filter      # 长词优先
+    - lua_filter@*reduce_emoji_filter   #  Emoji降频
+
+# ------- 拼写器配置 -------
+speller:
+  auto_select: true            # 编码补全时自动上屏
+  delimiter: "`"               # 音节分隔符
+  alphabet: "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/"  # 允许的字符集
+  auto_clear: max_length       # 空码时自动清屏
+  algebra:                     # 万能Z键规则
+    - derive/^(...).$/$1z/     # 四码时末位用Z替代
+    - derive/^(..).(.*)$/$1z$2/ # 三码时第三位用Z替代
+    - derive/^(.).(.*)$/$1z$2/  # 二码时第二位用Z替代
+
+# ------- 翻译器配置 -------
+translator:
+  dictionary: wubi             # 主词库文件
+  db_class: tabledb            # 词库类型：文本数据库
+  initial_quality: 1.0         # 初始权重
+  enable_charset_filter: false # 禁用字符集过滤
+  enable_sentence: true        # 启用智能组句
+  enable_encoder: false        # 禁用自动造词
+  encode_commit_history: false # 禁用历史记录造词
+  max_phrase_length: 7         # 最大自动成词长度
+  enable_completion: true      # 启用编码补全
+  enable_user_dict: true       # 启用用户词典
+  user_dict: wubi_user         # 用户词典名称
+  disable_user_dict_for_patterns:  # 禁止录入用户词典的编码模式
+    - "^z.*$"                  # Z开头的编码（特殊功能）
+    - "^[a-y]{1,3}$"           # 一、二、三简码不调频
+  auto_select_pattern: "^[a-z]{4,}$"  # 四码及以上自动上屏
+
+# ------- Lua 日期时间转换配置 -------
+date_translator:
+  date: rq       # 日期：2022-11-29
+  time: sj       # 时间：18:13
+  week: xq       # 星期：星期二
+  datetime: dt   # ISO 8601：2022-11-29T18:13:11+08:00
+  timestamp: ts  # 时间戳：1669716794
+
+# ------- 英文输入配置 -------
+English:
+  dictionary: English          # 英文词库
+  enable_sentence: false       # 禁用英文造句
+  enable_user_dict: false      # 禁用英文用户词典
+  initial_quality: 0.8         # 权重低于五笔
+  comment_format:              # 清除英文提示码
+    - xform/.*//
+
+# ------- 英文单词降频配置 -------
+reduce_english_filter:
+  mode: custom                 # 自定义模式
+  idx: 2                       # 降低到第二位
+  words: [aid, ann, bail, bait, bam, band, bans, bat, bay, bend, bent, benz, bib, bid, bien, biz, boc, bop, bos, bud, buf, cab, cad, cain, cam, cans, cap, cas, cef, chad, chan, chap, chef, cher, chew, chic, chin, chip, chit, coup, cum, cunt, cur, dab, dag, dal, dam, dent, dew, dial, diet, dim, din, dip, dis, dit, doug, dub, dug, dunn, fab, fax, fob, fog, foul, fur, gag, gail, gain, gal, gam, gaol, ged, gel, ger, guam, gus, gut, hail, ham, hank, hans, hat, hay, heil, heir, hem, hep, hud, hum, hung, hunk, hut, jim, jug, kat, lab, lad, lag, laid, lam, laos, lap, lat, lax, lay, led, leg, lex, liam, lib, lid, lied, lien, lies, linn, lip, lit, liz, lob, lug, lund, lung, lux, mag, maid, mann, mar, mat, med, mel, mend, mens, ment, mil, mins, mint, mob, moc, mod, mop, mos, mot, mud, mug, mum, nail, nap, nat, nay, neil, nib, nip, noun, nous, nun, nut, pac, paid, pail, pain, pair, pak, pal, pam, pans, pant, pap, par, pat, paw, pax, pens, pic, pier, pies, pins, pint, pit, pix, pod, pop, pos, pot, pour, pow, pub, rand, rant, rent, rep, res, ret, rex, rib, rid, rig, rim, rub, rug, rum, runs, sac, sail, sal, sam, sans, sap, saw, sax, sew, sham, shaw, shin, sig, sin, sip, sis, suit, sung, suns, sup, sur, sus, tad, tail, taj, tar, tax, tec, ted, tel, ter, tex, tic, tied, tier, ties, tim, tin, tit, tour, tout, tum, wag, wand, wap, wax, weir, won, yan, yen, zach]
+
+#  ------- Emoji -------
+emoji:
+  opencc_config: emoji.json  # Emoji
+  option_name: emoji         # 对应开关名称
+  inherit_comment: false     # 在 corrector.lua 及反查中，emoji 的 comment 显示为空
+
+#  ------- Emoji 降频过滤器配置 -------
+reduce_emoji_filter:
+  mode: all   # 模式：all（所有默认列表中的Emoji）, custom（自定义）, none（禁用）
+  idx: 3      # 降低到第3个位置（根据需求调整）
+
+#  ------- 自定义短语：custom_phrase.txt -------
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase  # 可以修改这里，改成自己的 txt 文件
+  db_class: stabledb        # 只读数据库，无法动态调频；设为 tabledb 可以动态调频
+  enable_completion: false  # 补全提示
+  enable_sentence: false    # 禁止造句
+  initial_quality: 2        # custom_phrase 的权重应该比 pinyin 和 melt_eng 大
+
+# ------- 简繁转换配置 -------
+tradition:
+  opencc_config: s2hk.json     # 简体转香港繁体
+  option_name: traditionalize  # 对应开关名称
+
+# ------- 拼音反查配置 -------
+reverse_lookup:
+  dictionary: pinyin_simp     # 反查使用的拼音词库
+  prefix: "/"                 # 反查前缀
+  suffix: "'"                 # 反查后缀
+  tips: [拼音]                # 提示文本
+  preedit_format:             # 拼音格式转换
+    - xform/([nl])v/$1ü/      # nv → nü, lv → lü
+    - xform/([nl])ue/$1üe/    # nue → nüe, lue → lüe
+    - xform/([jqxy])v/$1u/    # jv → ju, qv → qu, xv → xu, yv → yu
+
+# ------- 标点符号配置 -------
+punctuator:
+  full_shape:
+    ' ' : { commit: '　' }
+    ',' : { commit: '，' }
+    '.' : { commit: '。' }
+    '<' : [ '《', '〈', '«', '‹' ]
+    '>' : [ '》', '〉', '»', '›' ]
+    '/' : [ '／', '÷' ]
+    '?' : { commit: '？' }
+    ';' : { commit: '；' }
+    ':' : { commit: '：' }
+    '''' : { pair: [ '‘', '』' ] }
+    '"' : { pair: [ '"', '"·' ] }
+    '\' : [ '、', '＼' ]
+    '|' : [ '·', '｜', '§', '¦' ]
+    '`' : '｀'
+    '~' : '～'
+    '!' : { commit: '！' }
+    '@' : [ '＠', '☯' ]
+    '#' : [ '＃', '⌘' ]
+    '%' : [ '％', '°', '℃' ]
+    '$' : [ '￥', '$', '€', '£', '¥', '¢', '¤' ]
+    '^' : { commit: '……' }
+    '&' : '＆'
+    '*' : [ '＊', '·', '・', '×', '※', '❂' ]
+    '(' : '（'
+    ')' : '）'
+    '-' : '－'
+    '_' : '——'
+    '+' : '＋'
+    '=' : '＝'
+    '[' : [ '「', '【', '〔', '［' ]
+    ']' : [ '」', '【', '〕', '］' ]
+    '{' : [ '『', '〖', '｛' ]
+    '}' : [ '』', '〗', '｝' ]
+  half_shape:
+    ',' : { commit: '，' }
+    '.' : { commit: '。' }
+    '<' : [ '《', '〈', '«', '‹' ]
+    '>' : [ '》', '〉', '»', '›' ]
+    '/' : [ '、', '/', '／', '÷' ]
+    '?' : { commit: '？' }
+    ';' : { commit: '；' }
+    ':' : { commit: '：' }
+    '''' : { pair: [ '‘', '』' ] }
+    '"' : { pair: [ '"', '"·' ] }
+    '\' : [ '、', '\', '＼' ]
+    '|' : [ '·', '|', '｜', '§', '¦' ]
+    '`' : '`'
+    '~' : [ '~', '～' ]
+    '!' : { commit: '！' }
+    '@' : '@'
+    '#' : '#'
+    '%' : [ '%', '％', '°', '℃' ]
+    '$' : [ '￥', '$', '€', '£', '¥', '¢', '¤' ]
+    '^' : { commit: '……' }
+    '&' : '&'
+    '*' : [ '*', '＊', '·', '・', '×', '※', '❂' ]
+    '(' : '（'
+    ')' : '）'
+    '-' : '-'
+    '_' : '——'
+    '+' : '+'
+    '=' : '='
+    '[' : [ '「', '【', '〔', '［' ]
+    ']' : [ '」', '【', '〕', '］' ]
+    '{' : [ '『', '〖', '｛' ]
+    '}' : [ '』', '〖', '｝' ]
+  ascii_style:
+    ',' : { commit: ',' }
+    '.' : { commit: '.' }
+    '<' : '<'
+    '>' : '>'
+    '/' : '/'
+    '?' : { commit: '?' }
+    ';' : { commit: ';' }
+    ':' : { commit: ':' }
+    "'" : "'"
+    '"' : '"'
+    '\' : '\'
+    '|' : '|'
+    '`' : '`'
+    '~' : '~'
+    '!' : { commit: '!' }
+    '@' : '@'
+    '#' : '#'
+    '%' : '%'
+    '$' : '$'
+    '^' : '^'
+    '&' : '&'
+    '*' : '*'
+    '(' : '('
+    ')' : ')'
+    '-' : '-'
+    '_' : '_'
+    '+' : '+'
+    '=' : '='
+    '[' : '['
+    ']' : ']'
+    '{' : '{'
+    '}' : '}'
+
+# ------- 按键绑定配置 -------
+key_binder:
+  import_preset: default       # 导入默认按键绑定
+  bindings:
+    - {accept: semicolon, send: 2, when: has_menu}       # ; 选择第二项
+    - {accept: apostrophe, send: 3, when: has_menu}      # ' 选择第三项
+    - {accept: Return, send: Shift+Enter, when: composing} # 回车换行
+    - {when: has_menu, accept: Tab, send: Page_Down}     # Tab 向下翻页
+    - {when: has_menu, accept: Shift+Tab, send: Page_Up} # Shift+Tab 向上翻页
+    - {when: always, accept: Control+Shift+3, toggle: ascii_punct}  # 切换标点
+    - {when: always, accept: Control+semicolon, toggle: ascii_punct}
+    - {when: always, accept: Control+Shift+4, toggle: traditionalize} # 简繁切换
+
+# ------- 模式识别配置 -------
+recognizer:
+  import_preset: default           # 导入默认模式识别
+  patterns:
+    reverse_lookup: "^/[a-z]*'?$"  # 拼音反查模式
+    date: "^rq$"                   # 日期模式
+    time: "^sj$"                   # 时间模式
+    week: "^xq$"                   # 星期模式
+    datetime: "^dt$"               # 完整时间模式
+    timestamp: "^ts$"              # 时间戳模式
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"  # URL模式
+
+# ------- 重复输入配置 -------
+repeat_last_input:
+  input: z            # 输入 z 重复上次上屏内容
+  size: 1             # 重复数量为1
+  initial_quality: 5  # 较高优先级
+
+# ------- 菜单显示配置 -------
+menu:
+  page_size: 7    # 每页显示5个候选项
+  alternative_select_labels: [ '¹', '²', '³', '⁴', '⁵' , '⁶' , '⁷' ]  # 备选标签（上标数字）

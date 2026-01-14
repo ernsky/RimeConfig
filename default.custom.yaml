@@ -1,0 +1,30 @@
+# Rime settings
+# encoding: utf-8
+
+config_version: '2026-01-13'
+
+patch:
+  # 输入方案列表
+  schema_list:
+    - schema: wubi
+    - schema: pinyin_simp
+
+  # 输入方案切换器设置
+  switcher:
+    caption: "【 输入法设置 】"
+    hotkeys:
+      - Control+0
+    option_list_separator: "｜"
+    save_options:
+      - ascii_mode        # 中英文切换状态
+      - ascii_punct       # 中英标点状态
+      - traditionalize    # 简繁切换状态（修正拼写）
+      - emoji             # Emoji开关
+      - full_shape        # 全半角状态
+    fold_options: true
+    abbreviate_options: true
+
+  # 菜单显示改进
+  menu:
+    page_size: 7
+    alternative_select_labels: [ '¹', '²', '³', '⁴', '⁵' , '⁶' , '⁷' ]

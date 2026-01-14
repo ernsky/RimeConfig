@@ -1,0 +1,277 @@
+# rime dictionary
+# encoding	utf
+#https://github.com/amzxyz/RIME-LMDG
+# ------数学词库-------
+---
+name: shuxue
+version: "LTS"
+sort: by_weight
+...
+代数	dai shu	591
+方程	fang cheng	667
+把方程	ba fang cheng	116
+波方程	bo fang cheng	112
+场方程	chang fang cheng	192
+代数吧	dai shu ba	161
+代数簇	dai shu cu	164
+代数的	dai shu de	244
+代数格	dai shu ge	71
+代数根	dai shu gen	104
+代数和	dai shu he	220
+代数化	dai shu hua	117
+代数集	dai shu ji	84
+代数量	dai shu liang	123
+代数码	dai shu ma	73
+代数群	dai shu qun	136
+代数式	dai shu shi	190
+代数数	dai shu shu	218
+代数学	dai shu xue	191
+代数元	dai shu yuan	73
+法方程	fa fang cheng	85
+泛代数	fan dai shu	128
+方程吧	fang cheng ba	162
+方程解	fang cheng jie	184
+方程式	fang cheng shi	368
+方程时	fang cheng shi	270
+方程中	fang cheng zhong	218
+方程组	fang cheng zu	272
+该方程	gai fang cheng	486
+将方程	jiang fang cheng	364
+解方程	jie fang cheng	225
+矩估计	ju gu ji	112
+李代数	li dai shu	820
+列方程	lie fang cheng	205
+群代数	qun dai shu	102
+商代数	shang dai shu	76
+外代数	wai dai shu	132
+新方程	xin fang cheng	104
+余代数	yu dai shu	89
+圆方程	yuan fang cheng	114
+子代数	zi dai shu	150
+安培方程	an pei fang cheng	1
+半单代数	ban dan dai shu	1
+半群代数	ban qun dai shu	1
+包络代数	bao luo dai shu	19
+本构方程	ben gou fang cheng	2
+变换方程	bian huan fang cheng	1
+标准方程	biao zhun fang cheng	7
+病态方程	bing tai fang cheng	1
+波动方程	bo dong fang cheng	29
+泊松方程	bo song fang cheng	6
+不定方程	bu ding fang cheng	37
+布尔代数	bu er dai shu	30
+参数方程	can shu fang cheng	8
+差分方程	cha fen fang cheng	13
+超越方程	chao yue fang cheng	2
+抽象代数	chou xiang dai shu	84
+传递方程	chuan di fang cheng	1
+代入方程	dai ru fang cheng	29
+代数闭链	dai shu bi lian	10
+代数闭域	dai shu bi yu	31
+代数重数	dai shu chong shu	22
+代数的谱	dai shu de pu	7
+代数定理	dai shu ding li	5
+代数方程	dai shu fang cheng	18
+代数分式	dai shu fen shi	15
+代数几何	dai shu ji he	48
+代数结构	dai shu jie gou	54
+代数数域	dai shu shu yu	30
+代数同态	dai shu tong tai	9
+代数拓扑	dai shu tuo pu	70
+代数形式	dai shu xing shi	6
+代数学家	dai shu xue jia	33
+代数整数	dai shu zheng shu	28
+单李代数	dan li dai shu	10
+导出代数	dao chu dai shu	3
+导出方程	dao chu fang cheng	7
+等价方程	deng jia fang cheng	1
+等温方程	deng wen fang cheng	1
+递归方程	di gui fang cheng	1
+低阶方程	di jie fang cheng	21
+电报方程	dian bao fang cheng	1
+定义方程	ding yi fang cheng	1
+独立方程	du li fang cheng	1
+对数方程	dui shu fang cheng	5
+二次方程	er ci fang cheng	22
+二阶方程	er jie fang cheng	10
+二项方程	er xiang fang cheng	1
+二元方程	er yuan fang cheng	5
+发展方程	fa zhan fang cheng	1
+泛代数簇	fan dai shu cu	16
+反应方程	fan ying fang cheng	6
+方程的根	fang cheng de gen	36
+方程的解	fang cheng de jie	42
+方程科技	fang cheng ke ji	1
+方程求解	fang cheng qiu jie	15
+方程赛车	fang cheng sai che	1
+方程是我	fang cheng shi wo	5
+方程已知	fang cheng yi zhi	5
+仿射代数	fang she dai shu	15
+分次代数	fen ci dai shu	24
+分式方程	fen shi fang cheng	32
+分数方程	fen shu fang cheng	1
+赋范代数	fu fan dai shu	19
+福克方程	fu ke fang cheng	7
+刚度方程	gang du fang cheng	11
+高次方程	gao ci fang cheng	30
+高等代数	gao deng dai shu	16
+高登方程	gao deng fang cheng	4
+高阶方程	gao jie fang cheng	11
+高斯方程	gao si fang cheng	1
+戈登方程	ge deng fang cheng	7
+功率方程	gong lu fang cheng	11
+公式方程	gong shi fang cheng	8
+共线方程	gong xian fang cheng	7
+古代数学	gu dai shu xue	5
+古代数字	gu dai shu zi	6
+观测方程	guan ce fang cheng	8
+光栅方程	guang shan fang cheng	1
+轨迹方程	gui ji fang cheng	24
+海廷代数	hai ting dai shu	28
+函数方程	han shu fang cheng	9
+化学方程	hua xue fang cheng	5
+还原方程	huan yuan fang cheng	1
+回归方程	hui gui fang cheng	22
+基本方程	ji ben fang cheng	8
+积分方程	ji fen fang cheng	7
+嘉当方程	jia dang fang cheng	5
+简化方程	jian hua fang cheng	1
+剪力方程	jian li fang cheng	11
+简易方程	jian yi fang cheng	25
+交换代数	jiao huan dai shu	51
+解方程组	jie fang cheng zu	37
+结构方程	jie gou fang cheng	2
+紧复流形	jin fu liu xing	34
+近世代数	jin shi dai shu	13
+经验方程	jing yan fang cheng	1
+久期方程	jiu qi fang cheng	14
+矩阵方程	ju zhen fang cheng	3
+决定方程	jue ding fang cheng	1
+绝热方程	jue re fang cheng	1
+可除代数	ke chu dai shu	14
+扩散方程	kuo san fang cheng	6
+拉比方程	la bi fang cheng	4
+雷达方程	lei da fang cheng	1
+雷诺方程	lei nuo fang cheng	1
+黎曼方程	li man fang cheng	1
+李双代数	li shuang dai shu	12
+联立方程	lian li fang cheng	30
+连续方程	lian xu fang cheng	1
+六次方程	liu ci fang cheng	1
+伦敦方程	lun dun fang cheng	2
+能量方程	neng liang fang cheng	2
+牛顿方程	niu dun fang cheng	7
+欧拉方程	ou la fang cheng	15
+派克方程	pai ke fang cheng	1
+佩尔方程	pei er fang cheng	1
+偏微方程	pian wei fang cheng	11
+频率方程	pin lu fang cheng	11
+平衡方程	ping heng fang cheng	9
+普通方程	pu tong fang cheng	4
+齐次方程	qi ci fang cheng	23
+七次方程	qi ci fang cheng	13
+迁移方程	qian yi fang cheng	1
+切线方程	qie xian fang cheng	16
+曲线方程	qu xian fang cheng	11
+扰动方程	rao dong fang cheng	1
+柔度方程	rou du fang cheng	11
+三次方程	san ci fang cheng	17
+三角方程	san jiao fang cheng	5
+色散方程	se san fang cheng	1
+上方程序	shang fang cheng xu	1
+矢量方程	shi liang fang cheng	7
+守恒方程	shou heng fang cheng	2
+输出方程	shu chu fang cheng	1
+数学方程	shu xue fang cheng	15
+数与代数	shu yu dai shu	22
+输运方程	shu yun fang cheng	17
+数值方程	shu zhi fang cheng	1
+四次方程	si ci fang cheng	7
+速度方程	su du fang cheng	1
+速率方程	su lu fang cheng	2
+算子方程	suan zi fang cheng	1
+弹性方程	tan xing fang cheng	1
+特性方程	te xing fang cheng	1
+特征方程	te zheng fang cheng	9
+条件方程	tiao jian fang cheng	9
+同解方程	tong jie fang cheng	5
+同余方程	tong yu fang cheng	18
+投影方程	tou ying fang cheng	10
+椭圆方程	tuo yuan fang cheng	16
+弯矩方程	wan ju fang cheng	11
+微分方程	wei fen fang cheng	8
+维里方程	wei li fang cheng	7
+位移方程	wei yi fang cheng	9
+稳定方程	wen ding fang cheng	11
+稳态方程	wen tai fang cheng	1
+误差方程	wu cha fang cheng	1
+五次方程	wu ci fang cheng	7
+无理方程	wu li fang cheng	14
+物态方程	wu tai fang cheng	22
+现代数学	xian dai shu xue	61
+线性代数	xian xing dai shu	9
+线性方程	xian xing fang cheng	5
+向量方程	xiang liang fang cheng	1
+虚功方程	xu gong fang cheng	11
+循环方程	xun huan fang cheng	1
+杨氏方程	yang shi fang cheng	10
+一般方程	yi ban fang cheng	6
+一次方程	yi ci fang cheng	4
+一元方程	yi yuan fang cheng	14
+已知方程	yi zhi fang cheng	5
+有理方程	you li fang cheng	7
+圆的方程	yuan de fang cheng	38
+约当代数	yue dang dai shu	3
+约化代数	yue hua dai shu	11
+约束方程	yue shu fang cheng	5
+运动方程	yun dong fang cheng	30
+运算方程	yun suan fang cheng	1
+张量代数	zhang liang dai shu	28
+振动方程	zhen dong fang cheng	23
+振幅方程	zhen fu fang cheng	11
+正规方程	zheng gui fang cheng	1
+整式方程	zheng shi fang cheng	23
+正则方程	zheng ze fang cheng	5
+质能方程	zhi neng fang cheng	42
+指数方程	zhi shu fang cheng	7
+直线方程	zhi xian fang cheng	54
+转移方程	zhuan yi fang cheng	9
+状态方程	zhuang tai fang cheng	19
+子李代数	zi li dai shu	11
+最简方程	zui jian fang cheng	5
+半单李代数	ban dan li dai shu	1
+抽象代数学	chou xiang dai shu xue	1
+代数表达式	dai shu biao da shi	1
+代数不等式	dai shu bu deng shi	1
+代数方程组	dai shu fang cheng zu	1
+代数封闭域	dai shu feng bi yu	1
+代数几何学	dai shu ji he xue	1
+代数记谱法	dai shu ji pu fa	1
+代数拓扑学	dai shu tuo pu xue	1
+代数余子式	dai shu yu zi shi	1
+代数整数环	dai shu zheng shu huan	1
+代数组合学	dai shu zu he xue	1
+多线性代数	duo xian xing dai shu	1
+非结合代数	fei jie he dai shu	1
+计算机代数	ji suan ji dai shu	1
+诺伊曼代数	nuo yi man dai shu	1
+实代数几何	shi dai shu ji he	1
+线性代数群	xian xing dai shu qun	1
+域上的代数	yu shang de dai shu	1
+边界代数算法	bian jie dai shu suan fa	1
+抽象代数定理	chou xiang dai shu ding li	1
+代数基本定理	dai shu ji ben ding li	1
+代数几何定理	dai shu ji he ding li	1
+代数几何基础	dai shu ji he ji chu	1
+代数几何学家	dai shu ji he xue jia	1
+代数几何原理	dai shu ji he yuan li	1
+顶点算子代数	ding dian suan zi dai shu	1
+多重线性代数	duo chong xian xing dai shu	1
+冯诺依曼代数	feng nuo yi man dai shu	1
+赋范可除代数	fu fan ke chu dai shu	1
+线性代数定理	xian xing dai shu ding li	1
+代数黎卡提方程	dai shu li ka ti fang cheng	1
+代数学基本定理	dai shu xue ji ben ding li	1
+二元素布尔代数	er yuan su bu er dai shu	1
+非交换代数几何	fei jiao huan dai shu ji he	1
+两元素布尔代数	liang yuan su bu er dai shu	1

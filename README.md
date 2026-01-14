@@ -1,0 +1,2 @@
+# RimeConfig
+Rime五笔

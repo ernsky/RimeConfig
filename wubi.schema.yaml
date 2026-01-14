@@ -55,6 +55,7 @@ engine:
     - lua_translator@*number_translato  r  # 大写数字
     - history_translator@repeat_last_input # 重复上次输入
     - table_translator@custom_phrase
+    - table_translator@emoji               # Emoji输入
     - table_translator@English             # 英文输入
   filters:                     # 过滤器
     - simplifier@tradition     # 简繁转换

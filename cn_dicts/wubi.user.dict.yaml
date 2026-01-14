@@ -1,0 +1,1789 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: wubi.user              # 用户词库
+version: "2026-01-12"
+sort: by_weight              # original原始词序，by_weight按自定义自重
+dict_grouped: true           # 词库管理应用识别：标记该码表为分组模式
+columns:                     # 码表格式：定义码表以`Tab`分隔出的各列
+  - text                     # 词组
+  - code                     # 编码
+  - weight                   # 权重
+  - stem                     # 备注
+...
+## F 英-代码
+
+> [!cite] 引用	cite	1	引用
+> [!quote] 引文	quo	1	问题
+> [!example] 示例	exa	1	例子
+> [!bug] bug	bug	1	bug
+> [!error] 错误	err	1	错误
+> [!danger] 危险	dan	1	危险
+> [!missing] 丢失	mis	1	丢失
+> [!fail] 失败	fail	1	失败
+> [!failure] 失败	fai	1	失败
+> [!attention] 注意	att	1	注意
+> [!caution] 警示	cau	1	警示
+> [!warning] 警告	war	1	警告
+> [!faq] 回复	faq	1	问答
+> [!help] 求助	help	1	求助
+> [!question] 疑问	que	1	问题
+> [!done] 已完成	done	1	完成
+> [!check] 检查	che	1	检查
+> [!success] 成功	suc	1	成功
+> [!important] 要点	imp	1	要点
+> [!hint] 信息	hint	1	信息
+> [!tip] 提示	tip	1	提示
+> [!todo] 待办事项	todo	1	待办
+> [!tldr] 信息	tldr	1	信息
+> [!summary] 总结	sum	1	信息
+> [!abstract] 真理	abs	1	信息
+> [!info] 提示信息	info	1	信息
+> [!note] 笔记	note	1	笔记
+::	mwbu	3	内联
+****	qd	1	强调
+- [ ]	td	1	待办
+```	co	1	代码块
+``	dm	1	行内代码
+[]()	lj	1	链接
+![]()	tp	1	图片
+<!--  -->	iyto	1	注释
+[^]:	efiy	3	脚注
+.txt	txt	1
+.md	md	1
+.bat	bat	3
+UTF-8	utf	1
+
+## F 英-混
+
+A栋	asai	5
+A级	axey	1
+A座	ayww	5
+B超	bfhv	1
+阿Q	bsqq	1
+B组	bxeg	1
+C盘	ctel	1
+C组	cxeg	1
+大V	ddv	1
+E盘	etel	1
+老Baby	fbab	1
+小Baby	ibab	5
+IT	it	1
+L码	ldcg	1
+N次	nuqw	1
+牛B	rhkb	1
+UP主	upyg	3
+9°	vtya	3
+元/股	fqem	1
+a+A+b+B+c	aabb	1
+工业4.0	aolk	1
+互联网+	gbml	1
+蓝牙4.0	aalk	3
+奇虎360	dhdk	1
+枚举+二分	sifw	1
+从0到1	wkgg	1
+B证	bygh	1
+℃	oc	97
+20号胶	ffke	1
+㏙	ppm	20
+G20	gfkw	1
+A面	admj	1
+A股	aemc	1
+A型血	agtl	2
+A4纸	alxq	1
+Android	and	1
+A片	athg	1
+B站	buhk	1
+月K线	ekxg	1
+卡拉OK	hrok	1
+日K线	jkxg	1
+嗑CP	kfcp	1
+K歌	ksks	3
+K线	kxf	1
+周K线	mkxg	1
+㎫	mpa	38
+P图	pltu	1
+立Flag	uflg	1
+U盘	utel	1
+傻B	wtlb	3
+傻X	wtlx	1
+X光	xiq	2
+X染色体	xiqw	1
+X射线	xtxg	1
+吗？	kcw	1
+么？	tc	1
+Y染色体	yiqw	1
+T细胞	txleq	1
+
+## F 英-符号
+
+°	oooo	87	度
+%	djwv	2	百分之…
+％	djwv	2	百分之…
+〇	llll	61	零
+mL	ml	1	毫升
+Ø	fhtc	1
+㎥	mmm	95
+㎩	papa	24
+|	hcxg	1	竖线
+｜	hcxg	1	竖线
+§	abj	9	章节
+¨	hkou	3	点
+±	ghqm	45	正负
+×	tuxv	44	乘
+÷	bwty	43	除
+‖	jcuf	3	竖
+‥	hkou	2	点
+…	hkou	3	点
+‰	twpp	89	千分之
+※	cdft	1	参考
+€	aqfq	3	欧元
+℃	oc	97	摄氏度
+℉	ffll	85	华氏度
+№	noll	8	数号
+℡	tell	121	电话
+→	tuud	148	箭头
+↑	tuud	144	箭头
+←	tuud	145	箭头
+↓	tuud	143	箭头
+↗	tuud	147	箭头
+↘	tuud	146	箭头
+√	gysv	39	平方根
+∝	ghxx	38	正比
+∞	fpdd	37	无穷大
+∥	gutf	34	平行
+∩	uqwy	31	交集
+∪	uawy	30	并集
+∫	tkwv	29	积分
+∮	tkwv	28	积分
+∴	rnny	27	所以
+∵	ldyl	26	因为
+∶	xxn	2	比
+∷	oitk	25	正比
+∽	ssll	24	s
+≈	xtgf	25	约等于
+≌	wtgf	22	全等于
+≒	oitk	21	全等于
+≠	gtgf	20	不等于
+≡	ntgf	19	恒等于
+≤	igtg	18	小于等于
+≥	dgtg	18	大于等于
+≦	oitk	16	小于等于
+≧	oitk	15	大于等于
+≮	oitk	17	不小于
+≯	oitk	18	不大于
+⊕	lkmi	12	圆
+⊙	lkmi	11	圆
+⊥	oitk	10	垂直
+⊿	oitk	9	三角
+⌒	attk	1	弧
+①	glll	51	1
+②	fgll	50	2
+③	dgll	49	3
+④	lhll	48	4
+⑤	ggll	47	5
+⑥	uyll	46	6
+⑦	agll	45	7
+⑧	wtll	44	8
+⑨	vtll	43	9
+⑩	fghl	42	10
+㈠	glll	10	一
+㈡	fgll	9	二
+㈢	dgll	8	三
+㈣	lhll	7	四
+㈤	ggll	7	五
+㈥	uyll	5	六
+㈦	agll	5	七
+㈧	wtll	5	八
+㈨	vtll	5	九
+㈩	fghl	4	十
+⑴	glll	4	1
+⑵	fgll	4	2
+⑶	dgll	4	3
+⑷	lhll	5	4
+⑸	ggll	6	5
+⑹	uyll	4	6
+⑺	agll	4	7
+⑻	wtll	4	8
+⑼	vtll	4	9
+⑽	fghl	3	10
+⑾	fggg	5	11
+⑿	fgfg	5	12
+⒀	fgdg	2	13
+⒁	fglh	2	14
+⒂	fggg	4	15
+⒃	fguy	2	16
+⒄	fgag	2	17
+⒅	fgwt	2	18
+⒆	fgvt	2	19
+⒇	fgfg	6	20
+⒈	glll	20	1
+⒉	fgll	19	2
+⒊	dgll	18	3
+⒋	lhll	17	4
+⒌	ggll	16	5
+⒍	uyll	15	6
+⒎	agll	14	7
+⒏	wtll	13	8
+⒐	vtll	12	9
+⒑	fghl	11	10
+⒒	fggg	10	11
+⒓	fgfg	9	12
+⒔	fgdg	8	13
+⒕	fglh	7	14
+⒖	fggg	6	15
+⒗	fguy	5	16
+⒘	fgag	4	17
+⒙	fgwt	3	18
+⒚	fgvt	4	19
+⒛	fgfg	2	20
+Ⅰ	glll	12	一
+Ⅱ	fgll	11	二
+Ⅲ	dgll	10	三
+Ⅳ	lhll	9	四
+Ⅴ	ggll	8	五
+Ⅵ	uyll	7	六
+Ⅶ	agll	6	七
+Ⅷ	wtll	7	八
+Ⅸ	vtll	6	九
+Ⅹ	fghl	5	十
+Ⅺ	fggg	2	十一
+Ⅻ	fgfg	5	十二
+■	mwlg	192	三角
+▲	mwlg	156	三角
+△	mwlg	154	三角
+▼	mwlg	136	三角
+▽	mwlg	134	三角
+◆	mwlg	116	菱形
+◇	mwlg	114	菱形
+○	llll	106	圆
+◎	mwlg	100	圆
+●	mwlg	98	圆
+◢	dgqe	60	三角
+◣	dgqe	58	三角
+◤	dgqe	56	三角
+◥	dgqe	54	三角
+★	gqjt	2	星号
+☆	gqjt	3	星号
+☉	votk	120	男女
+♀	votk	119	男女
+♂	votk	118	男女
+、	gbkg	58	顿号
+。	qkkg	56	句号
+〃	mghh	55	同上
+々	qyi	48	重复
+〈	nqkg	47	书名号
+〉	nqkg	46	书名号
+》	nqkg	45	书名号
+¤	nqkg	45	书名号
+【	rtkg	44	括号
+】	rtkg	43	括号
+〖	rtkg	42	括号
+〗	rtkg	41	括号
+㈱	sriy	19	株
+㊣	ghd	18	带圈汉字
+㎎	mg	43	单位
+㎏	kg	63	单位
+㎜	mm	94	单位
+㎝	cm	79	单位
+㎞	km	59	单位
+㎡	mmmm	96	单位
+㏄	cccc	81	单位
+㏑	lnln	8	单位
+㏒	log	7	单位
+㏕	mil	41	单位
+︻	rtkg	2	括号
+︼	rtkg	5	括号
+﹩	ugfq	2	美元
+﹪	djwv	1	百分之…
+﹫	atll	3	at
+！	kckg	1	叹号
+＂	xhkg	2	引号
+＃	fjkg	7	井号
+＄	ugfq	3	美元
+＆	andl	6	and
+＇	xhkg	1	引号
+＊	jtkg	1	星号
+＋	lkg	6	加
+，	gkkg	1	逗号
+－	udgt	5	减
+．	qkkg	40	句号
+／	wtxg	3	斜线
+:	jk	1	冒号
+；	wvkg	3	分号
+＜	ihgf	4	小于
+＝	tfgf	3	等于
+＞	ddgf	2	大于
+？	ukkg	39	问号
+＼	rwsa	4	反斜杠
+＾	uytw	3	补注
+＿	gaxg	38	横
+｀	tutw	1	重音符
+～	iixg	5	波浪线
+￠	aqfq	1	分
+《	aqfq	1	分
+￡	amqu	3	镑
+￥	fqb	1	元
+㏁	mo	32
+㎸	kv	53
+㎾	kw	52
+Ω	aqvx	1
+㎂	ua	8
+
+## X 标点
+
+「	zzbd	3
+」	zzbd	2
+『	zzbd	3
+』	zzbd	4
+〖	rtkg	42	括号
+〗	rtkg	41	括号
+《	aqfq	1	分
+》	nqkg	45	书名号
+〈	nqkg	47	书名号
+〉	nqkg	46	书名号
+〔	zzbd	20
+〕	zzbd	21
+【	rtkg	44	括号
+】	rtkg	43	括号
+≮	oitk	17	不小于
+≯	oitk	18	不大于
+≤	igtg	18	小于等于
+≥	dgtg	18	大于等于
+、	gbkg	58	顿号
+。	qkkg	56	句号
+「	zzbd	3
+」	zzbd	2
+『	zzbd	3
+』	zzbd	4
+【	rtkg	44	括号
+】	rtkg	43	括号
+〈	nqkg	47	书名号
+〉	nqkg	46	书名号
+《	aqfq	1	分
+》	nqkg	45	书名号
+₋	zzbd	5
+⁻	zzbd	6
+―	zzbd	7
+˗	zzbd	8
+ˉ	zzbd	9
+＿	gaxg	38	横
+﹍	zzbd	10
+﹎	zzbd	11
+．	qkkg	40	句号
+¡	zzbd	12
+‼	zzbd	33	双感叹号
+⁉	zzbd	34	感叹号问号
+¿	zzbd	13
+？	ukkg	39	问号
+⁈	zzbd	14
+⁇	zzbd	15
+､	gbkg	58	顿号
+｡	qkkg	56	句号
+〃	mghh	55	同上
+〄	zzbd	16
+々	qyi	48	重复
+〆	zzbd	17
+〇	llll	61	零
+〒	zzbd	18
+〓	zzbd	19
+〔	zzbd	20
+〕	zzbd	21
+〖	rtkg	42	括号
+〗	rtkg	41	括号
+〘	zzbd	22
+〙	zzbd	23
+〚	zzbd	24
+〛	zzbd	25
+〜	zzbd	26
+〝	zzbd	27
+〞	zzbd	28
+〟	zzbd	29
+〠	zzbd	30
+〰	zzbd	60	波浪线
+〱	qyi	48	重复
+〲	qyi	48	重复
+〳	qyi	48	重复
+〴	qyi	48	重复
+〵	qyi	48	重复
+〶	zzbd	31
+〷	zzbd	32
+〻	qyi	48	重复
+〼	zzbd	36	歌记号
+〽	zzbd	36	歌记号
+©	zzfh	155	版权
+®	zzfh	165	注册
+℗	zzfh	116
+℠	zzfh	115
+™	zzfh	150	商标
+☐	zzfh	114
+☑	zzfh	157	按钮
+☒	zzfh	113
+☓	zzfh	112
+℡	tell	121	电话
+℻	zzfh	111
+☇	zzfh	110
+☈	zzfh	109
+☉	votk	120	男女
+☊	zzfh	108
+☋	zzfh	107
+☌	zzfh	106
+☍	zzfh	105
+☎	zzfh	172	电话
+☏	zzfh	104
+♂	votk	118	男女
+♀	votk	119	男女
+⚢	zzfh	103
+⚣	zzfh	102
+⚤	zzfh	101
+⚥	zzfh	100
+⚦	zzfh	99
+⚧	zzfh	141	变性
+⚨	zzfh	98
+⚩	zzfh	97
+⚪	zzfh	159	白色
+⚫	zzfh	163	黑色
+⚬	zzfh	96
+⚭	zzfh	95
+⚮	zzfh	94
+⚯	zzfh	93
+☕	zzfh	161	咖啡
+☖	zzfh	92
+☗	zzfh	91
+⛉	zzfh	90
+⛊	zzfh	89
+☘	zzfh	131	三叶草
+☙	zzfh	88
+☚	zzfh	87
+☛	zzfh	86
+☜	zzfh	85
+☝	zzfh	174	一个
+☞	zzfh	84
+☟	zzfh	83
+☠	zzfh	170	死亡
+☡	zzfh	82
+☢	zzfh	146	核辐射
+☣	zzfh	137	生化危机
+☤	zzfh	81
+☥	zzfh	80
+☦	zzfh	128	东正教
+☧	zzfh	79
+☨	zzfh	78
+☩	zzfh	77
+☪	zzfh	135	星月
+☫	zzfh	76
+☬	zzfh	75
+☭	zzfh	74
+☮	zzfh	160	和平
+☯	zzfh	152	阴阳
+☸	zzfh	1	法轮
+♨	zzfh	164	休息
+♰	zzfh	73
+♱	zzfh	72
+♲	zzfh	71
+♳	zzfh	70
+♴	zzfh	69
+♵	zzfh	68
+♶	zzfh	67
+♷	zzfh	66
+♸	zzfh	65
+♹	zzfh	64
+♺	zzfh	63
+♻	zzfh	162	环保
+♼	zzfh	62
+♽	zzfh	61
+♾	zzfh	60
+♿	zzfh	139	轮椅
+⚆	zzfh	59
+⚇	zzfh	58
+⚈	zzfh	57
+⚉	zzfh	56
+⚐	zzfh	55
+⚑	zzfh	54
+⚒	zzfh	117	锤子与镐
+⚓	zzfh	122	船锚
+⚔	zzfh	169	武器
+⚕	zzfh	124	蛇杖
+⚖	zzfh	148	天平
+⚗	zzfh	123	蒸馏器
+⚘	zzfh	53
+⚙	zzfh	140	齿轮
+⚚	zzfh	52
+⚛	zzfh	142	原子
+⚜	zzfh	133	百合花
+⚝	zzfh	51
+⚞	zzfh	50
+⚟	zzfh	49
+⚠	zzfh	171	注意
+⚡	zzfh	151	闪电
+⚰	zzfh	147	棺材
+⚱	zzfh	127	金塔
+⚲	zzfh	48
+⚳	zzfh	47
+⚴	zzfh	46
+⚵	zzfh	45
+⚶	zzfh	44
+⚷	zzfh	43
+⚸	zzfh	42
+⚹	zzfh	41
+⚺	zzfh	40
+⚻	zzfh	39
+⚼	zzfh	38
+⚽	zzfh	166	足球
+⚾	zzfh	166	足球
+⚿	zzfh	166	足球
+⛀	zzfh	37
+⛁	zzfh	36
+⛂	zzfh	35
+⛃	zzfh	34
+⛋	zzfh	33
+⛌	zzfh	32
+⛍	zzfh	31
+⛎	zzfh	125	蛇夫座
+⛏	zzfh	138	锄头
+⛐	zzfh	30
+⛑	zzfh	130	安全帽
+⛒	zzfh	29
+⛓	zzfh	143	链条
+⛔	zzfh	126	禁止通行
+⛕	zzfh	28
+⛖	zzfh	27
+⛗	zzfh	26
+⛘	zzfh	25
+⛙	zzfh	24
+⛚	zzfh	23
+⛛	zzfh	22
+⛜	zzfh	21
+⛝	zzfh	20
+⛞	zzfh	19
+⛟	zzfh	18
+⛠	zzfh	17
+⛡	zzfh	16
+⛢	zzfh	15
+⛣	zzfh	14
+⛨	zzfh	13
+⛩	zzfh	132	神社
+⛪	zzfh	153	教堂
+⛫	zzfh	12
+⛬	zzfh	11
+⛭	zzfh	10
+⛮	zzfh	9
+⛯	zzfh	8
+⛰	zzfh	149	山顶
+⛱	zzfh	131	遮阳伞
+⛲	zzfh	158	公园
+⛳	zzfh	156	高尔夫
+⛴	zzfh	144	轮渡
+⛵	zzfh	136	帆船
+⛶	zzfh	7
+⛷	zzfh	145	滑雪
+⛸	zzfh	134	溜冰
+⛹	zzfh	6
+⛺	zzfh	154	帐篷
+⛻	zzfh	5
+⛼	zzfh	4
+⛽	zzfh	173	加油
+⛾	zzfh	3
+⛿	zzfh	2
+±	ghqm	45	正负
+÷	bwty	43	除
+×	tuxv	44	乘
+∈	ntgf	42	属于
+∏	oitk	40	求和
+∑	oitk	41	乘积
+－	udgt	5	减
+＋	lkg	6	加
+＜	ihgf	4	小于
+≮	oitk	17	不小于
+＝	tfgf	3	等于
+≠	gtgf	20	不等于
+＞	ddgf	2	大于
+≯	oitk	18	不大于
+∕	zzsx	1
+√	gysv	39	平方根
+∝	ghxx	38	正比
+∞	fpdd	37	无穷大
+∟	qej	36	角
+∠	qej	35	角
+∥	gutf	34	平行
+∧	gngd	33	与
+∨	akgd	32	或
+∩	uqwy	31	交集
+∪	uawy	30	并集
+∫	tkwv	29	积分
+∮	tkwv	28	积分
+∴	rnny	27	所以
+∵	ldyl	26	因为
+∷	oitk	25	正比
+∽	ssll	24	s
+≈	xtgf	25	约等于
+≌	wtgf	22	全等于
+≒	oitk	21	全等于
+≡	ntgf	19	恒等于
+≤	igtg	18	小于等于
+≥	dgtg	18	大于等于
+≦	oitk	16	小于等于
+≧	oitk	15	大于等于
+⊕	lkmi	12	圆
+⊙	lkmi	11	圆
+⊥	oitk	10	垂直
+⊿	oitk	9	三角
+㏑	lnln	8	单位
+㏒	log	7	单位
+→	tuud	148	箭头
+←	tuud	145	箭头
+↑	tuud	144	箭头
+↓	tuud	143	箭头
+↕	zzj	142	上下
+↔	zzj	141	左右
+↖	tuud	140	箭头
+↗	tuud	147	箭头
+↙	tuud	139	箭头
+↘	tuud	146	箭头
+↚	zzj	2
+↛	zzj	3
+↮	zzj	4
+↜	zzj	5
+↝	zzj	6
+↞	zzj	7
+↟	zzj	8
+↠	zzj	9
+↡	zzj	10
+↢	zzj	11
+↣	zzj	12
+↤	zzj	13
+↥	zzj	14
+↦	zzj	15
+↧	zzj	16
+↨	zzj	17
+↩	zzj	138	回车
+↪	zzj	18
+↫	zzj	19
+↬	zzj	20
+↭	zzj	21
+↯	zzj	22
+↰	zzj	23
+↱	zzj	24
+↲	zzj	25
+↳	zzj	26
+↴	zzj	27
+↵	zzj	28
+↶	zzj	29
+↷	zzj	30
+↸	zzj	31
+↹	zzj	32
+↺	zzj	33
+↻	zzj	34
+↼	zzj	35
+↽	zzj	36
+↾	zzj	37
+↿	zzj	38
+⇀	zzj	39
+⇁	zzj	40
+⇂	zzj	41
+⇃	zzj	42
+⇄	zzj	43
+⇅	zzj	44
+⇆	zzj	45
+⇇	zzj	46
+⇈	zzj	47
+⇉	zzj	48
+⇊	zzj	49
+⇋	zzj	50
+⇌	zzj	51
+⇐	zzj	52
+⇍	zzj	53
+⇑	zzj	54
+⇒	zzj	55
+⇏	zzj	56
+⇓	zzj	57
+⇔	zzj	58
+⇎	zzj	59
+⇕	zzj	60
+⇖	zzj	61
+⇗	zzj	62
+⇘	zzj	63
+⇙	zzj	64
+⇚	zzj	65
+⇛	zzj	66
+⇜	zzj	67
+⇝	zzj	68
+⇞	zzj	69
+⇟	zzj	70
+⇠	zzj	71
+⇡	zzj	72
+⇢	zzj	73
+⇣	zzj	74
+⇤	zzj	75
+⇥	zzj	76
+⇦	zzj	77
+⇧	zzj	78
+⇨	zzj	79
+⇩	zzj	80
+⇪	zzj	81
+⇫	zzj	82
+⇬	zzj	83
+⇭	zzj	84
+⇮	zzj	87
+⇯	zzj	86
+⇰	zzj	87
+⇱	zzj	88
+⇲	zzj	89
+⇳	zzj	90
+⇴	zzj	91
+⇵	zzj	92
+⇶	zzj	93
+⇷	zzj	94
+⇸	zzj	95
+⇹	zzj	96
+⇺	zzfh	85
+⇻	zzj	98
+⇼	zzj	99
+⇽	zzj	100
+➔	zzj	101
+➘	zzj	102
+➙	zzj	103
+➚	zzj	104
+➛	zzj	105
+➜	zzj	106
+➝	zzj	107
+➞	zzj	108
+➟	zzj	109
+➠	zzj	110
+➡	zzj	111	右箭头
+➢	zzj	112
+➣	zzj	113
+➤	zzj	114
+➥	zzj	115
+➦	zzj	116
+➧	zzj	117
+➨	zzj	118
+➩	zzj	119
+➪	zzj	120
+➫	zzj	121
+➬	zzj	122
+➭	zzj	123
+➮	zzj	124
+➱	zzj	125
+➲	zzj	126
+➳	zzj	127
+➴	zzj	128
+➵	zzj	129
+➶	zzj	130
+➷	zzj	131
+➸	zzj	132
+➹	zzj	133
+➺	zzj	134
+➻	zzj	135
+➼	zzj	136
+➽	zzj	137
+➾	zzj	1
+①	glll	51	0
+②	fgll	50	0
+③	dgll	49	0
+④	lhll	48	0
+⑤	ggll	47	0
+⑥	uyll	46	0
+⑦	agll	45	0
+⑧	wtll	44	0
+⑨	vtll	43	0
+⑩	fghl	42	0
+⑪	zzsz	10
+⑫	zzsz	9
+⑬	zzsz	8
+⑭	zzsz	7
+⑮	zzsz	6
+⑯	zzsz	5
+⑰	zzsz	4
+⑱	zzsz	3
+⑲	zzsz	2
+⑳	zzsz	3
+㉑	zzy	31
+㉒	zzy	30
+㉓	zzy	29
+㉔	zzy	28
+㉕	zzy	27
+㉖	zzy	26
+㉗	zzy	25
+㉘	zzy	24
+㉙	zzy	23
+㉚	zzy	22
+㉛	zzy	21
+㉜	zzy	20
+㉝	zzy	19
+㉞	zzy	18
+㉟	zzy	17
+㊱	zzy	16
+㊲	zzy	15
+㊳	zzy	14
+㊴	zzy	13
+㊵	zzy	12
+㊶	zzy	11
+㊷	zzy	12
+㊸	zzy	11
+㊹	zzy	10
+㊺	zzy	9
+㊻	zzy	8
+㊼	zzy	7
+㊽	zzy	6
+㊾	zzy	5
+㊿	zzy	4
+⓪	zzsb	1
+❶	glll	51	0
+❷	fgll	50	0
+❸	dgll	49	0
+❹	lhll	48	0
+❺	ggll	47	0
+❻	uyll	46	0
+❼	agll	45	0
+❽	wtll	44	0
+❾	vtll	43	0
+❿	fghl	42	0
+⓿	zzsb	1
+⓫	zzsz	10
+⓬	zzsz	9
+⓭	zzsz	8
+⓮	zzsz	7
+⓯	zzsz	6
+⓰	zzsz	5
+⓱	zzsz	4
+⓲	zzsz	3
+⓳	zzsz	2
+⓴	zzsz	3
+Ⅰ	glll	12	一
+Ⅱ	fgll	11	二
+Ⅲ	dgll	10	三
+Ⅳ	lhll	9	四
+Ⅴ	ggll	8	五
+Ⅵ	uyll	7	六
+Ⅶ	agll	6	七
+Ⅷ	wtll	7	八
+Ⅸ	vtll	6	九
+Ⅹ	fghl	5	十
+Ⅺ	fggg	2	十一
+Ⅻ	fgfg	5	十二
+ⅰ	glll	12	一
+ⅱ	fgll	11	二
+ⅲ	dgll	10	三
+ⅳ	lhll	9	四
+ⅴ	ggll	8	五
+ⅵ	uyll	7	六
+ⅶ	agll	6	七
+ⅷ	wtll	7	八
+ⅸ	vtll	6	九
+ⅹ	fghl	5	十
+⒈	glll	20	0
+⒉	fgll	19	0
+⒊	dgll	18	0
+⒋	lhll	17	0
+⒌	ggll	16	0
+⒍	uyll	15	0
+⒎	agll	14	0
+⒏	wtll	13	0
+⒐	vtll	12	0
+⒑	fghl	11	0
+⒒	fggg	10	0
+⒓	fgfg	9	0
+⒔	fgdg	8	0
+⒕	fglh	7	0
+⒖	fggg	6	0
+⒗	fguy	5	0
+⒘	fgag	4	0
+⒙	fgwt	3	0
+⒚	fgvt	4	0
+⒛	fgfg	2	0
+ⓐ	zzz	26
+ⓑ	zzz	25
+ⓒ	zzz	24
+ⓓ	zzz	23
+ⓔ	zzz	22
+ⓕ	zzz	21
+ⓖ	zzz	20
+ⓗ	zzz	19
+ⓘ	zzz	18
+ⓙ	zzz	17
+ⓚ	zzz	16
+ⓛ	zzz	15
+ⓜ	zzz	14	地铁
+ⓝ	zzz	13
+ⓞ	zzz	12
+ⓟ	zzz	11
+ⓠ	zzz	10
+ⓡ	zzz	9
+ⓢ	zzz	8
+ⓣ	zzz	7
+ⓤ	zzz	6
+ⓥ	zzz	5
+ⓦ	zzz	4
+ⓧ	zzz	3
+ⓨ	zzz	2
+ⓩ	zzz	1
+㈠	glll	10	一
+㈡	fgll	9	二
+㈢	dgll	8	三
+㈣	lhll	7	四
+㈤	ggll	7	五
+㈥	uyll	5	六
+㈦	agll	5	七
+㈧	wtll	5	八
+㈨	vtll	5	九
+㈩	fghl	4	十
+☀	zztq	8	太阳
+☁	zztq	7	天气
+☂	zztq	6	雨伞
+☃	zztq	5
+☼	zztq	4
+♨	zzfh	164	休息
+☄	zztq	2	彗星
+๑	zztq	1
+℃	oc	97	摄氏度
+°	oooo	87	度
+♂	votk	118	男女
+♀	votk	119	男女
+§	abj	9	章节
+№	noll	8	数号
+＃	fjkg	7	井号
+＆	andl	6	and
+＠	zzts	5
+＼	rwsa	4	反斜杠
+＾	uytw	3	补注
+＿	gaxg	38	横
+￣	zzts	1
+α	zzxx	24
+β	zzxx	23
+γ	zzxx	22
+δ	zzxx	21
+ε	zzxx	20
+ζ	zzxx	19
+η	zzxx	18
+θ	zzxx	17
+ι	zzxx	16
+κ	zzxx	15
+λ	zzxx	14
+μ	zzxx	13
+ν	zzxx	12
+ξ	zzxx	11
+ο	zzxx	10
+π	zzxx	9
+ρ	zzxx	8
+σ	zzxx	7
+τ	zzxx	6
+υ	zzxx	5
+φ	zzdw	91
+χ	zzxx	3
+ψ	zzxx	2
+ω	aqvx	1	0
+ㄅ	bbll	37	b
+ㄆ	ppll	36	p
+ㄇ	mmll	35	m
+ㄈ	ffll	34	f
+ㄉ	ddll	33	d
+ㄊ	ttll	32	t
+ㄋ	nnll	31	n
+ㄌ	llll	30	l
+ㄍ	ggll	29	g
+ㄎ	kkll	28	k
+ㄏ	hhll	27	h
+ㄐ	jjll	26	j
+ㄑ	qqll	25	q
+ㄒ	xxll	24	x
+ㄓ	lhll	23	zh
+ㄔ	chll	22	ch
+ㄕ	shll	21	sh
+ㄖ	rrll	20	ri
+ㄗ	llll	21	zi
+ㄘ	clll	18	ci
+ㄙ	slll	17	si
+ㄧ	iill	18	I
+ㄨ	uull	15	u
+ㄩ	iull	14	iu
+ㄚ	aall	13	a
+ㄛ	ooll	12	o
+ㄜ	eell	11	e
+ㄝ	eell	10	eh
+ㄞ	aill	9	ai
+ㄟ	eill	8	ei
+ㄠ	aoll	7	ao
+ㄡ	oull	6	ou
+ㄢ	anll	5	an
+ㄣ	enll	4	en
+ㄤ	angl	3	ang
+ㄥ	engl	2	eng
+ㄦ	erll	1	er
+あ	zzry	46
+い	zzry	45
+う	zzry	44
+え	zzry	43
+お	zzry	42
+か	zzry	41
+き	zzry	40
+く	zzry	39
+け	zzry	38
+こ	zzry	37
+さ	zzry	36
+し	zzry	35
+す	zzry	34
+せ	zzry	33
+そ	zzry	32
+た	zzry	31
+ち	zzry	30
+つ	zzry	29
+て	zzry	28
+と	zzry	27
+な	zzry	26
+に	zzry	25
+ぬ	zzry	24
+ね	zzry	23
+の	zzry	22
+は	zzry	21
+ひ	zzry	20
+ふ	zzry	19
+へ	zzry	18
+ほ	zzry	17
+ま	zzry	16
+み	zzry	15
+む	zzry	14
+め	zzry	13
+も	zzry	12
+や	zzry	11
+ゆ	zzry	10
+よ	zzry	9
+ら	zzry	8
+り	zzry	7
+る	zzry	6
+れ	zzry	5
+ろ	zzry	4
+わ	zzry	3
+を	zzry	2
+ん	zzry	1
+が	zzrz	28
+ぎ	zzrz	27
+ぐ	zzrz	26
+げ	zzrz	25
+ご	zzrz	24
+ざ	zzrz	23
+じ	zzrz	22
+ず	zzrz	21
+ぜ	zzrz	20
+ぞ	zzrz	19
+だ	zzrz	18
+ぢ	zzrz	17
+づ	zzrz	16
+で	zzrz	15
+ど	zzrz	14
+ば	zzrz	13
+び	zzrz	12
+ぶ	zzrz	11
+べ	zzrz	10
+ぼ	zzrz	9
+ぱ	zzrz	8
+ぴ	zzrz	7
+ぷ	zzrz	6
+ぺ	zzrz	5
+ぽ	zzrz	4
+ゃ	zzrz	3
+ゅ	zzrz	2
+ょ	zzrz	1
+ア	zzpj	46
+イ	zzpj	45
+ウ	zzpj	44
+エ	zzpj	43
+オ	zzpj	42
+カ	zzpj	41
+キ	zzpj	40
+ク	zzpj	39
+ケ	zzpj	38
+コ	zzpj	37
+サ	zzpj	36
+シ	zzpj	35
+ス	zzpj	34
+セ	zzpj	33
+ソ	zzpj	32
+タ	zzpj	31
+チ	zzpj	30
+ツ	zzpj	29
+テ	zzpj	28
+ト	zzpj	27
+ナ	zzpj	26
+ニ	zzpj	25
+ヌ	zzpj	24
+ネ	zzpj	23
+ノ	zzpj	22
+ハ	zzpj	21
+ヒ	zzpj	20
+フ	zzpj	19
+ヘ	zzpj	18
+ホ	zzpj	17
+マ	zzpj	16
+ミ	zzpj	15
+ム	zzpj	14
+メ	zzpj	13
+モ	zzpj	12
+ヤ	zzpj	11
+ユ	zzpj	10
+ヨ	zzpj	9
+ラ	zzpj	8
+リ	zzpj	7
+ル	zzpj	6
+レ	zzpj	5
+ロ	zzpj	4
+ワ	zzpj	3
+ヲ	zzpj	2
+ン	zzpj	1
+ガ	zzpz	28
+ギ	zzpz	27
+グ	zzpz	26
+ゲ	zzpz	25
+ゴ	zzpz	24
+ザ	zzpz	23
+ジ	zzpz	22
+ズ	zzpz	21
+ゼ	zzpz	20
+ゾ	zzpz	19
+ダ	zzpz	18
+ヂ	zzpz	17
+ヅ	zzpz	16
+デ	zzpz	15
+ド	zzpz	14
+バ	zzpz	13
+ビ	zzpz	12
+ブ	zzpz	11
+ベ	zzpz	10
+ボ	zzpz	9
+パ	zzpz	8
+ピ	zzpz	7
+プ	zzpz	6
+ペ	zzpz	5
+ポ	zzpz	4
+ャ	zzpz	3
+ュ	zzpz	2
+ョ	zzpz	1
+ā	zzpy	26
+á	zzpy	25
+ǎ	zzpy	24
+à	zzfy	26
+ō	zzpy	22
+ó	zzpy	21
+ǒ	zzpy	20
+ò	zzpy	19
+ê	zzfy	23
+ē	zzpy	17
+é	zzfy	25
+ě	zzpy	15
+è	zzfy	24
+ī	zzpy	13
+í	zzpy	12
+ǐ	zzpy	11
+ì	zzfy	10
+ǖ	zzpy	9
+ǘ	zzpy	8
+ǚ	zzpy	7
+ǜ	zzpy	6
+ü	zzfy	5
+ū	zzpy	4
+ú	zzpy	3
+ǔ	zzpy	2
+ù	zzfy	20
+А	zzey	33
+Б	zzey	32
+В	zzey	31
+Г	zzey	30
+Д	zzey	29
+Е	zzey	28
+Ё	zzey	27
+Ж	zzey	26
+З	zzey	25
+И	zzey	24
+Й	zzey	23
+К	zzey	22
+Л	zzey	21
+М	zzey	20
+Н	zzey	19
+О	zzey	18
+П	zzey	17
+Р	zzey	16
+С	zzey	15
+Т	zzey	14
+У	zzey	13
+Ф	zzey	12
+Х	zzey	11
+Ц	zzey	10
+Ч	zzey	9
+Ш	zzey	8
+Щ	zzey	7
+ъ	zzey	6
+ы	zzey	5
+ь	zzey	4
+Э	zzey	3
+Ю	zzey	2
+Я	zzey	1
+а	zzey	33
+б	zzey	32
+в	zzey	31
+г	zzey	30
+д	zzey	29
+е	zzey	28
+ё	zzey	27
+ж	zzey	26
+з	zzey	25
+и	zzey	24
+й	zzey	23
+к	zzey	22
+л	zzey	21
+м	zzey	20
+н	zzey	19
+о	zzey	18
+п	zzey	17
+р	zzey	16
+с	zzey	15
+т	zzey	14
+у	zzey	13
+ф	zzey	12
+х	zzey	11
+ц	zzey	10
+ч	zzey	9
+ш	zzey	8
+щ	zzey	7
+ъ	zzey	6
+ы	zzey	5
+ь	zzey	4
+э	zzey	3
+ю	zzey	2
+я	zzey	1
+À	zzfy	26
+É	zzfy	25
+È	zzfy	24
+Ê	zzfy	23
+Î	zzfy	22
+Ï	zzfy	21
+Ù	zzfy	20
+Û	zzfy	19
+Ç	zzfy	18
+à	zzfy	26
+â	zzfy	16
+ä	zzfy	15
+é	zzfy	25
+è	zzfy	24
+ê	zzfy	23
+ë	zzfy	11
+ì	zzfy	10
+î	zzfy	22
+ï	zzfy	21
+ô	zzfy	7
+ö	zzfy	6
+ù	zzfy	20
+û	zzfy	19
+ü	zzfy	5
+œ	zzfy	2
+ç	zzfy	18
+子	bbbb	477	0
+丑	nfd	42804	0
+寅	pgmw	39132	0
+卯	qtbh	39192	0
+辰	dfei	42432	0
+巳	nngn	38334	0
+午	tfj	41827	0
+未	fii	47847	0
+申	jhk	44054	0
+酉	sgd	49607	0
+戌	dgxy	36508	0
+亥	yntw	37804	0
+乾	fjtn	590	0
+☰	zzbg	10
+兑	ukqb	619	0
+☱	zzbg	9
+离	ybmc	855	0
+☲	zzbg	8
+震	kdfe	689	0
+☳	zzbg	7
+巽	nnaw	1	0
+☴	zzbg	6
+坎	fqwy	591	0
+☵	zzbg	5
+艮	vei	204	0
+☶	zzbg	4
+坤	fjhh	576	0
+☷	zzbg	3
+⚊	zzbg	2
+⚋	zzbg	1
+♔	zzxq	12
+♕	zzxq	11
+♖	zzxq	10
+♗	zzxq	9
+♘	zzxq	8
+♙	zzxq	7
+♚	zzxq	6
+♛	zzxq	5
+♜	zzxq	4
+♝	zzxq	3
+♞	zzxq	2
+♟	zzxq	1	国际象棋
+♠	zzpk	8	扑克
+♡	zzpk	7
+♢	zzpk	6
+♣	zzpk	5	梅花
+♤	zzpk	4
+♥	zzpk	3	喜欢
+♦	zzpk	2	扑克
+♧	zzpk	1
+♩	zzwx	7
+♪	zzwx	6
+♫	zzwx	5
+♬	zzwx	4
+♭	zzwx	3
+♮	zzwx	2
+♯	zzwx	1
+㏠	zzrq	31
+㏡	zzrq	30
+㏢	zzrq	29
+㏣	zzrq	28
+㏤	zzrq	27
+㏥	zzrq	26
+㏦	zzrq	25
+㏧	zzrq	24
+㏨	zzrq	23
+㏩	zzrq	22
+㏪	zzrq	21
+㏫	zzrq	20
+㏬	zzrq	19
+㏭	zzrq	18
+㏮	zzrq	17
+㏯	zzrq	16
+㏰	zzrq	15
+㏱	zzrq	14
+㏲	zzrq	13
+㏳	zzrq	12
+㏴	zzrq	11
+㏵	zzrq	10
+㏶	zzrq	9
+㏷	zzrq	8
+㏸	zzrq	7
+㏹	zzrq	6
+㏺	zzrq	5
+㏻	zzrq	4
+㏼	zzrq	3
+㏽	zzrq	2
+㏾	zzrq	1
+㋀	zzyf	12
+㋁	zzyf	11
+㋂	zzyf	10
+㋃	zzyf	9
+㋄	zzyf	8
+㋅	zzyf	7
+㋆	zzyf	6
+㋇	zzyf	5
+㋈	zzyf	4
+㋉	zzyf	3
+㋊	zzyf	3
+㋋	zzyf	1
+■	mwlg	192	三角
+□	zzjh	190
+▢	zzjh	188
+▣	zzjh	186
+▤	zzjh	184
+▥	zzjh	182
+▦	zzjh	180
+▧	zzjh	178
+▨	zzjh	176
+▩	zzjh	174
+▪	zzjh	172	小方块
+▫	zzjh	170	小方块
+▬	zzjh	168
+▭	zzjh	166
+▮	zzjh	164
+▯	zzjh	162
+▰	zzjh	160
+▱	zzjh	158
+▲	mwlg	156	三角
+△	mwlg	154	三角
+▴	zzjh	152
+▵	zzjh	150
+▶	zzjh	148	开始
+▷	zzjh	146
+▸	zzjh	144
+▹	zzjh	142
+►	zzjh	140
+▻	zzjh	138
+▼	mwlg	136	三角
+▽	mwlg	134	三角
+▾	zzjh	132
+▿	zzjh	130
+◀	zzjh	128	倒退
+◁	zzjh	126
+◂	zzjh	124
+◃	zzjh	122
+◄	zzjh	120
+◅	zzjh	118
+◆	mwlg	116	菱形
+◇	mwlg	114	菱形
+◈	zzjh	112
+◉	zzjh	110
+◊	zzjh	108
+○	llll	106	圆
+◌	zzjh	104
+◍	zzjh	102
+◎	mwlg	100	圆
+●	mwlg	98	圆
+◐	zzjh	96
+◑	zzjh	94
+◒	zzjh	92
+◓	zzjh	90
+◔	zzjh	88
+◕	zzjh	86
+◖	zzjh	84
+◗	zzjh	82
+◘	zzjh	80
+◙	zzjh	78
+◚	zzjh	76
+◛	zzjh	74
+◜	zzjh	72
+◝	zzjh	70
+◞	zzjh	68
+◟	zzjh	66
+◠	zzjh	64
+◡	zzjh	62
+◢	dgqe	60	三角
+◣	dgqe	58	三角
+◤	dgqe	56	三角
+◥	dgqe	54	三角
+◦	zzjh	52
+◧	zzjh	50
+◨	zzjh	48
+◩	zzjh	46
+◪	zzjh	44
+◫	zzjh	42
+◬	zzjh	40
+◭	zzjh	38
+◮	zzjh	36
+◯	zzjh	34
+◰	zzjh	32
+◱	zzjh	30
+◲	zzjh	28
+◳	zzjh	26
+◴	zzjh	24
+◵	zzjh	22
+◶	zzjh	20
+◷	zzjh	18
+◸	zzjh	16
+◹	zzjh	14
+◺	zzjh	12
+◻	zzjh	10	中正方形
+◼	zzjh	8	中正方形
+◽	zzjh	6	大正方形
+◾	zzjh	4	大正方形
+◿	zzjh	2
+₁	glll	51	0
+₂	fgll	50	0
+₃	dgll	49	0
+₄	lhll	48	0
+₅	ggll	47	0
+₆	uyll	46	0
+₇	agll	45	0
+₈	wtll	44	0
+₉	vtll	43	0
+₀	zzsb	1
+¹	glll	51	0
+²	fgll	50	0
+³	dgll	49	0
+⁴	lhll	48	0
+⁵	ggll	47	0
+⁶	uyll	46	0
+⁷	agll	45	0
+⁸	wtll	44	0
+⁹	vtll	43	0
+⁰	zzsb	1
+℃	oc	97	摄氏度
+㎡	mmmm	96	单位
+㎥	mmm	95	0
+㎜	mm	94	单位
+㎟	zzdw	93
+㎣	zzdw	92
+Φ	zzdw	91
+％	djwv	2	百分之…
+‰	twpp	89	千分之
+‱	zzdw	88
+°	oooo	87	度
+Å	zzdw	86
+℉	ffll	85	华氏度
+㏃	zzdw	84
+㏆	zzdw	83
+㎈	zzdw	82
+㏄	cccc	81	单位
+㏅	zzdw	80
+㎝	cm	79	单位
+㎠	zzdw	78
+㎤	zzdw	77
+㏈	zzdw	76
+㎗	zzdw	75
+㎙	zzdw	74
+㎓	zzdw	73
+㎬	zzdw	72
+㏉	zzdw	71
+㏊	zzdw	70
+㏋	zzdw	69
+㎐	zzdw	68
+㏌	zzdw	67
+㎄	zzdw	66
+㎅	zzdw	65
+㎉	zzdw	64
+㎏	kg	63	单位
+㎑	zzdw	62
+㏍	zzdw	61
+㎘	zzdw	60
+㎞	km	59	单位
+㏎	km	59	单位
+㎢	zzdw	57
+㎦	zzdw	56
+㎪	zzdw	55
+㏏	zzdw	54
+㎸	kv	53	0
+㎾	kw	52	0
+㏀	zzdw	51
+㏐	zzdw	50
+㏓	zzdw	49
+㎧	zzdw	48
+㎨	zzdw	47
+㎃	zzdw	46
+㏔	zzdw	45
+㎆	zzdw	45
+㎎	mg	43	单位
+㎒	zzdw	42
+㏕	mil	41	单位
+㎖	zzdw	40
+㏖	zzdw	39
+㎫	mpa	38	0
+㎳	zzdw	37
+㎷	zzdw	36
+㎹	zzdw	36
+㎽	zzdw	34
+㎿	zzdw	34
+㏁	mo	32	0
+㎁	zzdw	31
+㎋	zzdw	30
+㎚	zzdw	29
+㎱	zzdw	28
+㎵	zzdw	27
+㎻	zzdw	26
+㏘	zzdw	25
+㎩	papa	24	0
+㎀	papa	24	0
+㎊	zzdw	22
+㏗	zzdw	21
+㏙	ppm	20	0
+㏚	zzdw	19
+㎰	zzdw	18
+㎴	zzdw	17
+㎺	zzdw	16
+㎭	zzdw	15
+㎮	zzdw	14
+㎯	zzdw	13
+㏛	zzdw	12
+㏜	zzdw	11
+㎔	zzdw	10
+㏝	zzdw	9
+㎂	ua	8	0
+㎌	zzdw	7
+㎍	zzdw	6
+㎕	zzdw	5
+㎛	zzdw	4
+㎲	zzdw	3
+㎶	zzdw	4
+㎼	zzdw	1
+⅟	zzfs	2
+½	zzfs	19
+↉	zzfs	1
+⅓	zzfs	18
+⅔	zzfs	17
+¼	zzfs	16
+⅕	zzfs	15
+⅖	zzfs	14
+⅗	zzfs	13
+⅘	zzfs	12
+⅙	zzfs	11
+⅚	zzfs	10
+⅐	zzfs	9
+⅛	zzfs	8
+⅜	zzfs	7
+⅝	zzfs	6
+⅞	zzfs	5
+⅑	zzfs	4
+⅒	zzfs	3
+㈪	zzzk	26
+㈫	zzzk	25
+㈬	zzzk	24
+㈭	zzzk	23
+㈮	zzzk	22
+㈯	zzzk	21
+㈰	zzzk	20
+㈱	sriy	19	株
+㈲	zzzk	18
+㈳	zzzk	17
+㈴	zzzk	16
+㈵	zzzk	15
+㈶	zzzk	14
+㈷	zzzk	13
+㈸	zzzk	12
+㈹	zzzk	11
+㈺	zzzk	10
+㈻	zzzk	9
+㈼	zzzk	8
+㈽	zzzk	7
+㈾	zzzk	6
+㈿	zzzk	5
+㉀	zzzk	4
+㉁	zzzk	3
+㉂	zzzk	2
+㉃	zzzk	1
+㊀	zzzq	53
+㊁	zzzq	52
+㊂	zzzq	51
+㊃	zzzq	50
+㊄	zzzq	49
+㊅	zzzq	48
+㊆	zzzq	47
+㊇	zzzq	46
+㊈	zzzq	45
+㊉	zzzq	44
+㊊	zzzq	43
+㊋	zzzq	42
+㊌	zzzq	41
+㊍	zzzq	40
+㊎	zzzq	39
+㊏	zzzq	38
+㊐	zzzq	37
+㊑	zzzq	36
+㊒	zzzq	35
+㊓	zzzq	34
+㊔	zzzq	33
+㊕	zzzq	32
+㊖	zzzq	31
+㊗	zzzq	30	祝福
+㊘	zzzq	29
+㊙	zzzq	28	秘密
+㊚	zzzq	27
+㊛	zzzq	26
+㊜	zzzq	25
+㊝	zzzq	24
+㊞	zzzq	23
+㊟	zzzq	22
+㊠	zzzq	21
+㊡	zzzq	20
+㊢	zzzq	19
+㊣	ghd	18	带圈汉字
+㊤	zzzq	17
+㊥	zzzq	16
+㊦	zzzq	15
+㊧	zzzq	14
+㊨	zzzq	13
+㊩	zzzq	12
+㊪	zzzq	11
+㊫	zzzq	10
+㊬	zzzq	9
+㊭	zzzq	8
+㊮	zzzq	7
+㊯	zzzq	6
+㊰	zzzq	5
+㉄	zzzq	4
+㉅	zzzq	3
+㉆	zzzq	2
+㉇	zzzq	1
+■	mwlg	192	三角
+□	zzjh	190
+▢	zzjh	188
+▣	zzjh	186
+▤	zzjh	184
+▥	zzjh	182
+▦	zzjh	180
+▧	zzjh	178
+▨	zzjh	176
+▩	zzjh	174
+▪	zzjh	172	小方块
+▫	zzjh	170	小方块
+▬	zzjh	168
+▭	zzjh	166
+▮	zzjh	164
+▯	zzjh	162
+▰	zzjh	160
+▱	zzjh	158
+▲	mwlg	156	三角
+△	mwlg	154	三角
+▴	zzjh	152
+▵	zzjh	150
+▶	zzjh	148	开始
+▷	zzjh	146
+▸	zzjh	144
+▹	zzjh	142
+►	zzjh	140
+▻	zzjh	138
+▼	mwlg	136	三角
+▽	mwlg	134	三角
+▾	zzjh	132
+▿	zzjh	130
+◀	zzjh	128	倒退
+◁	zzjh	126
+◂	zzjh	124
+◃	zzjh	122
+◄	zzjh	120
+◅	zzjh	118
+◆	mwlg	116	菱形
+◇	mwlg	114	菱形
+◈	zzjh	112
+◉	zzjh	110
+◊	zzjh	108
+○	llll	106	圆
+◌	zzjh	104
+◍	zzjh	102
+◎	mwlg	100	圆
+●	mwlg	98	圆
+◐	zzjh	96
+◑	zzjh	94
+◒	zzjh	92
+◓	zzjh	90
+◔	zzjh	88
+◕	zzjh	86
+◖	zzjh	84
+◗	zzjh	82
+◘	zzjh	80
+◙	zzjh	78
+◚	zzjh	76
+◛	zzjh	74
+◜	zzjh	72
+◝	zzjh	70
+◞	zzjh	68
+◟	zzjh	66
+◠	zzjh	64
+◡	zzjh	62
+◢	dgqe	60	三角
+◣	dgqe	58	三角
+◤	dgqe	56	三角
+◥	dgqe	54	三角
+◦	zzjh	52
+◧	zzjh	50
+◨	zzjh	48
+◩	zzjh	46
+◪	zzjh	44
+◫	zzjh	42
+◬	zzjh	40
+◭	zzjh	38
+◮	zzjh	36
+◯	zzjh	34
+◰	zzjh	32
+◱	zzjh	30
+◲	zzjh	28
+◳	zzjh	26
+◴	zzjh	24
+◵	zzjh	22
+◶	zzjh	20
+◷	zzjh	18
+◸	zzjh	16
+◹	zzjh	14
+◺	zzjh	12
+◻	zzjh	10	中正方形
+◼	zzjh	8	中正方形
+◽	zzjh	6	大正方形
+◾	zzjh	4	大正方形
+◿	zzjh	2
+
+## Y 隐私
+
+卢总	hnuk	1

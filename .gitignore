@@ -1,0 +1,56 @@
+# Project exclude paths
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.vscode/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 编译文件
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# 包目录
+*.egg-info/
+dist/
+
+# 依赖目录
+node_modules/
+
+# 环境变量
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 构建输出
+dist/
+build/
+.out/
+.next/
+
+# 隐私备份文件
+*.zip
+*.txt
+*.log
+*.gram
+*.userdb/
+sync/
+installation.yaml
+cn_dicts/*.user.dict.yaml
+cn_dicts/*.txt
+cn_dicts/*.py
+user.*

@@ -50,7 +50,7 @@ build/
 *.userdb/
 sync/
 installation.yaml
-cn_dicts/*.user.dict.yaml
-cn_dicts/*.txt
-cn_dicts/*.py
+dicts/*.user.dict.yaml
+dicts/*.txt
+dicts/*.py
 user.*

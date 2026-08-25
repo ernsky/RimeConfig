@@ -1,0 +1,9 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: pinyin_simp
+version: "2026-01-13"
+import_tables:
+  - dicts/py          # 主词库
+...

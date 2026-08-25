@@ -1,0 +1,478 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: pinyin_simp
+  name: "拼音"
+  version: "2026-01-13"
+  author:
+    - LDMG
+  description: |
+    支持智能拼音输入、英文混输、日期时间快捷输入
+    与五笔方案保持一致的快捷键和标点符号配置
+  dependencies:
+    - English
+
+# ---------- 输入模式开关 ----------
+switches:
+  - name: ascii_mode
+    states: [ 中文, 英文 ]
+  - name: traditionalization
+    states: [ 简体, 繁体 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct          # 中英标点切换
+    states: [ 。，, ．， ]
+  - name: emoji
+    states: [ 💀, 😄 ]
+  - name: pin_cand
+    states: [ 固顶关, 固顶开 ]
+
+# ---------- 引擎核心配置 ----------
+engine:
+  processors:
+    - lua_processor@select_character    # 以词定字
+    - ascii_composer                    # 中英文切换
+    - recognizer                        # 模式识别
+    - key_binder                        # 快捷键绑定
+    - speller                           # 拼写处理
+    - punctuator                        # 标点符号
+    - selector                          # 候选项选择
+    - navigator                         # 光标导航
+    - express_editor                    # 快速编辑
+
+  segmentors:
+    - ascii_segmentor                   # 西文段落
+    - matcher                           # 模式匹配
+    - abc_segmentor                     # 文字段落
+    - punct_segmentor                   # 标点段落
+    - fallback_segmentor                # 后备段落
+
+  translators:
+    - punct_translator                  # 标点翻译
+    - script_translator                 # 主拼音翻译器
+    - lua_translator@date_translator    # 日期时间
+    - lua_translator@number_translator  # 大写数字
+    - table_translator@English          # 英文输入
+
+  filters:
+    - lua_filter@autocap_filter         # 英文自动大写
+    - lua_filter@pin_cand_filter        # 置顶候选项
+    - lua_filter@reduce_english_filter  # 英文降频
+    - simplifier@emoji                  # Emoji转换
+    - simplifier@traditionalize         # 简繁切换
+    - uniquifier                        # 去重
+
+# ---------- 语法模型 ----------
+grammar:
+  language: wanxiang-lts-zh-hans
+  collocation_max_length: 6
+  collocation_min_length: 3
+  collocation_penalty: -14
+  non_collocation_penalty: -6
+  weak_collocation_penalty: -100
+  rear_penalty: -18
+
+# ---------- 主翻译器 ----------
+translator:
+  dictionary: pinyin_simp
+  user_dict: ""
+  enable_user_dict: false
+  core_word_length: 4
+  max_word_length: 7
+  contextual_suggestions: false
+  max_homophones: 8
+  initial_quality: 3
+  spelling_hints: 30
+  always_show_comments: true
+  comment_format:
+    - xform/.*/
+  preedit_format:
+    - xform/7/¹/
+    - xform/8/²/
+    - xform/9/³/
+    - xform/0/⁴/
+
+# ---------- 英文辅助翻译器 ----------
+English:
+  dictionary: English
+  enable_sentence: false
+  enable_user_dict: false
+  initial_quality: 1.5
+  comment_format:
+    - xform/.*//
+
+# ---------- Emoji 转换 ----------
+emoji:
+  option_name: emoji
+  opencc_config: emoji.json
+  inherit_comment: false
+  initial_quality: 1.2
+
+# ---------- 简繁转换 ----------
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json
+
+# ----------- 拼写器 -----------
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  delimiter: " '"
+  algebra:
+    - xform/Ⅰ//  #用于Lua判断输入类型的标记
+    - xform/^([a-z]+)$/$1④/
+    - xform/ā([a-z]*)$/a$1①/
+    - xform/á([a-z]*)$/a$1②/
+    - xform/ǎ([a-z]*)$/a$1③/
+    - xform/à([a-z]*)$/a$1④/
+    - xform/ō([a-z]*)$/o$1①/
+    - xform/ó([a-z]*)$/o$1②/
+    - xform/ǒ([a-z]*)$/o$1③/
+    - xform/ò([a-z]*)$/o$1④/
+    - xform/ē([a-z]*)$/e$1①/
+    - xform/é([a-z]*)$/e$1②/
+    - xform/ě([a-z]*)$/e$1③/
+    - xform/è([a-z]*)$/e$1④/
+    - xform/ī([a-z]*)$/i$1①/
+    - xform/í([a-z]*)$/i$1②/
+    - xform/ǐ([a-z]*)$/i$1③/
+    - xform/ì([a-z]*)$/i$1④/
+    - xform/ū([a-z]*)$/u$1①/
+    - xform/ú([a-z]*)$/u$1②/
+    - xform/ǔ([a-z]*)$/u$1③/
+    - xform/ù([a-z]*)$/u$1④/
+    - xform/ǖ([a-z]*)$/v$1①/
+    - xform/ǘ([a-z]*)$/v$1②/
+    - xform/ǚ([a-z]*)$/v$1③/
+    - xform/ǜ([a-z]*)$/v$1④/
+    - xform/ü/v/
+    - xform/ń([a-z]*)$/n$1②/
+    - xform/ň([a-z]*)$/n$1③/
+    - xform/ǹ([a-z]*)$/n$1④/
+    - xform/ḿ([a-z]*)$/m$1②/
+    - xform/m̀([a-z]*)$/m$1④/
+    - xlit/①②③④/7890
+    - derive/^ng(\d)$/eng$1/
+    - abbrev/^ng(\d)$/ng/
+    - erase/^ng(\d)$/
+    - xform/^n(\d)/en$1/
+    - xform/^m(\d)/me$1/
+    - abbrev/^([zcs]h).+$/$1/  #zh ch sh作为整体
+    - abbrev/^([zcs]h).+(\d)$/$1$2/  #zh ch sh作为整体
+    - derive/([nl])ve(\d)/$1ue$2/  #让üè兼容ue
+    - derive/^([jqxy])v(\d)$/$1u$2/
+    - derive/^([jqxy])u(\d)$/$1v$2/
+    - abbrev/^([qwrtypsdfghjklzxcbnm]).+$/$1/  #不携带元音的声母派生出首字母简码来
+    - abbrev/^([qwrtypsdfghjklzxcbnm]).+(\d)$/$1$2/  #不携带元音的声母派生出首字母简码来+数字声调
+    - abbrev/^([aoe])([ioun])(\d)$/$1/  #携带两个字符的元音首字母派生出简码来
+    - abbrev/^([aoe])([ioun])(\d)$/$1$3/  #携带两个字符的元音首字母派生出简码来+数字声调
+    - derive/(.+)(\d)/$1/
+    - derive/([zcs])h(a|e|i|u|ai|ei|an|en|ou|uo|ua|un|ui|uan|uai|uang|ang|eng|ong)$/h$1$2/  # hzi → zhi
+    - derive/([zcs])h([aeiu])$/$1$2h/  # zih → zhi
+    # ai
+    - derive/^([wghk])ai$/$1ia/  # wia → wai
+    # ia
+    - derive/([qjx])ia$/$1ai/  # qai → qia
+    # ei
+    - derive/([wtfghkz])ei$/$1ie/
+    # ie
+    - derive/([jqx])ie$/$1ei/
+    # ao
+    - derive/([rtypsdghklzcbnm])ao$/$1oa/
+    # ou
+    - derive/([ypfm])ou$/$1uo/
+    # ang
+    - derive/([wrtypsdfghklzcbnm])ang$/$1nag/
+    - derive/([wrtypsdfghklzcbnm])ang$/$1agn/
+    # eng
+    - derive/([wrtpsdfghklzcbnm])eng$/$1wng/
+    - derive/([wrtpsdfghklzcbnm])eng$/$1neg/
+    - derive/([wrtpsdfghklzcbnm])eng$/$1egn/
+    # ing
+    - derive/([qtypdjlxbnm])ing$/$1nig/
+    - derive/([qtypdjlxbnm])ing$/$1ign/
+    # ong
+    - derive/([rtysdghklzcn])ong$/$1nog/
+    - derive/([rtysdghklzcn])ong$/$1ogn/
+    # iao
+    - derive/([qtpdjlxbnm])iao$/$1ioa/
+    - derive/([qtpdjlxbnm])iao$/$1oia/
+    # ui
+    - derive/([rtsghkzc])ui$/$1iu/
+    # iu
+    - derive/([qjlxnm])iu$/$1ui/
+    # ian
+    # - derive/([qtpdjlxbnm])ian$/$1iam/
+    # iang
+    - derive/([qjlxn])iang$/$1aing/
+    - derive/([qjlxn])iang$/$1inag/
+    # ua
+    - derive/([g|k|h|zh|sh])ua$/$1au/
+    # uai
+    - derive/([g|h|k|zh|ch|sh])uai$/$1aui/
+    - derive/([g|h|k|zh|ch|sh])uai$/$1uia/
+    # un
+    - derive/([qrtysdghjklzxc])un$/$1nu/
+    # ue
+    - derive/([nlyjqx])ue$/$1eu/
+    # uang
+    - derive/([g|h|k|zh|ch|sh])uang$/$1aung/
+    - derive/([g|h|k|zh|ch|sh])uang$/$1uagn/
+    - derive/([g|h|k|zh|ch|sh])uang$/$1unag/
+    - derive/([g|h|k|zh|ch|sh])uang$/$1augn/
+    # iong
+    - derive/([jqx])iong$/$1inog/
+    - derive/([jqx])iong$/$1oing/
+    - derive/([jqx])iong$/$1iogn/
+    - derive/([jqx])iong$/$1oign/
+    # 其他
+    - derive/ong$/on/  # lon → long
+    - derive/([tl])eng$/$1en/  # ten → teng
+
+# ---------- 模式识别（邮箱、网址、日期等） ----------
+recognizer:
+  patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    date: "^rq$"
+    time: "^sj$"
+    week: "^xq$"
+    datetime: "^dt$"
+    timestamp: "^ts$"
+
+# ---------- Lua 日期时间翻译器触发词 ----------
+date_translator:
+  date: rq
+  time: sj
+  week: xq
+  datetime: dt
+  timestamp: ts
+
+# ---------- 编辑器绑定 ----------
+editor:
+  bindings:
+    space: confirm
+    Return: commit_raw_input
+    Control+Return: commit_script_text
+    Control+Shift+Return: commit_comment
+    BackSpace: revert
+    Delete: delete
+    Control+BackSpace: back_syllable
+    Control+Delete: delete_candidate
+    Escape: cancel
+
+# ---------- 标点符号映射 ----------
+punctuator:
+  full_shape:
+    ' ' : { commit: ' ' }
+    ',' : { commit: '，' }
+    '.' : { commit: '。' }
+    '<' : [ '《', '〈', '«', '‹' ]
+    '>' : [ '》', '〉', '»', '›' ]
+    '/' : [ '／', '÷' ]
+    '?' : { commit: '？' }
+    ';' : { commit: '；' }
+    ':' : { commit: '：' }
+    '''' : { pair: [ '‘', '』' ] }
+    '"' : { pair: [ '"', '"·' ] }
+    '\' : [ '、', '＼' ]
+    '|' : [ '·', '｜', '§', '¦' ]
+    '`' : '｀'
+    '~' : '～'
+    '!' : { commit: '！' }
+    '@' : [ '＠', '☯' ]
+    '#' : [ '＃', '⌘' ]
+    '%' : [ '％', '°', '℃' ]
+    '$' : [ '￥', '$', '€', '£', '¥', '¢', '¤' ]
+    '^' : { commit: '……' }
+    '&' : '＆'
+    '*' : [ '＊', '·', '・', '×', '※', '❂' ]
+    '(' : '（'
+    ')' : '）'
+    '-' : '－'
+    '_' : '——'
+    '+' : '＋'
+    '=' : '＝'
+    '[' : [ '「', '【', '〔', '［' ]
+    ']' : [ '」', '【', '〕', '］' ]
+    '{' : [ '『', '〖', '｛' ]
+    '}' : [ '』', '〗', '｝' ]
+
+  half_shape:
+    ',' : { commit: '，' }
+    '.' : { commit: '。' }
+    '<' : [ '《', '〈', '«', '‹' ]
+    '>' : [ '》', '〉', '»', '›' ]
+    '/' : [ '、', '/', '／', '÷' ]
+    '?' : { commit: '？' }
+    ';' : { commit: '；' }
+    ':' : { commit: '：' }
+    '''' : { pair: [ '‘', '』' ] }
+    '"' : { pair: [ '"', '"·' ] }
+    '\' : [ '、', '\', '＼' ]
+    '|' : [ '·', '|', '｜', '§', '¦' ]
+    '`' : '`'
+    '~' : [ '~', '～' ]
+    '!' : { commit: '！' }
+    '@' : '@'
+    '#' : '#'
+    '%' : [ '%', '％', '°', '℃' ]
+    '$' : [ '￥', '$', '€', '£', '¥', '¢', '¤' ]
+    '^' : { commit: '……' }
+    '&' : '&'
+    '*' : [ '*', '＊', '·', '・', '×', '※', '❂' ]
+    '(' : '（'
+    ')' : '）'
+    '-' : '-'
+    '_' : '——'
+    '+' : '+'
+    '=' : '='
+    '[' : [ '「', '【', '〔', '［' ]
+    ']' : [ '」', '【', '〕', '］' ]
+    '{' : [ '『', '〖', '｛' ]
+    '}' : [ '』', '〖', '｝' ]
+
+  ascii_style:
+    ',' : { commit: ',' }
+    '.' : { commit: '.' }
+    '<' : '<'
+    '>' : '>'
+    '/' : '/'
+    '?' : { commit: '?' }
+    ';' : { commit: ';' }
+    ':' : { commit: ':' }
+    "'" : "'"
+    '"' : '"'
+    '\' : '\'
+    '|' : '|'
+    '`' : '`'
+    '~' : '~'
+    '!' : { commit: '!' }
+    '@' : '@'
+    '#' : '#'
+    '%' : '%'
+    '$' : '$'
+    '^' : '^'
+    '&' : '&'
+    '*' : '*'
+    '(' : '('
+    ')' : ')'
+    '-' : '-'
+    '_' : '_'
+    '+' : '+'
+    '=' : '='
+    '[' : '['
+    ']' : ']'
+    '{' : '{'
+    '}' : '}'
+
+# ---------- 快捷键绑定 ----------
+key_binder:
+  bindings:
+    - {accept: semicolon, send: 2, when: has_menu}          # ; 选第二候选项
+    - {accept: apostrophe, send: 3, when: has_menu}         # ' 选第三候选项
+    - {accept: Return, send: Shift+Enter, when: composing}  # 回车换行（非上屏）
+    - { when: has_menu, accept: Shift+Tab, send: Page_Up }  # 向上翻页
+    - { when: has_menu, accept: Tab, send: Page_Down }      # 向下翻页
+    - { when: always, accept: Control+Shift+3, toggle: ascii_punct }     # 切换中英标点
+    - { when: always, accept: Control+semicolon, toggle: ascii_punct }   # 切换中英标点
+    - { when: always, accept: Control+Shift+4, toggle: traditionalization } # 切换简繁
+
+# ---------- 过滤器参数配置 ----------
+reduce_english_filter:
+  mode: custom
+  idx: 2
+  words: [
+    aid, ann,
+    bail, bait, bam, band, bans, bat, bay, bend, bent, benz, bib, bid, bien, biz, boc, bop, bos, bud, buf, bach, bench, bush,
+    cab, cad, cain, cam, cans, cap, cas, cef, chad, chan, chap, chef, cher, chew, chic, chin, chip, chit, coup, cum, cunt, cur, couch,
+    dab, dag, dal, dam, dent, dew, dial, diet, dim, din, dip, dis, dit, doug, dub, dug, dunn, don,
+    fab, fax, fob, fog, foul, fur,
+    gag, gail, gain, gal, gam, gaol, ged, gel, ger, guam, gus, gut,
+    hail, ham, hank, hans, hat, hay, heil, heir, hem, hep, hud, hum, hung, hunk, hut, hush,
+    jim, jug,
+    kat,
+    lab, lad, lag, laid, lam, laos, lap, lat, lax, lay, led, leg, lex, liam, lib, lid, lied, lien, lies, linn, lip, lit, liz, lob, lug, lund, lung, lux, lash, loch, lush,
+    mag, maid, mann, mar, mat, med, mel, mend, mens, ment, mil, mins, mint, mob, moc, mop, mos, mot, mud, mug, mum, mesh,
+    nap, nat, nay, neil, nib, nip, noun, nous, nun, nut, nail, nash,
+    pac, paid, pail, pain, pair, pak, pal, pam, pans, pant, pap, par, pat, paw, pax, pens, pic, pier, pies, pins, pint, pit, pix, pod, pop, pos, pot, pour, pow, pub, pinch, pouch,
+    rand, rant, rent, rep, res, ret, rex, rib, rid, rig, rim, rub, rug, rum, runc, runs, ranch,
+    sac, sail, sal, sam, sans, sap, saw, sax, sew, sham, shaw, shin, sig, sin, sip, sis, suit, sung, suns, sup, sur, sus,
+    tad, tail, taj, tar, tax, tec, ted, tel, ter, tex, tic, tied, tier, ties, tim, tin, tit, tour, tout, tum,
+    wag, wand, womens, wap, wax, weir, won,
+    yan, yen,
+    zach
+  ]
+
+long_word_filter:
+  count: 2
+  idx: 4
+
+pin_cand_filter:
+  - q 去 其实 岂不是
+  - w 我 问题 为什么
+  - e 而 而且 二维码
+  - r 人 然后 如果
+  - t 他 同时 特别是
+  - y 有 已经 有没有
+  - sh  是 什么 是不是
+  - ch  出 差点 差不多
+  - o 哦 偶尔 喔
+  - p 配 平时 朋友圈
+  - a 啊 爱好 按理说 阿
+  - s 算 虽然 算不算
+  - d 的 但是 的时候
+  - f 非 发现 非常
+  - g 个 感觉 怪不得
+  - h 和 好的 会不会
+  - j 就 觉得 基本上
+  - k 可 可以 看起来
+  - l 了 理解 了不起
+  - z 在 自己 怎么样
+  - x 小 现在 行不行
+  - c 从 才能 猜不到
+  - zh  这 只是 之所以
+  - b 吧 不是 不知道
+  - n 你 那么 能不能
+  - m 吗 没有 没什么
+  - bu  不
+  - ba  把
+  - wu  无
+  - you 又
+  - shui  谁
+  - yue 越
+  - ye  也
+  - xing  行
+  - fa  发
+  - si  死
+  - chao  超
+  - bei 被 呗
+  - yong  用
+  - jia 加 家
+  - mo  末 摸
+  - zai 再 在
+  - er  儿
+  - yi  已 以 一
+  - gun 滚
+  - chu 处 出
+  - wa  挖 哇
+  - heng  横 哼
+  - qu  区 去
+  - zhe 着 这
+  - qi  其 起
+  - la  拉 啦 辣
+  - lei 类 累
+  - ke  克 可
+  - miao  秒 喵
+  - ming  名 命
+  - fu  副 服
+  - pi  批 皮
+  - tuo 拖 托
+  - liu 流 六
+
+# ---------- 候选菜单外观 ----------
+menu:
+  page_size: 5
+  alternative_select_labels: [ '¹', '²', '³', '⁴', '⁵' ]

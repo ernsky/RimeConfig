@@ -1,0 +1,454 @@
+# cn_dicts/wubi.low.dict.yaml
+---
+name: wubi.low
+version: "2026-08-25"
+sort: by_weight
+dict_grouped: true
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+## 代码
+
+> [!abstract] 真理	abs	1
+> [!attention] 注意	att	1
+> [!bug] bug	bug	1
+> [!caution] 警示	cau	1
+> [!check] 检查	che	1
+> [!cite] 引用	cite	1
+```	co	1
+> [!danger] 危险	dan	1
+``	dm	1
+> [!done] 已完成	done	1
+[^]:	efiy	1
+> [!error] 错误	err	1
+> [!example] 示例	exa	1
+> [!failure] 失败	fai	1
+> [!fail] 失败	fail	1
+> [!faq] 回复	faq	1
+> [!help] 求助	help	1
+> [!hint] 信息	hint	1
+> [!important] 要点	imp	1
+> [!info] 提示信息	info	1
+<!--  -->	iyto	1
+[]()	lj	5
+> [!missing] 丢失	mis	1
+> [!note] 笔记	note	1
+****	qd	1
+> [!question] 疑问	que	1
+> [!quote] 引文	quo	1
+> [!success] 成功	suc	1
+> [!summary] 总结	sum	1
+- [ ]	td	1
+> [!tip] 提示	tip	1
+> [!tldr] 信息	tldr	1
+> [!todo] 待办事项	todo	1
+![]()	tp	5
+> [!warning] 警告	war	1
+
+## 单位
+
+㎝	cm	1
+Φ	dw	1
+℉	ffll	1
+Φ	fhtc	1
+㎏	kg	1
+㎞	km	1
+㏎	km	1
+㎸	kv	1
+㎾	kw	1
+㏑	lnln	1
+㏒	log	1
+㎎	mg	1
+㏕	mil	1
+mL	ml	1
+㎜	mm	1
+㎡	mmmm	1
+㏁	mo	1
+㎫	mpa	1
+℃	oc	1
+°	oooo	1
+㎀	papa	1
+㎩	papa	1
+㏙	ppm	1
+㎂	ua	1
+
+## 字母
+
+Ç	fy	1
+È	fy	1
+É	fy	1
+Ê	fy	1
+Î	fy	1
+Ï	fy	1
+Ù	fy	1
+Û	fy	1
+à	fy	1
+â	fy	1
+ä	fy	1
+ç	fy	1
+è	fy	1
+é	fy	1
+ê	fy	1
+ë	fy	1
+ì	fy	1
+î	fy	1
+ï	fy	1
+ô	fy	1
+ö	fy	1
+ù	fy	1
+û	fy	1
+ü	fy	1
+á	py	1
+
+## 序号
+
+⁷	agll	1
+₇	agll	1
+Ⅶ	agll	1
+ⅶ	agll	1
+⑦	agll	1
+⑺	agll	1
+⒎	agll	1
+❼	agll	1
+〧	agll	1
+㈦	agll	1
+³	dgll	1
+₃	dgll	1
+Ⅲ	dgll	1
+ⅲ	dgll	1
+③	dgll	1
+⑶	dgll	1
+⒊	dgll	1
+❸	dgll	1
+〣	dgll	1
+㈢	dgll	1
+⒄	fgag	1
+⒘	fgag	1
+⒀	fgdg	1
+⒔	fgdg	1
+Ⅻ	fgfg	1
+⑿	fgfg	1
+⒇	fgfg	1
+⒓	fgfg	1
+⒛	fgfg	1
+Ⅺ	fggg	1
+⑾	fggg	1
+⒂	fggg	1
+⒒	fggg	1
+⒖	fggg	1
+Ⅹ	fghl	1
+ⅹ	fghl	1
+⑩	fghl	1
+⑽	fghl	1
+⒑	fghl	1
+❿	fghl	1
+㈩	fghl	1
+⒁	fglh	1
+⒕	fglh	1
+²	fgll	1
+₂	fgll	1
+Ⅱ	fgll	1
+ⅱ	fgll	1
+②	fgll	1
+⑵	fgll	1
+⒉	fgll	1
+❷	fgll	1
+〢	fgll	1
+㈡	fgll	1
+⒃	fguy	1
+⒗	fguy	1
+⒆	fgvt	1
+⒚	fgvt	1
+⒅	fgwt	1
+⒙	fgwt	1
+⁵	ggll	1
+₅	ggll	1
+Ⅴ	ggll	1
+ⅴ	ggll	1
+⑤	ggll	1
+⑸	ggll	1
+⒌	ggll	1
+❺	ggll	1
+〥	ggll	1
+㈤	ggll	1
+¹	glll	1
+₁	glll	1
+Ⅰ	glll	1
+ⅰ	glll	1
+①	glll	1
+⑴	glll	1
+⒈	glll	1
+㈠	glll	1
+❶	glll	1
+〡	glll	1
+⁴	lhll	1
+₄	lhll	1
+Ⅳ	lhll	1
+ⅳ	lhll	1
+④	lhll	1
+⑷	lhll	1
+⒋	lhll	1
+❹	lhll	1
+〤	lhll	1
+㈣	lhll	1
+㊀	qh	1
+㊁	qh	1
+㊂	qh	1
+㊃	qh	1
+㊄	qh	1
+㊅	qh	1
+㊆	qh	1
+㊇	qh	1
+㊈	qh	1
+㊉	qh	1
+㉑	qs	1
+㉒	qs	1
+㉓	qs	1
+㉔	qs	1
+㉕	qs	1
+㉖	qs	1
+㉗	qs	1
+㉘	qs	1
+㉙	qs	1
+㉚	qs	1
+㉛	qs	1
+㉜	qs	1
+㉝	qs	1
+㉞	qs	1
+㉟	qs	1
+㊱	qs	1
+㊲	qs	1
+㊳	qs	1
+㊴	qs	1
+㊵	qs	1
+㊶	qs	1
+㊷	qs	1
+㊸	qs	1
+㊹	qs	1
+㊺	qs	1
+㊻	qs	1
+㊼	qs	1
+㊽	qs	1
+㊾	qs	1
+㊿	qs	1
+ⓐ	qy	1
+ⓑ	qy	1
+ⓒ	qy	1
+ⓓ	qy	1
+ⓔ	qy	1
+ⓕ	qy	1
+ⓖ	qy	1
+ⓗ	qy	1
+ⓘ	qy	1
+ⓙ	qy	1
+ⓚ	qy	1
+ⓛ	qy	1
+ⓜ	qy	1
+ⓝ	qy	1
+ⓞ	qy	1
+ⓟ	qy	1
+ⓠ	qy	1
+ⓡ	qy	1
+ⓢ	qy	1
+ⓣ	qy	1
+ⓤ	qy	1
+ⓥ	qy	1
+ⓦ	qy	1
+ⓧ	qy	1
+ⓨ	qy	1
+ⓩ	qy	1
+⁰	sb	1
+₀	sb	1
+⓪	sb	1
+⓿	sb	1
+⑪	sz	1
+⑫	sz	1
+⑬	sz	1
+⑭	sz	1
+⑮	sz	1
+⑯	sz	1
+⑰	sz	1
+⑱	sz	1
+⑲	sz	1
+⑳	sz	1
+⓫	sz	1
+⓬	sz	1
+⓭	sz	1
+⓮	sz	1
+⓯	sz	1
+⓰	sz	1
+⓱	sz	1
+⓲	sz	1
+⓳	sz	1
+⓴	sz	1
+⁶	uyll	1
+₆	uyll	1
+Ⅵ	uyll	1
+ⅵ	uyll	1
+⑥	uyll	1
+⑹	uyll	1
+⒍	uyll	1
+❻	uyll	1
+〦	uyll	1
+㈥	uyll	1
+⁹	vtll	1
+₉	vtll	1
+Ⅸ	vtll	1
+ⅸ	vtll	1
+⑨	vtll	1
+⑼	vtll	1
+⒐	vtll	1
+❾	vtll	1
+〩	vtll	1
+㈨	vtll	1
+⁸	wtll	1
+₈	wtll	1
+Ⅷ	wtll	1
+ⅷ	wtll	1
+⑧	wtll	1
+⑻	wtll	1
+⒏	wtll	1
+❽	wtll	1
+〨	wtll	1
+㈧	wtll	1
+
+## 日文
+
+℗	fh	1
+あ	ry	1
+い	ry	1
+う	ry	1
+え	ry	1
+お	ry	1
+か	ry	1
+き	ry	1
+く	ry	1
+け	ry	1
+こ	ry	1
+さ	ry	1
+が	rz	1
+ぎ	rz	1
+ぐ	rz	1
+げ	rz	1
+ご	rz	1
+ざ	rz	1
+
+## 标点
+
+——	drkg	1
+
+## 符号
+
+§	abj	1
+￡	amqu	1
+＆	andl	1
+￠	aqfq	1
+€	aqfq	1
+Ω	aqvx	1
+ω	aqvx	1
+﹫	atll	1
+⌒	attk	1
+※	cdft	1
+＞	ddgf	1
+◣	dgqe	1
+◤	dgqe	1
+◥	dgqe	1
+◢	dgqe	1
+％	djwv	1
+＃	fjkg	1
+￥	fqb	1
+＿	gaxg	1
+､	gbkg	1
+、	gbkg	1
+±	ghqm	1
+∝	ghxx	1
+，	gkkg	1
+☆	gqjt	1
+★	gqjt	1
+≠	gtgf	1
+∥	gutf	1
+√	gysv	1
+|	hcxg	1
+｜	hcxg	1
+¨	hkou	1
+…	hkou	1
+‥	hkou	1
+≤	igtg	1
+＜	ihgf	1
+～	iixg	1
+‖	jcuf	1
+＊	jtkg	1
+！	kckg	1
+∵	ldyl	1
+＋	lkg	1
+⊙	lkmi	1
+⊕	lkmi	1
+○	llll	1
+〃	mghh	1
+::	mwbu	1
+■	mwlg	1
+▲	mwlg	1
+▼	mwlg	1
+◆	mwlg	1
+◎	mwlg	1
+△	mwlg	1
+▽	mwlg	1
+◇	mwlg	1
+●	mwlg	1
+№	noll	1
+¤	nqkg	1
+≡	ntgf	1
+≦	oitk	1
+⊥	oitk	1
+≧	oitk	1
+≮	oitk	1
+≯	oitk	1
+⊿	oitk	1
+≒	oitk	1
+∷	oitk	1
+。	qkkg	1
+．	qkkg	1
+｡	qkkg	1
+々	qyi	1
+〱	qyi	1
+〲	qyi	1
+〳	qyi	1
+〴	qyi	1
+〵	qyi	1
+〻	qyi	1
+∴	rnny	1
+＼	rwsa	1
+∽	ssll	1
+℡	tell	1
+＝	tfgf	1
+∮	tkwv	1
+∫	tkwv	1
+｀	tutw	1
+←	tuud	1
+↗	tuud	1
+↘	tuud	1
+↑	tuud	1
+→	tuud	7
+↓	tuud	1
+×	tuxv	1
+‰	twpp	1
+∪	uawy	1
+－	udgt	1
+﹩	ugfq	1
+＄	ugfq	1
+？	ukkg	1
+∩	uqwy	1
+＾	uytw	1
+☉	votk	1
+♀	votk	1
+♂	votk	1
+≌	wtgf	1
+／	wtxg	1
+；	wvkg	1
+＂	xhkg	1
+＇	xhkg	1
+≈	xtgf	1
+∶	xxn	1

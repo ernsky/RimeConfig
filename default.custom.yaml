@@ -1,0 +1,41 @@
+# Rime settings
+# encoding: utf-8
+
+config_version: '2026-01-18'
+
+patch:
+  # 输入方案列表
+  schema_list:
+    - schema: wubi
+    - schema: pinyin_simp
+
+  # 输入方案切换器设置
+  switcher:
+    caption: "【 输入法设置 】"
+    hotkeys:
+      - Control+0
+    option_list_separator: "｜"
+    save_options:
+      - ascii_mode
+      - ascii_punct
+      - traditionalize
+      - emoji
+      - full_shape
+      - continuous_mode
+    fold_options: true
+    abbreviate_options: true
+
+  # 菜单显示改进
+  menu:
+    page_size: 7
+    alternative_select_labels: [ '¹', '²', '³', '⁴', '⁵' , '⁶' , '⁷' ]
+
+  # Lua 模块配置（只需一个文件）
+  lua_processor:
+    - lua/wubi_continuous.lua
+
+  # 拼写器配置（覆盖）
+  speller:
+    alphabet: "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA/"
+    initials: "abcdefghijklmnopqrstuvwxyz;'/"
+    max_length: 30

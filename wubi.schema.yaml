@@ -1,0 +1,305 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: wubi
+  name: "五笔"
+  version: "2024-12-19"
+  author:
+    - Alamo
+  description: |
+    基于 beavailable 编码修改，以86五笔编码为基础，个别码位进行了调整。
+    外挂非常用字及词组，集成单字8105字表与两级词库。
+
+    核心功能：
+    - Z键万能匹配（如：a?c 匹配所有a开头c结尾的编码）
+    - 用户智能调频（4码以上词组自动学习）
+    - 简码保护机制（1-3简码位置固定）
+    - 快捷选词（;选第2项，'选第3项）
+    - Tab/[ ] 翻页，逗号/句号翻页
+    - Ctrl+/ 切换五笔，Ctrl+. 切换拼音
+    - 敲 / 鍵进入拼音反查
+    - 大写字母+数字输入大写财务数字
+    - 输入 rq / sj / xq / dt / ts 快速输出日期时间
+
+  dependencies:
+    - English
+
+# ---------- 输入模式开关 ----------
+switches:
+  - name: ascii_mode
+    states: [ 中, Ａ ]
+    reset: 1                 # 默认英文模式
+  - name: ascii_punct
+    states: [ 。, .  ]
+    reset: 0                 # 默认中文标点
+  - name: traditionalize
+    states: [ 简, 繁 ]
+    reset: 0                 # 默认简体
+  - name: emoji
+    states: [ 💀, 😄 ]
+    reset: 0                 # 默认开启
+  - name: full_shape
+    states: [ 半, 全 ]
+    reset: 0                 # 默认半角
+
+# ---------- 引擎核心配置 ----------
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - lua_processor@submit
+    - lua_processor@manual_segmentation
+    - lua_processor@paging_or_commit
+    - key_binder
+    - lua_processor@select_character
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - history_translator@repeat_last_input   # Z键重复（权重5）
+    - lua_translator@date_translator         # 日期时间
+    - lua_translator@number_translator       # 数字大写
+    # - lua_translator@memory_translator       # 手动造词（已禁用：避免与 table_translator 经 import_tables 加载 wubi.chaos 造成双源重复候选）
+    - table_translator                       # 基础五笔（权重2）
+    - table_translator@English               # 英语输入（权重1.5）
+    - table_translator@emoji                 # Emoji输入（权重1.0）
+
+  filters:
+    - simplifier@tradition
+    - simplifier@emoji
+    - lua_filter@autocap_filter              # 英文自动大写
+    - lua_filter@en_spacer                   # 英文空格
+    - lua_filter@reduce_english_filter       # 英文降频
+    - lua_filter@reduce_emoji_filter         # Emoji降频
+    - lua_filter@pin_cand_filter             # 置顶候选项
+    - uniquifier
+    - lua_filter@sort_filter                 # 终极排序与造词拦截
+
+# ---------- 翻译器配置 ----------
+# 主五笔翻译器（权重2）
+translator:
+  dictionary: wubi
+  db_class: tabledb
+  initial_quality: 2
+  enable_charset_filter: false
+  enable_sentence: true
+  enable_encoder: false
+  encode_commit_history: false
+  max_phrase_length: 4
+  enable_completion: true
+  enable_user_dict: false
+  disable_user_dict_for_patterns:
+    - "^[a-y]{1,3}$"
+    - "^/.*$"
+
+# 英语翻译器（权重1.5）
+English:
+  dictionary: English
+  enable_sentence: false
+  enable_user_dict: false
+  initial_quality: 1.5
+  comment_format:
+    - xform/.*//
+
+# Emoji翻译器（权重1.0）
+emoji:
+  option_name: emoji
+  opencc_config: emoji.json
+  inherit_comment: false
+  initial_quality: 1.0
+
+# Z键重复翻译器（权重5）
+repeat_last_input:
+  input: z
+  size: 1
+  initial_quality: 5
+
+# ---------- 拼写器配置 ----------
+speller:
+  auto_select: true
+  alphabet: "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA"
+  initials: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ;'"
+  max_length: 30
+  algebra:
+    - derive/^(...).$/$1z/
+    - derive/^(..).(.*)$/$1z$2/
+    - derive/^(.).(.*)$/$1z$2/
+
+# ---------- 日期时间翻译器触发词 ----------
+date_translator:
+  date: rq
+  time: sj
+  week: xq
+  datetime: dt
+  timestamp: ts
+
+# ---------- 简繁转换配置 ----------
+tradition:
+  opencc_config: s2hk.json
+  option_name: traditionalize
+
+# ---------- Emoji降频过滤器 ----------
+reduce_emoji_filter:
+  idx: 3
+
+# ---------- 拼音反查配置 ----------
+reverse_lookup:
+  dictionary: pinyin_simp
+  prefix: "/"
+  suffix: "'"
+  tips: [拼音]
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+# ---------- 模式识别配置 ----------
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "^/[a-z]*'?$"          # 拼音反查
+    date: "^rq$"                           # 日期
+    time: "^sj$"                           # 时间
+    week: "^xq$"                           # 星期
+    datetime: "^dt$"                       # 完整时间
+    timestamp: "^ts$"                      # 时间戳
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+    number: "^[A-TV-Z]+[0-9]+$|^[A-TV-Z]+[0-9]+\\.[0-9]+$"
+
+# ---------- 手动造词配置 ----------
+submit:
+  key: "Control+Return"
+
+# ---------- 按键绑定 ----------
+key_binder:
+  import_preset: default
+  select_first_character: 'bracketleft'
+  select_last_character: 'bracketright'
+  bindings:
+    - {when: has_menu, accept: comma, send: Page_Up}
+    - {when: has_menu, accept: period, send: Page_Down}
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: apostrophe, send: 3, when: has_menu}
+    - {accept: Return, send: Shift+Enter, when: composing}
+    - {when: has_menu, accept: Tab, send: Page_Down}
+    - {when: has_menu, accept: Shift+Tab, send: Page_Up}
+    - {when: always, accept: Control+Shift+3, toggle: ascii_punct}
+    - {when: always, accept: Control+semicolon, toggle: ascii_punct}
+    - {when: always, accept: Control+Shift+4, toggle: traditionalize}
+    - {when: always, accept: Control+Shift+5, toggle: continuous_mode}
+    - {when: always, accept: Control+Shift+L, toggle: triple_confirm_learn}
+
+# ---------- 标点符号映射 ----------
+punctuator:
+  full_shape:
+    " " : { commit: " " }
+    "," : { commit: ， }
+    "." : { commit: 。 }
+    "?" : { commit: ？ }
+    "!" : { commit: ！ }
+    ":" : { commit: ： }
+    ";" : { commit: ； }
+    '"' : { pair: ["“", "”"] }
+    "'" : { pair: ["‘", "’"] }
+    "<" : [ 《, 〈, "<" ]
+    ">" : [ 》, 〉, ">" ]
+    "[" : [ 【, 「, 〔, ［, "[" ]
+    "]" : [ 】, 」, 〕, ］, "]" ]
+    "{" : [ 『, 〖, ｛, "{" ]
+    "}" : [ 』, 〗, ｝, "}" ]
+    "(" : [ （, "(" ]
+    ")" : [ ）, ")" ]
+    "*" : [ ＊, ×, ※, "*" ]
+    "_" : [ ——, "_" ]
+    "~" : [ ～, "~" ]
+    "`" : [ ｀, "`" ]
+    "#" : [ ＃, "#" ]
+    "%" : [ ％, "°", "℃", "%" ]
+    "$" : [ ￥, "$", "€", "£" ]
+    "@" : [ ＠, "@" ]
+    "&" : [ ＆, "&" ]
+    "^" : [ ……, "^" ]
+    "|" : [ ·, ｜, "|" ]
+    "\\" : [ "、", "＼", "\\" ]
+    "/" : [ ／, ÷, "/" ]
+    "-" : [ —, "-", "–" ]
+    "=" : [ ＝, "=" ]
+    "+" : [ ＋, "+" ]
+  half_shape:
+    " " : { commit: " " }
+    "," : { commit: ， }
+    "." : { commit: 。 }
+    "?" : { commit: ？ }
+    "!" : { commit: ！ }
+    ":" : { commit: ： }
+    ";" : { commit: ； }
+    '"' : { pair: ["“", "”"] }
+    "'" : { pair: ["‘", "’"] }
+    "<" : [ 《, "<", 〈 ]
+    ">" : [ 》, ">", 〉 ]
+    "[" : "["
+    "]" : "]"
+    "{" : [ "{", ｛, 『, 〖 ]
+    "}" : [ "}", ｝, 』, 〗 ]
+    "(" : [ （, "(" ]
+    ")" : [ ）, ")" ]
+    "*" : "*"
+    "_" : "_"
+    "~" : [ "~", ～ ]
+    "`" : "`"
+    "#" : "#"
+    "%" : "%"
+    "$" : [ ￥, "$", "€", "£" ]
+    "@" : "@"
+    "&" : "&"
+    "^" : [ ……, "^" ]
+    "|" : [ "|", "·", ｜ ]
+    "\\" : "、"
+    "/" : "/"
+    "-" : "-"
+    "=" : "="
+    "+" : "+"
+
+# ---------- 英语词组降频 ----------
+reduce_english_filter:
+  mode: custom
+  idx: 2
+  words: [
+    aid, ann,
+    bail, bait, bam, band, bans, bat, bay, bend, bent, benz, bib, bid, bien, biz, boc, bop, bos, bud, buf,
+    cab, cad, cain, cam, cans, cap, cas, cef, chad, chan, chap, chef, cher, chew, chic, chin, chip, chit, coup, cum, cunt, cur,
+    dab, dag, dal, dam, dent, dew, dial, diet, dim, din, dip, dis, dit, doug, dub, dug, dunn,
+    fab, fax, fob, fog, foul, fur,
+    gag, gail, gain, gal, gam, gaol, ged, gel, ger, guam, gus, gut,
+    hail, ham, hank, hans, hat, hay, heil, heir, hem, hep, hud, hum, hung, hunk, hut,
+    jim, jug,
+    kat,
+    lab, lad, lag, laid, lam, laos, lap, lat, lax, lay, led, leg, lex, liam, lib, lid, lied, lien, lies, linn, lip, lit, liz, lob, lug, lund, lung, lux,
+    mag, maid, mann, mar, mat, med, mel, mend, mens, ment, mil, mins, mint, mob, moc, mod, mop, mos, mot, mud, mug, mum, nail,
+    nap, nat, nay, neil, nib, nip, noun, nous, nun, nut,
+    pac, paid, pail, pain, pair, pak, pal, pam, pans, pant, pap, par, pat, paw, pax, pens, pic, pier, pies, pins, pint, pit, pix, pod, pop, pos, pot, pour, pow, pub,
+    rand, rant, rent, rep, res, ret, rex, rib, rid, rig, rim, rub, rug, rum, runs,
+    sac, sail, sal, sam, sans, sap, saw, sax, sew, sham, shaw, shin, sig, sin, sip, sis, suit, sung, suns, sup, sur, sus,
+    tad, tail, taj, tar, tax, tec, ted, tel, ter, tex, tic, tied, tier, ties, tim, tin, tit, tour, tout, tum,
+    wag, wand, wap, wax, weir, won,
+    yan, yen,
+    zach
+  ]
+
+# ---------- 候选菜单外观 ----------
+menu:
+  page_size: 7
+  alternative_select_labels: [ '¹', '²', '³', '⁴', '⁵', '⁶', '⁷' ]

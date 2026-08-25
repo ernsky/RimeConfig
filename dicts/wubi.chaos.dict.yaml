@@ -1,0 +1,13 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: wubi.chaos             # 瞎编的词库
+version: "2026-08-25"
+sort: by_weight              # original原始词序，by_weight按自定义自重
+dict_grouped: true           # 词库管理应用识别：标记该码表为分组模式
+columns:                     # 码表格式：定义码表以`Tab`分隔出的各列
+  - text                     # 词组
+  - code                     # 编码
+  - weight                   # 权重
+  - stem                     # 备注
+...

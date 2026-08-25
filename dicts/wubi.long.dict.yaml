@@ -1,0 +1,286 @@
+# Rime dictionary: wubi.long
+# encoding: utf-8
+---
+name: wubi.long            # 长编码的词库
+version: "2026-08-25"
+sort: by_weight
+dict_grouped: true
+columns:
+  - text
+  - code
+  - weight
+...
+## 俗语
+
+落花有意，流水无情	aaduiifn	1
+世上无难事，只怕有心人	ahfcgkndnw	1
+萝卜青菜，各有所爱	ahgatdre	1
+苦海无边，回头是岸	aifllujm	1
+若要人不知，除非己莫为	aswdtbjnay	1
+鞠躬尽瘁，死而后已	atnugdrn	1
+出其不意，攻其不备	baduaadt	1
+聪明一世，糊涂一时	bjgaoigj	1
+耳听为虚，眼见为实	bkyhhmyp	1
+取之不尽，用之不竭	bpdnepdu	1
+台上三分钟，台下十年功	chdwqcgfra	1
+鹬蚌相争，渔翁得利	cjsqiwtt	1
+不在其位，不谋其政	ddawdyag	1
+不求有功，但求无过	dfdawfff	1
+三十年河东，三十年河西	dfriadfris	1
+三十六计，走为上计	dfuyfyhy	1
+三天打鱼，两天晒网	dgrpggjm	1
+万事俱备，只欠东风	dgwtkqam	1
+不是鱼死，就是网破	djpgyjmd	1
+不听老人言，吃亏在眼前	dkfwykfdhu	1
+不鸣则已，一鸣惊人	dkmngknw	1
+百足之虫，死而不僵	dlpjgddw	1
+有则改之，无则加勉	dmnpfmlq	1
+不以规矩，不成方圆	dnftddol	1
+不怕一万，就怕万一	dngdyndg	1
+百尺竿头，更进一步	dntugfgh	1
+有福同享，有难同当	dpmydcmi	1
+不入虎穴，焉得虎子	dthpgthb	1
+三个臭皮匠，顶个诸葛亮	dwthaswyay	1
+不经一事，不长一智	dxggdtgt	1
+万变不离其宗	dydyap	1
+远在天边，近在眼前	fdglrdhu	1
+老鼠过街，人人喊打	feftwwkr	1
+无事献殷勤，非奸即盗	fgfrajvvu	1
+老王卖瓜，自卖自夸	fgfrtftd	1
+士别三日，当刮目相待	fkdjithst	1
+城门失火，殃及池鱼	furogeip	1
+救人一命，胜造七级浮屠	fwgweraxin	1
+二人同心，其利断金	fwmnatoq	1
+天有不测风云，人有旦夕祸福	gddimfwdjqpp	1
+玉不琢，不成器	gdgddk	1
+事不关己，高高挂起	gdunyyrf	1
+一不做，二不休	gdwfdw	1
+来者不善，善者不来	gfduufdg	1
+一夫当关，万夫莫开	gfiudfag	1
+一朝被蛇咬，十年怕井绳	gfpjkfrnfx	1
+天下兴亡，匹夫有责	ggiyafdg	1
+一波未平，一波又起	gifggicf	1
+平时不烧香，急来抱佛脚	gjdotqgrwe	1
+一叶障目，不见泰山	gkbhdmdm	1
+一回生，二回熟	gltfly	1
+天网恢恢，疏而不漏	gmnnnddi	1
+严以律己，宽以待人	gntnpntw	1
+一手交钱，一手交货	gruqgruw	1
+天要下雨，娘要嫁人	gsgkvsvw	1
+一着不慎，满盘皆输	gudnitxl	1
+一分耕耘，一分收获	gwddgwna	1
+一个愿打，一个愿挨	gwdrgwdr	1
+一传十，十传百	gwffwd	1
+一人得道，鸡犬升天	gwtucdtg	1
+一言既出，驷马难追	gyvbcccw	1
+眼观六路，耳听八方	hculbkwo	1
+眼不见，心不烦	hdmndo	1
+上不着天，下不着地	hduggduf	1
+战无不胜，攻无不克	hfdeafdd	1
+睁一只眼，闭一只眼	hgkhugkh	1
+眼中钉，肉中刺	hkqmkg	1
+皮之不存，毛将焉附	hpddtugb	1
+旧的不去，新的不来	hrdfurdg	1
+活到老，学到老	igfigf	1
+流水不腐，户枢不蠹	iidyysdf	1
+海内存知己，天涯若比邻	imdtngiaxw	1
+当局者迷，旁观者清	infoucfi	1
+当断不断，反受其乱	iodoreat	1
+满招损，谦受益	irryeu	1
+水可载舟，亦可覆舟	isftysst	1
+少壮不努力，老大徒伤悲	iudvlfdtwj	1
+临阵磨枪，不快也光	jbysdnbi	1
+日有所思，夜有所梦	jdrlydrs	1
+螳螂捕蝉，黄雀在后	jjrjaidr	1
+是可忍，孰不可忍	jsvydsv	1
+明知山有虎，偏向虎山行	jtmdhwthmt	1
+雷声大，雨点小	kfdkhi	1
+吃一堑，长一智	kgltgt	1
+只见树木，不见森林	kmssdmss	1
+只要功夫深，铁杵磨成针	ksafiqsydq	1
+只可意会，不可言传	ksuwdsyw	1
+顺我者昌，逆我者亡	ktfjutfy	1
+顺我者生，逆我者死	ktftutfg	1
+吃着碗里，望着锅里	kudjyuqj	1
+听话听音，刨树刨根	kykuqsqs	1
+只许州官放火，不许百姓点灯	kyypoodydvho	1
+踏破铁鞋无觅处，得来全不费工夫	ldqafettgwdxaf	1
+路遥知马力，日久见人心	letcljqmwn	1
+四体不勤，五谷不分	lwdagwdw	1
+凡事预则立，不预则废	mgcmudcmy	1
+山上无老虎，猴子称大王	mhffhebtdg	1
+以其人之道，还治其人之身	nawpudiawpt	1
+以子之矛，攻子之盾	nbpcabpr	1
+司马昭之心，路人皆知	ncjpnlwxt	1
+尺有所短，寸有所长	ndrtfdrt	1
+以眼还眼，以牙还牙	nhdhnada	1
+以小人之心，度君子之腹	niwpnyvbpe	1
+己所不欲，勿施于人	nrdwqosw	1
+眉头一皱，计上心来	nugqyhng	1
+放下屠刀，立地成佛	ognvufdw	1
+放长线，钓大鱼	otxqdp	1
+精诚所至，金石为开	oyrgqdyg	1
+神不知，鬼不觉	pdtrdi	1
+福无双至，祸不单行	pfcgpdut	1
+宁可玉碎，不为瓦全	psgddygw	1
+穿新鞋，走老路	puaffl	1
+害人之心不可有，防人之心不可无	pwpndsdbwpndsf	1
+祸兮福所倚，福兮福所伏	pwprwpwprw	1
+塞翁失马，焉知非福	pwrcgtjp	1
+儿不嫌母丑，狗不嫌家贫	qdvxnedvpw	1
+金无足赤，人无完人	qflfwfpw	1
+鸟尽弓藏，兔死狗烹	qnxaqgey	1
+留得青山在，不怕没柴烧	qtgmddniho	1
+看菜吃饭，量体裁衣	rakqjwfy	1
+捡了芝麻，丢了西瓜	rbaytbsr	1
+兵马未动，粮草先行	rcffoart	1
+兵来将挡，水来土掩	rgurigfr	1
+靠山吃山，靠水吃水	rmkmriki	1
+失之毫厘，谬以千里	rpydyntj	1
+近朱者赤，近墨者黑	rrffrlfl	1
+挂羊头，卖狗肉	ruufem	1
+白刀子进，红刀子出	rvbfxvbb	1
+授人以鱼，不如授人以渔	rwnpdvrwni	1
+机不可失，时不再来	sdsrjdgg	1
+丁是丁，卯是卯	sjsqjq	1
+桃李不言，下自成蹊	ssdygtdl	1
+棋逢对手，将遇良才	stcrujyf	1
+木秀于林，风必摧之	stssmnrp	1
+树高千丈，叶落归根	sytdkajs	1
+箭在弦上，不得不发	tdxhdtdn	1
+秀才遇到兵，有理说不清	tfjgrdgydi	1
+生死有命，富贵在天	tgdwpkdg	1
+重赏之下，必有勇夫	tipgndcf	1
+千里之堤，溃于蚁穴	tjpfisjp	1
+千里之行，始于足下	tjptvslg	1
+千军易得，一将难求	tpjtgucf	1
+知之为知之，不知为不知	tpytpdtydt	1
+种瓜得瓜，种豆得豆	trtrtgtg	1
+翻手为云，覆手为雨	tryfsryk	1
+得道多助，失道寡助	tuqerupe	1
+各人自扫门前雪，莫管他人瓦上霜	twtruukatwwghk	1
+道不同，不相为谋	udmdsyy	1
+善有善报，恶有恶报	udurgdgr	1
+前事不忘，后事之师	ugdyrgpj	1
+兼听则明，偏信则暗	ukmjwwmj	1
+前怕狼，后怕虎	unernh	1
+差之毫厘，谬以千里	upydyntj	1
+养儿防老，积谷防饥	uqbftwbq	1
+养兵千日，用兵一时	urtjergj	1
+头痛医头，脚痛医脚	uuaueuae	1
+冰冻三尺，非一日之寒	uudnjgjpp	1
+前人栽树，后人乘凉	uwfsrwtu	1
+病从口入，祸从口出	uwktpwkb	1
+道高一尺，魔高一丈	uygnyygd	1
+君子爱财，取之有道	vbembpdu	1
+君子一言，快马一鞭	vbgyncga	1
+刀子嘴，豆腐心	vbkgyn	1
+嫁鸡随鸡，嫁狗随狗	vcbcvebe	1
+既有今日，何必当初	vdwjwnip	1
+好事不出门，坏事传千里	vgdbufgwtj	1
+既来之，则安之	vgpmpp	1
+人不犯我，我不犯人	wdettdew	1
+人在江湖，身不由己	wdiitdmn	1
+人在屋檐下，不得不低头	wdnsgdtdwu	1
+人不可貌相，海水不可斗量	wdsesiidsuj	1
+人不为己，天诛地灭	wdyngyfg	1
+仁者见仁，智者见智	wfmwtfmt	1
+人活脸，树活皮	wiesih	1
+人非圣贤，孰能无过	wjcjycff	1
+欲加之罪，何患无辞	wlplwkft	1
+人心齐，泰山移	wnydmt	1
+欲穷千里目，更上一层楼	wptjhghgns	1
+人之将死，其言也善	wpugaybu	1
+分久必合，合久必分	wqnwwqnw	1
+人生一世，草木一秋	wtgaasgt	1
+但行好事，莫问前程	wtvgauut	1
+人往高处走，水往低处流	wtytfitwti	1
+八仙过海，各显神通	wwfitjpc	1
+任凭风浪起，稳坐钓鱼船	wwmiftwqpt	1
+仇人相见，分外眼红	wwsmwqhx	1
+父母之命，媒妁之言	wxpwvvpy	1
+人为财死，鸟为食亡	wymgqywy	1
+人为刀俎，我为鱼肉	wyvwtypm	1
+公说公有理，婆说婆有理	wywdgiyidg	1
+谋事在人，成事在天	ygdwdgdg	1
+说到曹操，曹操就到	yggrgryg	1
+说一是一，说二是二	ygjgyfjf	1
+麻雀虽小，五脏俱全	yikigeww	1
+说时迟，那时快	yjnvjn	1
+言必信，行必果	ynwtnj	1
+亡羊补牢，犹未为晚	yuppefyj	1
+
+## 口语
+
+基本上	adsgh	1
+太好了	dvbn	1
+太好了	dyvbb	1
+块钱	fnwqf	1
+老实人	fpww	1
+老实人	fxpuw	1
+一方面	goydm	1
+一个人	gww	1
+提示词	rjfiy	24
+什么情况	wftcnu	3
+什么意思	wftcul	31
+
+## 工程
+
+端口	umdk	1
+
+## 热
+
+蒙的全都对，考的全都会	arwfcfrwfw	1
+未经作者授权，禁止转载	fxwfrsshlf	1
+理想很丰满，现实很骨感	gstdigptmd	1
+只要学不死，就往死里学	ksidgytgji	1
+高大上	ydh	1
+高大上	ydhh	1
+
+## 编程
+
+时间戳	junw	4
+时间戳	sjc	4
+
+## 美食
+
+豆花泡馍	gkawiq	1
+
+## 软件
+
+控制台	rprmck	1
+
+## 青云
+
+限速	bvgk	1
+双链	ccql	6
+首席执行官	ceo	1
+在此	dhhx	1
+万次	dnvuq	1
+帮我	dttr	19
+截图	falt	7
+一造	ggrk	7
+一建	ggvf	10
+上传	hhwf	7
+是吧	jgkc	1
+默写	lfpg	1
+账号	mtkg	4
+性价比	nwxx	1
+错题	qajg	4
+多选	qqrq	1
+多选	qqrqdx	1
+所示	rnfi	1
+投资人	ruw	1
+执业	rvog	1
+重启	tgyn	1
+备考	tlfg	1
+第三方	txdgo	1
+前置	uelf	1
+单选	ujrq	1
+好的	vbrq	16
+分部分项	wvukwa	1
+读取	yfbc	7
+语境	ygfu	1
+词库	ynyl	18
+这是	ypjg	9
+义务人	yqtlw	1

@@ -814,6 +814,83 @@ columns:
         env.key = config:get_string(ns .. "/key") or "Control+Return"
     end
 
+    -- 懒加载单字→编码映射（方案B：解析主库 import 的子库，避免依赖 ReverseLookup）
+    -- 取每个汉字的「最短编码」作为首选（简码优先）
+    local function load_char_code_map()
+        if NS.char_code_map then return NS.char_code_map end
+        local map = {}
+        local dict_dirs = { "dicts", "D:/Program Files/Rime/RimeConfig/dicts" }
+        local sub_dicts = {
+            "wubi.word", "wubi.phrase", "wubi.user", "wubi.long", "wubi.chaos"
+        }
+        for _, name in ipairs(sub_dicts) do
+            for _, dir in ipairs(dict_dirs) do
+                local path = dir .. "/" .. name .. ".dict.yaml"
+                local ok, f = pcall(io.open, path, "r")
+                if ok and f then
+                    for line in f:lines() do
+                        if not line:match("^%s*#") and not line:match("^%s*%-%-") and not line:match("^%s*$") then
+                            local text, code = line:match("^(%S+)\t(%S+)")
+                            if text and code then
+                                if text:match("^[一-龥]") or utf8_len(text) == 1 then
+                                    local cur = map[text]
+                                    if not cur or #code < #cur then
+                                        map[text] = code
+                                    end
+                                end
+                            end
+                        end
+                    end
+                    f:close()
+                end
+            end
+        end
+        NS.char_code_map = map
+        return map
+    end
+
+    -- 自动生成词组编码（方案B：解析主库子库建映射，按86五笔词组规则拼接）
+    local function auto_gen_code(phrase, env)
+        if not phrase or phrase == "" then return nil end
+        local map = load_char_code_map()
+        local chars = {}
+        do
+            local i = 1
+            while i <= #phrase do
+                local b = phrase:byte(i)
+                local clen = (b < 0x80) and 1 or (b < 0xE0) and 2 or (b < 0xF0) and 3 or 4
+                table.insert(chars, phrase:sub(i, i + clen - 1))
+                i = i + clen
+            end
+        end
+        local codes = {}
+        for _, ch in ipairs(chars) do
+            local code = map[ch]
+            if not code or code == "" then return nil end
+            if not code:match("^[a-z]+$") then return nil end
+            table.insert(codes, code)
+        end
+        local n = #codes
+        local out = {}
+        if n == 1 then
+            out[1] = codes[1]
+        elseif n == 2 then
+            out[1] = codes[1]:sub(1, 2)
+            out[2] = codes[2]:sub(1, 2)
+        elseif n == 3 then
+            out[1] = codes[1]:sub(1, 1)
+            out[2] = codes[2]:sub(1, 1)
+            out[3] = codes[3]:sub(1, 2)
+        else
+            for i = 1, math.min(n, 4) do
+                out[i] = codes[i]:sub(1, 1)
+            end
+        end
+        local final = table.concat(out):lower()
+        if final:match("^[a-z]+$") then return final end
+        return nil
+    end
+
     local function old_submit(env)
         local engine = env.engine
         local context = engine.context
@@ -825,9 +902,14 @@ columns:
             return 1
         end
         if not cur_code or cur_code == "" then
-            engine:commit_text(" [未捕获编码]")
-            context:clear()
-            return 1
+            local generated = auto_gen_code(last_text, env)
+            if generated then
+                cur_code = generated
+            else
+                engine:commit_text(" [自动编码不可用，请先输入编码]")
+                context:clear()
+                return 1
+            end
         end
 
         local pure_code = string.gsub(cur_code, "`", "")
@@ -923,12 +1005,18 @@ columns:
             elseif key_repr == "Return" or key_repr == "KP_Enter" then
                 local final_code = mode.code
                 local final_phrase = mode.phrase
+                -- 用户未手敲编码 → 尝试自动生成
                 if not final_code or not final_code:match("^[a-z]+$") then
-                    env.engine:commit_text(" [编码需为纯小写字母]")
-                    NS.phrase_mode = nil
-                    context.input = ""
-                    context:clear()
-                    return 1
+                    local generated = auto_gen_code(final_phrase, env)
+                    if generated then
+                        final_code = generated
+                    else
+                        env.engine:commit_text(" [自动编码不可用，请先输入编码]")
+                        NS.phrase_mode = nil
+                        context.input = ""
+                        context:clear()
+                        return 1
+                    end
                 end
                 if not ensure_dict_exists() then
                     env.engine:commit_text(" [词库创建失败]")
@@ -1016,49 +1104,51 @@ do
             prefix = table.concat(NS.manual_segments, "")
         end
 
-        local singles_or_english = {}
-        local phrases = {}
-
+        local cands = {}
+        local rank = 0
         for cand in input:iter() do
+            rank = rank + 1
             local raw_text = cand.text
-            local is_single = false
-            local is_english = raw_text:match("^[a-zA-Z0-9%p%s]+$") ~= nil
-
-            if not is_english then
-                is_single = (utf8_len_local(raw_text) == 1)
+            local ctype = cand.type
+            -- ① exact：完全匹配优先（completion/sentence/user_dict 为联想/补全，非 exact）
+            local is_exact = (ctype ~= "completion" and ctype ~= "sentence" and ctype ~= "user_dict")
+            local ulen = utf8_len_local(raw_text)
+            -- 过匹配淘汰：候选码是输入码的严格前缀且更短 → 丢弃（如输入 lla 时 ll 不显示）
+            local cc = (cand.preedit or ""):gsub(" ", "")
+            local overmatch = false
+            if #cc > 0 and #cc < #clean_code and clean_code:sub(1, #cc) == cc then
+                overmatch = true
             end
-
-            local final_cand = cand
-            if prefix ~= "" then
-                final_cand = cand:to_shadow_candidate(cand.type, prefix .. raw_text, cand.comment)
-            end
-
-            if input_len < 4 then
-                yield(final_cand)
-            else
-                if is_single or is_english then
-                    table.insert(singles_or_english, final_cand)
-                else
-                    table.insert(phrases, final_cand)
+            if not overmatch then
+                local final_cand = cand
+                if prefix ~= "" then
+                    final_cand = cand:to_shadow_candidate(ctype, prefix .. raw_text, cand.comment)
                 end
+                table.insert(cands, { cand = final_cand, ulen = ulen, rank = rank, exact = is_exact })
             end
         end
 
-        if input_len >= 4 then
-            local single_penalty = 0
-            if #phrases < 3 then
-                single_penalty = 10000
+        table.sort(cands, function(a, b)
+            -- ① exact 优先
+            if a.exact ~= b.exact then return a.exact end
+            -- ② length rule（仅在 exact 内比较）
+            if input_len < 3 then
+                -- 短码：单字(ulen==1)优先
+                local sa = (a.ulen == 1) and 0 or 1
+                local sb = (b.ulen == 1) and 0 or 1
+                if sa ~= sb then return sa < sb end
+            elseif input_len >= 4 then
+                -- 长码：词组(ulen>=2)优先
+                local sa = (a.ulen >= 2) and 0 or 1
+                local sb = (b.ulen >= 2) and 0 or 1
+                if sa ~= sb then return sa < sb end
             end
+            -- ③ 库序 rank 保序（wubi > low/English > emoji 由 quality 已决定，这里保持稳定）
+            return a.rank < b.rank
+        end)
 
-            for _, c in ipairs(phrases) do
-                yield(c)
-            end
-
-            for _, c in ipairs(singles_or_english) do
-                local shadow = c:to_shadow_candidate(c.type, c.text, c.comment)
-                shadow.quality = (c.quality or 0) - single_penalty
-                yield(shadow)
-            end
+        for _, c in ipairs(cands) do
+            yield(c.cand)
         end
     end
 
